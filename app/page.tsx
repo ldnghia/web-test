@@ -1,11 +1,9 @@
 /* eslint-disable react/no-danger-with-children */
 /* eslint-disable @typescript-eslint/no-explicit-any */
-"use client";
 import { dataTest } from "@/data";
 import parse from "html-react-parser";
 
 export default function Home() {
-  console.log("dataTest", dataTest);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   // const listQuestion = Object.values(dataTest).map((item: any) => {
   //   item.answers2 = Object.values(item.answers);
