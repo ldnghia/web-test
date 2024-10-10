@@ -21760,3 +21760,8787 @@ export const dataTest5 = {
         "score_q": 1
     }
 }
+
+export const dataTest6 = {
+    "1": {
+        "content": "Trong sơ đồ combo, nhóm combo có thuộc tính \"Free count\"=2 có ý nghĩa gì?",
+        "index": 1,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Miễn phí cho khách hàng 02 combo đầu tiên"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Miễn phí 02 món trong combo đầu tiên"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Miễn phí món combo từ món 02 trở đi"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "2": {
+        "content": "Combo có thể sử dụng \"đơn giá mở\" không?",
+        "index": 2,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "3": {
+        "content": "Có thể sắp xếp thứ tự hiển thị của các chi tiết trong combo hay không?",
+        "index": 3,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "4": {
+        "content": "Chi tiết combo có được gán giá âm hay không?",
+        "index": 4,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "5": {
+        "content": "Khách hàng cần cài đặt một combo như sau: Combo gồm 01 bắp rang (tùy chọn vị) và 01 nước uống lựa chọn (Coca, Sprite). Combo với vị bắp bình thường giá 90.000đ. Combo với vị bắp phô mai có giá 95.000đ. Hệ thống có hỗ trợ cài đặt combo này không?",
+        "index": 5,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "6": {
+        "content": "Một nhóm combo có thể nằm trong bao nhiêu sơ đồ combo?",
+        "index": 6,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "7": {
+        "content": "<p>Nối các mục tương ứng về tính năng:</p>",
+        "index": 7,
+        "type": "match",
+        "answers": {
+            "1": {
+                "1": {
+                    "index": 1,
+                    "content": "<p><strong>Merge combo (Join Combo)</strong></p>",
+                    "match_column": 1
+                },
+                "2": {
+                    "index": 2,
+                    "content": "<p><strong>Combo for change</strong></p>",
+                    "match_column": 1
+                },
+                "3": {
+                    "index": 3,
+                    "content": "<p><strong>Split combo (Divide Combo</strong>)</p>",
+                    "match_column": 1
+                },
+                "4": {
+                    "index": 4,
+                    "content": "<p><strong>Change to combo (Combo assistant)</strong></p>",
+                    "match_column": 1
+                }
+            },
+            "2": {
+                "1": {
+                    "index": 1,
+                    "content": "<p>Có thể thay đổi món trong combo</p>",
+                    "match_column": 2
+                },
+                "2": {
+                    "index": 2,
+                    "content": "<p>Gộp món thành combo</p>",
+                    "match_column": 2
+                },
+                "3": {
+                    "index": 3,
+                    "content": "<p>Tách phần tử combo</p>",
+                    "match_column": 2
+                },
+                "4": {
+                    "index": 4,
+                    "content": "<p>Gợi ý combo cho món ăn</p>",
+                    "match_column": 2
+                }
+            }
+        },
+        "count_correct": 0,
+        "attachments": []
+    },
+    "8": {
+        "content": "Có thể gán thuế suất trực tiếp cho combo hay không?",
+        "index": 8,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "9": {
+        "content": "Khách hàng cần cài đặt một combo như sau: combo có tổng cộng 02 món (01 đồ ăn và 01 đồ uống). Món ăn đươc phép lựa chọn 1 trong danh sách 3 món. Đồ uống được phép lựa chọn 1 trong 2 món (Coca, Sprite). Đồ uống của combo có thể gọi thêm (refill) thỏa thích, không giới hạn. Tính năng combo có hỗ trợ cài đặt được không?",
+        "index": 9,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "10": {
+        "content": "Có thể gán ghi chú (modifier) cho combo hay không?",
+        "index": 10,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "11": {
+        "content": "Chế độ xắp xếp \"Tên\", \"Nhân viên Order\" ảnh hưởng thế nào tới sơ đồ bàn trên máy POS",
+        "index": 11,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các bàn không thỏa mãn sẽ ẩn đi"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không ảnh hưởng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Bàn xắp xếp lại theo thứ tự"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không có tính năng này"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "12": {
+        "content": "Nhân viên thực hiện thao tác ghép bàn A và bàn B. Phát biểu nào sau đây đúng về nghiệp vụ \"Ghép bàn\"?",
+        "index": 12,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là gộp bàn A vào bàn B"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sơ đồ bàn xuất hiện bàn A&B"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mở bàn A hay bàn B đều thấy chung danh sách các món của 2 bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "13": {
+        "content": "Tại màn hình Sơ đồ bàn, nhân viên có thể biết được bàn nào đang có các món ăn theo trọng lượng",
+        "index": 13,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tùy tham số hệ thống"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "14": {
+        "content": "Trên sơ đồ bàn, có cách nào biết được bàn đó được chuyển từ bàn nào hoặc được gộp từ bàn nào về?",
+        "index": 14,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mở tham số hiển thị"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không có thông tin"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dựa vào icon trên bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Trong sơ đồ chi tiết"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "15": {
+        "content": "Tại giao diện sơ đồ bàn, phát biểu nào sau đây đúng khi xem ở chế độ chi tiết?",
+        "index": 15,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có thể hiển thị danh sách order theo thứ tự giá trị order"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có thể hiển thị danh sách order theo nhân viên phục vụ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Có thể hiển thị danh sách order theo thời gian order"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "16": {
+        "content": "Tại giao diện sơ đồ bàn, có mấy chế độ hiển thị",
+        "index": 16,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "4"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "17": {
+        "content": "Tên của bàn trên sơ đồ bàn sẽ là đối tượng nào",
+        "index": 17,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tên bàn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Mã bàn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tên bàn nhập trong sơ đồ bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tùy tham số hệ thống"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "18": {
+        "content": "Ở đâu bạn có thể xem được số lượng khách của một order đang mở?",
+        "index": 18,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Trên sơ đồ bàn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Trong danh mục \"Chi tiết\""
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Vào trong Soạn thảo order"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "19": {
+        "content": "Tại giao diện sơ đồ bàn, phát biểu nào sau đây đúng khi xem ở chế độ chi tiết? (Có thể chọn nhiều đáp án)",
+        "index": 19,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có́ thể lọc hiển thị order theo hạng mục order"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có́ thể lọc hiển thị order theo ghi chú của order"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Có́ thể lọc hiển thị order theo tên chương trình giảm giá đang áp dụng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Có thể lọc hiển thị theo mã thẻ thành viên"
+            }
+        },
+        "count_correct": 4,
+        "attachments": []
+    },
+    "20": {
+        "content": "Khi thực hiện ghép bàn, thì bàn được ghép vào có mất đi trên sơ đồ bàn hay không?",
+        "index": 20,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "21": {
+        "content": "\"Return of Goods\" có có phép rả lại hàng hóa từ các hóa đơn của ngày trước đó (Hóa đơn thuộc về ca chung đã đóng)?",
+        "index": 21,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "22": {
+        "content": "Phát biểu đúng về tính năng \"Danh sách món ngưng bán\" trên POS?",
+        "index": 22,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thiêt lập món ngưng bán dùng chung cho tất cả nhà hàng, món ngưng bán sẽ không hiển thị trên menu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thiết lập các món nhà hàng không bán tạm thời, mỗi nhà hàng cài đặt riêng biệt trên POS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Món đưa vào danh sách ngưng bán đồng thời sẽ được tắt kích hoạt trên máy chủ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "23": {
+        "content": "Khi thực hiện thưởng, phạt nhân viên trên máy POS, thì doanh thu ca thu ngân có ảnh hưởng hay không",
+        "index": 23,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "24": {
+        "content": "\"Giờ vào/ra\" nếu nhân viên chỉ check giờ vào và không check giờ ra thì nhân viên đó sẽ có độ dài ca là bao nhiêu",
+        "index": 24,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "8 tiếng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tùy tham số thiết lập"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "24h"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "không xác định"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "25": {
+        "content": "Phát biểu đúng về tính năng \"Món ăn tồn\" trên POS?",
+        "index": 25,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các món nhà hàng ngưng bán sẽ được thêm vào danh sách này"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Cài đặt số lượng tồn tối thiểu của món ăn, khi bán hàng, số lượng món ăn sẽ được trừ dần."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Món ăn tồn được quản lý trực tiếp từ phần mềm Inventory"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "26": {
+        "content": "Các Visit sử dụng khi nào",
+        "index": 26,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không sử dụng Visit tự tạo ra"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng khi tham số One Order in One Visit được tắt"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khi cần tạo order mới"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "27": {
+        "content": "2 phím chức năng Xem báo cáo & In báo cáo được hiểu như thế nào là đúng?",
+        "index": 27,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "In báo cáo là không được xem. Xem báo cáo là không được in"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "In báo cáo chỉ được 1 báo cáo, Xem báo cáo được nhiều."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "In báo cáo là không được xem. Xem báo cáo là được xem và in"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "28": {
+        "content": "POS có mấy chế độ order ở menu chính?",
+        "index": 28,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "4"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "29": {
+        "content": "Một món ăn đang trong sách sách \"Món ăn bị giới hạn\" Nếu chọn tiếp vào món đó trong danh mục menu thì số lượng tồn sẽ bị ảnh hưởng",
+        "index": 29,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chuyển thành 1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tăng thêm 1"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "không ảnh hưởng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Bớt đi 1"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "30": {
+        "content": "Từ máy POS có thể ra lệnh cho MidServer tải lại dữ liệu masterdata không?",
+        "index": 30,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "31": {
+        "content": "Đăng ký nhân viên là việc làm bắt buộc phải thực hiện mỗi ca làm việc",
+        "index": 31,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Đúng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "32": {
+        "content": "Thao tác nào có thể thực hiện sau khi tạm tính?",
+        "index": 32,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thêm/thay đổi giá trị giảm giá"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thêm/xóa món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chuyển bàn/gộp bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Thanh toán"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "33": {
+        "content": "Giao diện order món có hiển thị menu theo các cách nào?",
+        "index": 33,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hiển thị tên món và đơn giá món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hiển thị theo tên thay thế"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hiển thị mã món ăn, tên rút gọn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "34": {
+        "content": "Mô tả nào sau đây đúng về cơ chế “In kiểm đồ”? (Có thể chọn nhiều đáp án)",
+        "index": 34,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có thể in kiểm đồ bất kỳ thời điểm nào"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "In kiểm đồ nhằm mục đích giúp nghiệm vụ nhà hàng kiểm tra danh sách món khách đã gọi."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Phiếu kiểm đồ thường không hiện số tiền thanh toán để giảm thiểu khả năng gian lận của nhân viên"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "35": {
+        "content": "Nhân viên phục vụ và thu ngân không có quyền xóa món, chỉ có quản lý có quyền xóa món? Để hỗ trợ xóa nhiều món nhanh chống, thực hiện thao tác:",
+        "index": 35,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Sử dụng tính năng \"Đăng nhập tạm thời\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Quẹt thẻ quản lý vào cửa sổ yêu cầu quyền \"Hủy\". Thực hiện nhiều lần thao tác cho đến khi hủy hết món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hủy đăng nhập, đăng nhập tài khoản quản lý"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Phân quyền hủy cho thu ngân, hủy xong hết món sẽ bỏ quyền hủy"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "36": {
+        "content": "Nghiệp vụ POS, thao tác xóa giảm giá áp dụng cho món ăn?",
+        "index": 36,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Ấn chọn vào giảm giá, bầm \"Xóa\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn món đang áp dụng giảm giá và bấm nút \"Nội dung\", ấn chọn giảm giá cần xóa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn món đang áp dụng giảm giá và bấm nút \"Giảm giá\", ấn chọn giảm giá cần xóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "37": {
+        "content": "Trong giao diện soạn thảo order, các thao tác để thêm giảm giá vào order? (Có thể chọn nhiều đáp án)",
+        "index": 37,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thao tác thủ công"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng thẻ giả̉m giá, số điện thoại thành viên, app thành viên"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Sử dụng mã RK7 + nút \"Giảm giá\""
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cài đặt chương trình giảm giá tự động"
+            }
+        },
+        "count_correct": 3,
+        "attachments": []
+    },
+    "38": {
+        "content": "Trong giao diện soạn thảo order, các bước thực hiện thao tác chuyển món từ bàn này sang bàn khác?",
+        "index": 38,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Xóa món ở bàn cũ, order lại món đó vào bàn mới"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "\"Chon \"Tách bàn\" -> Chọn \"Chọn order\", chọn bàn cần chuyển món tới -> Chuyển món ăn cần tách --> Lưu"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Vào order, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không thể chuyển được món từ bàn này sang bàn khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "39": {
+        "content": "Nghiệp vụ POS, sau khi xác nhận order, làm cách nào để thay đổi ghi chú món ăn?",
+        "index": 39,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bấm vào món cần thay đổi ghi chú -> chọn nút \"Nội dung\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ấn chọn vào ghi chú, bầm \"Xóa\" và thêm ghi chú mới"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thay đổi được ghi chú"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "40": {
+        "content": "Trong giao diện soạn thảo order, các cách để chuyển về màn hình \"Thông tin order\" cho phép thay đổi hạng mục order?",
+        "index": 40,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bấm vào nút \"Hạng mục order\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Bấm vào vị trí thời gian mở order gốc trên màn hình"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Bấm vào vị trí tên bàn phía trên màn hình"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "41": {
+        "content": "Phát biểu nào đúng theo tính năng \"Thanh toán\"?",
+        "index": 41,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có thể chọn thanh toán nhanh bằng tiền tệ mặc định"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có thể thanh toán băng nhiều hình thức thanh toán khác nhau"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thanh toán bằng voucher sẽ không có tiền thối lại"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "42": {
+        "content": "Trong giao diện soạn thảo order, các bước thực hiện thao tác tách bàn cần?",
+        "index": 42,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chon \"Tách bàn\" -> Chọn \"Mới\" để tạo order mới -> Chuyển món ăn cần tách --> Lưu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chon \"Tách bàn\" -> Chọn \"Mới\" để tạo order mới -> Chuyển món ăn cần tách --> Lưu\n Vào order mới tạo, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Vào order, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Vào order, ấn \"Gộp bàn\" để chuyển sang bàn cần tách"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "43": {
+        "content": "Trong giao diện soạn thảo order, các cách để nhập món vào order? (Có thể chọn nhiều đáp án)",
+        "index": 43,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thao tác chọn món ăn trong nhóm menu trên màn hình"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng tính năng tìm kiếm món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Sử dụng mã món ăn trong RK7"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Scan barcode để nhập món vào order"
+            }
+        },
+        "count_correct": 4,
+        "attachments": []
+    },
+    "44": {
+        "content": "Nghiệp vụ POS, có mấy thao tác nhập chỉnh sửa số lượng món ăn trước khi xác nhận order?",
+        "index": 44,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "4"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "45": {
+        "content": "Trong giao diện soạn thảo order, phát biểu nào sau đây đúng?",
+        "index": 45,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có thể xem danh sách các món đã order ở chế độ gộp lại."
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có thể xem danh sách các món order chưa lưu ở chế độ gộp lại."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Có phím tính năng hỗ trợ di chuyển con trỏ lên xuống theo thứ tự hoặc chuyển trang trong khu vực hiển thị món đã lưu."
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "46": {
+        "content": "Trên máy POS, báo cáo giao ca thu ngân không chứa các thông tin gì?",
+        "index": 46,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Số tiền giảm giá của từng chương trình"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Doanh thu của từng hình thức thanh toán"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tổng số tiền các bàn chưa đóng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Doanh thu của ca thu ngân đã đóng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "47": {
+        "content": "Phát biểu nào sau đây đúng về hệ thống báo cáo POS? (Có thể chọn nhiều đáp án)",
+        "index": 47,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Báo cáo POS có thể phân quyền xem, truy cập tùy theo chức vụ của nhân viên tại nhà hàng."
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Báo cáo POS không hỗ trợ phân quyền xem/truy cập theo từng chức vụ của nhân viên tại nhà hàng."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Có thể thiết lập nhiều bộ báo cáo khác nhau cho các nhà hàng khác nhau"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Các nhà hàng phải sử dụng chung một bộ báo cáo POS"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "48": {
+        "content": "Trên báo cáo POS, báo cáo nào hỗ trợ cho việc thống kê số lượng món bán hàng ngày cho nhà hàng?",
+        "index": 48,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Báo cáo giao ca cả ngày"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Báo cáo cân đối hệ thống"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Báo cáo món ăn theo hạng mục bar/bếp"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Báo cáo đóng ca chung"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "49": {
+        "content": "<p>Liệt kê 5 báo cáo mà hệ thống POS của Dcorp đang hỗ trợ? (Tự luận)</p>",
+        "index": 49,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "50": {
+        "content": "Báo cáo trên trên POS có thể lọc theo thu ngân, phân nhóm món ăn không?",
+        "index": 50,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "51": {
+        "content": "Trên máy POS, “Báo cáo giao ca thu ngân” thường cung cấp các thông tin gì?",
+        "index": 51,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thông tin doanh thu, thuế, chiết khấu trong ca thu ngân"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chi tiết doanh thu các hình thức thanh toán"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chi tiết số tiền chiết khấu của các chương trình khuyến mại"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "52": {
+        "content": "Trên máy POS, có thể in lại báo cáo giao ca cả ngày sau khi đã đóng ca chung không?",
+        "index": 52,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "53": {
+        "content": "<p>Trên máy POS, khi kết ca sáng, thu ngân in báo cáo giao ca thu ngân, sau đó thanh toán bill, rồi đóng ca thu ngân. Quy trình này đúng hay sai? Diễn giải lý do? (Câu hỏi tự luận)</p>",
+        "index": 53,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "54": {
+        "content": "Trên máy POS, trong báo cáo giảm giá/tăng giá mặc định, cột số lượng có ý nghĩa gì?",
+        "index": 54,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Số lượng bill đã thanh toán áp dụng chương trình giảm giá"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Số lượng order đang mở có chương trình giảm giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Số lần áp dụng chương trình giảm giá"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "55": {
+        "content": "Phát biểu nào sau đây đúng về hệ thống báo cáo POS",
+        "index": 55,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Báo cáo POS có thể hỗ trợ layout A4/A5"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Báo cáo POS chỉ hỗ trợ in layout trên máy in nhiệt, khổ giấy 80mm"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Báo cáo POS có thể được in lại sau khi đóng ca chung"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "56": {
+        "content": "Khi setup dịch vụ in, làm sao biết được máy in bếp thì in món ăn, máy in bar chỉ in món nước?",
+        "index": 56,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dựa theo nhóm menu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dựa theo phân nhóm được gán trong dịch vụ in"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dựa theo tên máy in"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Do mặc định hệ thống"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "57": {
+        "content": "Sự khác nhau giữa In Graphic và In Linemode",
+        "index": 57,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không khác nhau"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Graphic là in dạng hình ảnh, đồ họa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Line mode là chế độ in dòng lệnh"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả A và B đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "58": {
+        "content": "Khách hàng yêu cầu dịch vụ in trệt khác với dịch vụ in lầu 1, thì người dùng cần làm như thế nào?",
+        "index": 58,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo dịch vụ in, sau đó đặt tên cho khác nhau"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo 2 dịch vụ in riêng cho trệt và dịch vụ in cho lầu 1, gán máy in theo yêu cầu khách hàng để phiếu in ra đúng vị trí , kéo sơ đồ sử dụng."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thể tạo được"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "59": {
+        "content": "Khi 1 nhóm item cần in ra ở 3 vị trí bếp khác nhau cùng 1 thời điểm. Setup nào sau đây là đúng?",
+        "index": 59,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không setup được"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo 3 dịch vụ in và chọn máy in tương ứng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo 3 sơ đồ dịch vụ in và chọn máy in tương ứng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả 3 câu đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "60": {
+        "content": "Khi sử dụng mẫu in line mode có cần cài driver máy in không?",
+        "index": 60,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bắt buộc cài driver"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không cần cài driver"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cài cũng được hoặc không cài cũng được"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả A & B đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "61": {
+        "content": "Ỏ 1 thời điểm, 1 dịch vụ in có thể chọn được bao nhiêu phân lớp in?",
+        "index": 61,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "62": {
+        "content": "Khách hàng yêu cầu khi in hóa đơn thì phải ra 2 liên giống nhau, người dùng sẽ làm như thế nào?",
+        "index": 62,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo 2 sơ đồ in khác nhau"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo 2 máy in khác nhau"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Trong thuộc tính Copies, chọn số lượng cần in ra"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không thể làm được"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "63": {
+        "content": "Sơ đồ in có áp dụng theo nhóm menu được không?",
+        "index": 63,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có áp dụng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không áp dụng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tùy trường hợp mà áp dụng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Sơ đồ in chỉ áp dụng cho item, không áp dụng cho nhóm"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "64": {
+        "content": "Phiếu in món ăn có thể setup vừa in ở bếp vừa in ở bar được không?",
+        "index": 64,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Được"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "65": {
+        "content": "Trong trường hợp doanh nghiệp có 2 nhà hàng trong cùng 1 tòa nhà, chung 1 quầy bar, khách hàng yêu cầu sử dụng chung 1 máy in quầy bar cho 2 nhà hàng được không?",
+        "index": 65,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Được, hệ thống POS tại 2 nhà hàng phải chung 1 lớp mạng với máy in đặt quầy bar"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không, bắt buộc phải tạo riêng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "66": {
+        "content": "Ứng dụng của “Hạng mục order” (Order Categories)?",
+        "index": 66,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dùng để phân trung tâm doanh thu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ứng dụng vào mô hình buffet"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Ứng dụng cho mô hình nhà hàng nhiều thuế suất"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "67": {
+        "content": "Tiền tệ khi không được áp dụng chọn trong hạng mục order/Loại order thì như thế nào trên POS?",
+        "index": 67,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hiển thị nhưng không thể thao tác chọn."
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hiển thị và có thể thao tác chọn."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không hiển thị tiền tệ trên POS."
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không hiển thị trên POS nhưng có thể sử dụng cho order bằng cách khác."
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "68": {
+        "content": "Để giới hạn 1 OrderCategories hiển thị chỉ được sử dụng cho 1 nhóm nhân viên nào đó, bạn cần làm gì?",
+        "index": 68,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Kéo sơ đồ sử dụng, chọn nhóm nhân viên"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo quyền, gắn quyền vào mục quyền truy cập và phân quyền cho nhóm nhân viên"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thể phân quyền Order categories"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Câu A & B đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "69": {
+        "content": "Hạng mục order không có thuộc tính này?",
+        "index": 69,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giới hạn quyền truy cập"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Loại order mặc định"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giới hạn tiền tệ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giới hạn nhóm kinh doanh"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "70": {
+        "content": "Để áp dụng không tính service charge 5% cho Order type \"take away\", thì thao tác nào sau đây là đúng?",
+        "index": 70,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Trong quy tắc thuế, chọn order type \"take away\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không chọn được thuế cho Order type"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn order type \"take away\", chọn nhóm thuế"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "71": {
+        "content": "Có 2 OrderCategories là \"oc_Alacarte\" và \"oc_Buffet\" sử dụng 2 đơn giá tương ứng là \"pt_Alacarte\" và \"pt_Buffet\" thì đáp án nào sau đây là đúng",
+        "index": 71,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không sử dụng được đơn giá theo từng loại OrderCategories"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Kéo sơ đồ sử dụng OrderCategories tương ứng với từng loại đơn giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Kéo sơ đồ sử dụng đơn giá tương ứng với từng loại ordercategories"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chỉ áp dụng được 1 đơn giá cho 2 ordercategories"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "72": {
+        "content": "Để sử dụng Order Type (Take away) cho 1 nhà hàng, thao tác nào sau đây là đúng",
+        "index": 72,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Kéo sơ đồ sử dụng order type, chọn nhà hàng áp dụng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Trong thuộc tính order type, chọn nhà hàng sử dụng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thể sử dụng order cho nhà hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Trong thuộc tính nhà hàng, chọn order type \"take away\""
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "73": {
+        "content": "Quy tắc áp dụng hạng mục order trong sơ đồ sử dụng như thế nào?",
+        "index": 73,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Từ dưới lên trên, từ trái qua phải."
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Từ trên xuống dưới, từ phải qua trái."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Từ dưới lên trên,từ phải qua trái."
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Từ trên xuống dưới, từ trái qua phải."
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "74": {
+        "content": "Loại order không có thuộc tính này?",
+        "index": 74,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giới hạn quyền truy cập"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Loại order mặc định"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giới hạn tiền tệ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giới hạn nhóm kinh doanh"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "75": {
+        "content": "Để giới hạn hình thức thanh toán Grab chỉ được áp dụng cho các bàn ở sơ đồ bàn \"Delivery\", ta có thể sử dụng tính năng gì? (Có thể chọn nhiều đáp án)",
+        "index": 75,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhóm kinh doanh"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Loại order"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hạng mục order"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Schedule"
+            }
+        },
+        "count_correct": 3,
+        "attachments": []
+    },
+    "76": {
+        "content": "Tham số \"Change to combo\" của một món ăn có thể thiết lập với mấy Combo",
+        "index": 76,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là số lượng combo mà món ăn tham gia vào"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chỉ 1"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tùy phiên bản"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "77": {
+        "content": "Một menu item có thể gắn bao nhiêu mã vạch",
+        "index": 77,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không giới hạn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "1"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "2"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tùy phiên bản"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "78": {
+        "content": "Thuộc tính \"Thời gian chế biến\" trong menu item có ý nghĩa gì?",
+        "index": 78,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thời gian item in vào bếp"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thời gian item hiển thị trên KDS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thời gian chế biến của item"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không có thuộc tính này"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "79": {
+        "content": "Trong RK7 manager, Một menuitem có thể gắn được bao nhiêu đơn giá?",
+        "index": 79,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "80": {
+        "content": "Trong RK7 manager, Tính năng nào cho phép nhập số thập phân cho số lượng của menu item?",
+        "index": 80,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhập giá trị cho thuộc tính “Độ chính xác của số lượng”"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập giá trị cho thuộc tính “Xác minh số lượng”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cả A và B đều đúng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả A và B đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "81": {
+        "content": "Trong RK7 manager, Tính năng nào cho phép menu item order theo trọng lượng?",
+        "index": 81,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn giá trị “Suất ăn tính theo trọng lượng” trong thuộc tính “Phương thức tính giá”"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn giá trị “Theo cái (suất ăn cố định)” trong thuộc tính “Phương thức tính giá”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn giá trị “Theo liều lượng chuẩn” trong thuộc tính “Phương thức tính giá”"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn giá trị “Theo suất ăn chuẩn” trong thuộc tính “Phương thức tính giá”"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "82": {
+        "content": "Trong RK7 manager, Tính năng nào cho phép order menu item thành từng dòng riêng biệt",
+        "index": 82,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn giá trị “Đăng nhập” trong thuộc tính “Add Line Mode”"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn giá trị “Thêm dòng” trong thuộc tính “Add Line Mode”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn giá trị “Bổ sung” trong thuộc tính “Add Line Mode”"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn giá trị “Dòng riêng” trong thuộc tính “Add Line Mode”"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "83": {
+        "content": "Thuộc tính \"Công thức chế biến\" của menuitem có chức năng gì?",
+        "index": 83,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là định lượng của item, bán sẽ trừ hàng theo định lượng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Là 1 ghi chú về công thức để hiển thị trên màn hình POS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Là 1 ghi chú về công thức để hiển thị trên màn hình KDS"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Menu item không có thuộc tính \"Công thức chế biến\""
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "84": {
+        "content": "Mội menu item có thể gắn trực tiếp vào nhóm kinh doanh không?",
+        "index": 84,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không được, phải thông qua phân lớp classfication"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có thế gắn trực tiếp"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cả A, B đều đúng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả A & B đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "85": {
+        "content": "Trong thuộc tính menu item. Ý nghĩa của tham số tồn tối thiểu trên món ăn là gì",
+        "index": 85,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không thể bán khi số lượng món ăn tồn thấp hơn đó đó"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Món ăn sẽ được quản lý tồn trên POS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Số lượng tồn hàng ngày sẽ là số đó"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Kho hàng phải nhập thêm hàng nếu số tồn thấp hơn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "86": {
+        "content": "Tính năng mã vạch của menu item được hiểu như nào là đúng?",
+        "index": 86,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không có mã vạch"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Mã vạch chỉ có thể là số"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mã vạch có thể là số hoặc chữ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Trong menu item có thể tự tạo ra mã vạch"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "87": {
+        "content": "Trong RK7 manager, Một menuitem có thể gắn được nhóm thuế theo từng nhà hàng khác nhau được không?",
+        "index": 87,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Được"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Item không có nhóm thuế"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Item chỉ có duy nhất 1 nhóm thuế dùng chung"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "88": {
+        "content": "Trong RK7 manager, Thuộc tính “Schedule” của menu item có chức năng gì?",
+        "index": 88,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Điều chỉnh giá bán của menu item cho tất cả nhà hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Điều chỉnh số lượng menu item cho tất cả nhà hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Điều chỉnh thời gian theo giai đoạn của menu item cho tất cả nhà hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "89": {
+        "content": "Phát biểu nào sau đây là đúng về phân lớp menu (Menu Classifications)? (Có thể chọn nhiều đáp án)",
+        "index": 89,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Một món ăn có thể nằm ở nhiều hạng mục trong cùng một phân lớp."
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Một món ăn chỉ nằm ở một hạng mục trong cùng một phân lớp."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Một món ăn có thể nằm ở nhiều hạng mục khác nhau ở nhiều phân lớp khác nhau"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Một món ăn chỉ có thể nằm ở một hạng mục của một phân lớp, không thể nằm ở hạng mục khác ở phân phân lớp khác."
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "90": {
+        "content": "Đối tượng nào sau đây không link với Classifications",
+        "index": 90,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giảm giá"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhóm kinh doanh"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dịch vụ in"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đơn giá"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "91": {
+        "content": "Trong Classifications, sử dụng phân lớp hay hạng mục classification để kết kết nối vào nhóm kinh doanh",
+        "index": 91,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Phân lớp"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hạng mục"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cả A,B đều đúng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả A & B đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "92": {
+        "content": "Khi phân lớp tích vào thuộc tính \"Grouping Required\", có ý nghĩa gì?",
+        "index": 92,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các phân lớp sẽ nhóm lại trên RK7manager"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Các phân lớp sẽ nhóm lại trên báo cáo"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Yêu cầu món ăn bắt buộc phải gán phân lớp này"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "93": {
+        "content": "Một phân lớp Classifications có thể gắn được bao nhiêu chương trỉnh giảm giá",
+        "index": 93,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không giới hạn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không gắn vào được giảm giá"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "94": {
+        "content": "Trong RK7 manager, một menu item có thể chọn bao nhiêu phân lớp?",
+        "index": 94,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chỉ 1 phân lớp menu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tối đa 2 phân lớp menu"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tối đa 3 phân lớp menu"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn phân lớp menu được chọn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "95": {
+        "content": "Có thể sử dụng phân lớp Classifications để phân nhóm cho Modifier được không",
+        "index": 95,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Sử dụng được"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không sử dụng được"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Được, nhưng hạn chế về phân nhóm"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chỉ áp dụng cho Modifier có giá"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "96": {
+        "content": "Phân lớp (Menu Classifications) có giới hạn số lượng tạo bao nhiêu?",
+        "index": 96,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "30"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "40"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "50"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Lớn hơn 50"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "97": {
+        "content": "Thuộc tính nào là thuộc tính của Phân lớp (Menu Classifications) (Có thể chọn nhiều đáp án)",
+        "index": 97,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Grouping Required"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Open Price"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Allow repurchasing"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Use In Reports"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "98": {
+        "content": "<p>Mô tả tính năng của phân lớp (Menu Classifications) hỗ trợ được các vấn đề gì? (Câu hỏi tự luận)</p>",
+        "index": 98,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "99": {
+        "content": "Trên phần mềm RK7 Manager, Vào bộ selector nào để setup các tính năng liên quan đến thanh toán?",
+        "index": 99,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Selector Chính"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Selector Linh Tinh"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Selector tác vụ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Selector tác vụ, bàn phím"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "100": {
+        "content": "Khi khách hàng yêu cầu là nhân viên order sử dụng bộ lựa chọn tiếng Việt, quản lý sử dụng bộ lựa chọn tiếng Anh, thì setup cách nào nhanh nhất?",
+        "index": 100,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo 2 bộ lựa chọn Tiếng Anh – Tiếng Việt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng ngôn ngữ thay thế cho người dùng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thể nào tạo được"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "A và B đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "101": {
+        "content": "Trên phần mềm RK7 Manager, tính năng selector có thể setup phân quyền theo bàn được không?",
+        "index": 101,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chỉ phân quyền được theo POS"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chỉ phân quyền được theo khu vực"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chỉ phân quyền được theo nhóm nhân viên"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "A,B,C đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "102": {
+        "content": "Trên phần mềm RK7 Manager, tính năng selector có thể setup phân quyền theo nhân viên được không?",
+        "index": 102,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Được"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không được"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chỉ phân quyền được theo nhóm nhân viên"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chỉ phân quyền được theo nhà hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "103": {
+        "content": "Tính năng selector chính giúp ích gì cho vận hành dưới nhà hàng",
+        "index": 103,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Quản lý doanh thu nhanh chóng hơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Quản lý kho thuận tiện hơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cập nhật và thay đổi menu nhanh chóng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "A,B,C đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "104": {
+        "content": "Trong tác vụ selector, để chuyển về giao diện hiển thị menu thì chọn tác vụ nào sau đây",
+        "index": 104,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chuyển món ăn về bình thường"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chuyển tới selector món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chuyển tới selector"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không có tác vụ này"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "105": {
+        "content": "Khi khách hàng có yêu cầu sắp xếp lại menu, vị trí nút bấm ngay lập tức mà không muốn ảnh hưởng gián đoạn đến việc order của nhân viên phục vụ, vậy cần làm gì để đúng với yêu cầu khách hàng?",
+        "index": 105,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tắt đồng bộ rồi tiến hành chỉnh sửa"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Đợi hết giờ hoạt động nhà hàng rồi chỉnh sửa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo bộ lựa chọn riêng theo yêu cầu, sau đó đặt thời gian sử dụng cho bộ lựa chọn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Bắt buộc phải ngưng order mới chỉnh sửa được"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "106": {
+        "content": "Trong RK7, phát biểu nào sau đây đúng về tính năng selector?",
+        "index": 106,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các nhà hàng khác nhau có thể sử dụng selector khác nhau"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Để vẽ lại menu món ăn, ta vào tính năng Selector → Selector Hóa đơn:menu ngữ cảnh"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Selector “Hóa đơn: selector chính” hỗ trợ việc thay đổi giao diện menu chính trên POS"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả phương án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "107": {
+        "content": "Thuộc tính Model (mẫu in) trong selector có chức năng gì?",
+        "index": 107,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dùng để soạn thảo form báo cáo"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dùng để thiêt kế form in"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dùng để vẽ các đối tượng trong selector theo ý người dùng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "108": {
+        "content": "Trong tính năng selector, phát biểu nào sau đây đúng nhất về nhóm selector “người dùng”",
+        "index": 108,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hỗ trợ vẽ lại seletor chính của món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hỗ trợ vẽ selector các nút phím hàm cho người dùng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cung cấp cho người dùng các nhóm selector có thể tùy chỉnh theo các nghiệp vụ mong muốn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nhóm selector “người dùng” có thể tạo không giới hạn số lượng nhóm"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "109": {
+        "content": "Nhà hàng cài đặt \"phí dịch vụ 5%\" và thuế \"VAT 10%\". Để thuế VAT tính sau cùng, ta cần?",
+        "index": 109,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Cài đặt nhóm thuế \"phí dịch vụ 5%\" nằm trên nhóm thuế \"VAT 10%\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Điền tham số độ ưu tiên cho từng thuế"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cài đặt thuế \"phí dịch vụ 5%\" nằm trên thuế \"VAT 10%\""
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "110": {
+        "content": "Trong thuế, thuộc tính “Thêm vào đơn giá” có ý nghĩa gì?",
+        "index": 110,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dùng để cài đặt cách tính thuế thêm vào đơn giá khi thanh toán hoặc thuế đã bao gồm trong đơn giá món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dùng để thêm thuế vào giá món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dùng để thêm đơn giá"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "111": {
+        "content": "Món Cơm chiên có thuế 10%, nhà hàng tính thêm 5% phí dịch vụ. Thuế chưa bao gồm trong giá, giá trị thanh toán trên hóa đơn của món Cơm chiên 115.500đ. Hỏi thuế và phí dịch vụ bằng bao nhiêu?",
+        "index": 111,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "10.000đ và 5.000đ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "11.000đ và 5.000đ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "10.500 và 5.000đ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "10.000đ và 10.000đ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "112": {
+        "content": "Thay đổi về thuế sẽ được đồng bộ tại POS vào thời điểm nào?",
+        "index": 112,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thay đổi liền trên POS"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sau khi thực hiện thao tác đóng ca chung"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Sau khi thanh toán bill"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Qua ngày hôm sau"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "113": {
+        "content": "<p>Trong thuế, nhà hàng áp dụng chính sách thuế 10% cho bia, 8% món ăn và phí dịch vụ 5% cho tổng bill. Thuế chưa bao gồm trong giá.</p><p>Bàn có 01 Cơm chiên giá 100.000đ/đĩa và 2 chai bia Heineiken giá 40.000đ/chai.</p><p>Tổng thanh toán của bill bằng bao nhiều?</p>",
+        "index": 113,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "114": {
+        "content": "Trong phần thuế suất, tỷ lệ thuế 10% và thuộc tính “Thêm vào đơn giá” được tắt kích hoạt. Với món cơm chiên giá 100.000đ thì thuế món cơm chiên là bao nhiêu?",
+        "index": 114,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "10000đ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "9090,91đ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "11000đ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "9000đ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "115": {
+        "content": "Trong phần thuế suất, tỷ lệ thuế 10% và thuộc tính “Thêm vào đơn giá” được kích hoạt. Với món cơm chiên giá 100.000đ thì thuế món cơm chiên là bao nhiêu?",
+        "index": 115,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "10.000đ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "9.090.91đ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "11.000đ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "116": {
+        "content": "Tính ra giá trị service charge cho giá trị bill bên dưới:\n Tổng giá trị hàng hóa trước thuế: 1,000,000 VND\n Service Charge: 5%\n VAT: 10%",
+        "index": 116,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1155000"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "1210000"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "1105000"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả điều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "117": {
+        "content": "Các cách tính service charge sau đây, cách nào không phù hợp về thuế?",
+        "index": 117,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Service charge được tính trên tổng giá trị tiền hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Service charge được tính sau giảm giá, trước thuế"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Service charge được tính trên tổng giá trị thanh toán"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "118": {
+        "content": "Câu nào sai khi nói về thuế suất?",
+        "index": 118,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không thể xóa thuế suất được sử dụng bởi chính sách thuế đang hoạt động"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không thể hủy bỏ thuế suất đang hoạt động. Trước tiên, bạn nên hủy kích hoạt thuế và sau đó xóa thuế suất của nó"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khi tạo thuế suất, bạn nên thay đổi giá trị ,thành giá trị bắt buộc, sau đó kích hoạt tỷ lệ. Khi tỷ giá được kích hoạt, không thể thay đổi giá trị của nó"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tắt kích hoạt được thuế suất"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "119": {
+        "content": "Câu nào sai khi nói về thuế suất?",
+        "index": 119,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không thể xóa thuế suất được sử dụng bởi chính sách thuế đang hoạt động"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không thể hủy bỏ thuế suất đang hoạt động. Trước tiên, bạn nên hủy kích hoạt thuế và sau đó xóa thuế suất của nó"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khi tạo thuế suất, bạn nên thay đổi giá trị ,thành giá trị bắt buộc, sau đó kích hoạt tỷ lệ. Khi tỷ giá được kích hoạt, không thể thay đổi giá trị của nó"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tắt kích hoạt được thuế suất"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "120": {
+        "content": "Thay đổi về thuế sẽ được đồng bộ tại POS vào thời điểm nào?",
+        "index": 120,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thay đổi liền trên POS"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sau khi thực hiện thao tác đóng ca chung"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Sau khi thanh toán bill"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Qua ngày hôm sau"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "121": {
+        "content": "Cách nào sau đây là nhanh nhất để set tất cả đơn giá của món chi tiết combo có giá trị bằng 0",
+        "index": 121,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn từng món và set giá bằng 0"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Quét tất cả món và set đơn giá bằng 0"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dùng công thức set giá bằng 0 trong thuộc tính phần từ combo theo từng loại đơn giá"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chi tiết combo không thể set giá bằng 0"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "122": {
+        "content": "Khi sử dụng 1 đơn giá có 2 điều kiện là Nhà hàng và Concept thì điều kiện nào áp dụng trước.",
+        "index": 122,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Concept là nhóm lớn, áp dụng trước"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhà hàng là điều kiện thấp nhất, áp dụng trước"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đơn giá không áp dụng cho concept"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không thể chọn song song giữa concept và nhà hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "123": {
+        "content": "Trong RK7 manager, đơn giá của món bị mờ, không chỉnh sửa giá được, nguyên nhân do? (Có thể chọn nhiều đáp án)",
+        "index": 123,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Đơn giá được tính theo công thức"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Đơn giá được gán theo hằng số"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đơn giá được nhâp manual"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Món ăn có đơn giá mở"
+            }
+        },
+        "count_correct": 0,
+        "attachments": []
+    },
+    "124": {
+        "content": "Các cách để tạo giá trị cho một đơn giá mới?",
+        "index": 124,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Theo công thức"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập thủ công"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hằng số"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "125": {
+        "content": "Bàn A đơn giá pepsi la 20.000đ. Bàn VIP đơn giá pepsi là 25.000 đ.\n  Nếu chuyển pepsi tư bàn A vào bàn VIP thì đơn giá pepsi lúc này là bao nhiêu?",
+        "index": 125,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "25000"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "20000"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thể chuyển vì 2 bàn sử dụng 2 đơn giá khác nhau"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tùy trường hợp thiết lập tham số \"giữ giá khi chuyển món\" mà giá là 20.000 hoặc 25000"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "126": {
+        "content": "Ở cùng 1 thời điểm, có bao nhiêu loại đơn giá được áp dụng trong cùng 1 order.",
+        "index": 126,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "127": {
+        "content": "Phát biểu nào sau đây sai về đơn giá?",
+        "index": 127,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tất cả món ăn đều phải áp dụng chung một cách tính giá (công thức, nhập tay, hằng số)"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Đơn giá của ghi chú (modifier) có thể gán âm"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đơn giá của chi tiết combo có thể để trống"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Có thể dùng công thức để sao chép giá của chi tiết combo từ đơn giá này sang đơn giá khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "128": {
+        "content": "Trong cùng 1 order, trên cùng 1 item có trường hợp 2 đơn giá khác nhau không",
+        "index": 128,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không. Phải tách 2 item riêng biệt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có. Sử dụng tính năng thứ tự giao theo loại đơn giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cả A, B đều sai"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cả A, B đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "129": {
+        "content": "Trên máy POS, thao tác nào sau đây là đúng để thay đổi giá của món ăn?",
+        "index": 129,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn vào món ăn → chọn “Đơn giá mở” → Nhập giá món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn “Đơn giá mở” → Nhập giá món → Chọn vào món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn món ăn → Nhập giá món → Chọn “Đơn giá mở”"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "130": {
+        "content": "Để sử dụng 1 đơn giá cho 1 sơ đồ bàn, đáp án nào sau đây là đúng",
+        "index": 130,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Trong mục đơn giá, chọn sơ đồ bàn cần áp dụng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dùng sơ đồ sử dụng đơn giá, tại mục \"sơ đồ phòng\" chọn khu vực bàn cần áp dụng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đơn giá áp dụng chung, không áp dụng cho sơ đồ bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "131": {
+        "content": "Các bước để thiết kế một báo cáo \"Interactive Report\" (IR)",
+        "index": 131,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo query SQL -> tạo dataset -> tạo báo cáo -> thiết kế mẫu báo cáo"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo báo cáo --> tạo query SQL -> thiết kế mẫu báo cáo -> tạo dataset"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo báo cáo -> thiết kế mẫu báo cáo -> tạo query SQL -> tạo dataset"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tạo báo cáo -> thiết kế mẫu báo cáo -> tạo dataset -> tạo query SQL"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "132": {
+        "content": "Có thể xóa các table được tạo ra khi khởi tạo IR report không?",
+        "index": 132,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Xóa được, nhưng không có dữ liệu tất cả báo cáo"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Xóa được, nhưng không có dữ liệu báo cáo mặc định"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Xóa được, nhưng không thiết kế được báo cáo mới"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không xóa được"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "133": {
+        "content": "Các database SQL của \"Interactive Report\" (IR) lưu trữ các thông tin gì?",
+        "index": 133,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các thông tin được tổng hợp từ nhiều bảng trong database RK7"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thông tin lịch sử tác vụ của người dùng POS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thông tin doanh thu của hệ thống POS"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "134": {
+        "content": "Phát biểu nào sau đây không đúng về \"Interactive Report\" (IR)?",
+        "index": 134,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "IR hỗ trợ dạng báo cáo kéo thả tương tự như báo cáo Cube"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "IR hỗ trợ báo cáo dạng Fast Report"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không thể phân quyền truy cập báo cáo IR"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "IR cho phép gửi báo cáo qua mail dạng file nén và có mật khẩu"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "135": {
+        "content": "Đối tượng link giữa datasets và mẫu in báo cáo trong IR Reports là gì?",
+        "index": 135,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dataset guid"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Datasets code"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Datasets name"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Datasets ident"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "136": {
+        "content": "Một báo cáo IR Report có thể sử dụng được bao nhiêu datasets",
+        "index": 136,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "137": {
+        "content": "Phát biểu nào sau đây đúng về tính năng gửi mail của \"Interactive Report\" (IR)? (Có thể chọn nhiều đáp án)",
+        "index": 137,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "IR chỉ hỗ trợ gửi mail thông qua hệ thống mail yandex"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "IR hỗ trợ gửi báo cáo dạng \"Fast report\""
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "IR hỗ trợ gửi nội dung mail khác nhau cho đến các đối tượng khác nhau"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "IR chỉ truy suất dữ liệu từ database RK7"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "138": {
+        "content": "Các mẫu báo cáo của \"Interactive Report\" (IR) được lưu trữ trong database nào?",
+        "index": 138,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các database SQL sinh ra khi cài đặt IR"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Database SQL RK7"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Trong file UCS.csdb"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "139": {
+        "content": "Trong mẫu in IR Reports, dùng thuộc tính nào để hiển thị trên báo cáo",
+        "index": 139,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mã"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tên"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tên thay thế"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tên hệ thống"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "140": {
+        "content": "Trong mục IR Reports, có thể tạo datasets mới theo ý người dùng được không?",
+        "index": 140,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mặc định, không tạo được"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo được theo dữ liệu người dùng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo được nhưng giới hạn dữ liệu"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chưa có định nghĩa"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "141": {
+        "content": "<p>Trong RK7, một chuỗi có 2 nhà hàng A và B cùng chung một menu, mô tả cách cài đặt 1 món ăn chỉ áp dụng ở nhà hàng A và không áp dụng ở nhà hàng B? Cách đơn giản nhất là: (Câu hỏi tự luận)</p>",
+        "index": 141,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "142": {
+        "content": "Trong RK7, phát biểu nào sau đây đúng?",
+        "index": 142,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có thể viết script trong form để hỗ trợ các nghiệp vụ mà POS không có sẵn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có thể viết script trong mẫu in để tính toán các giá trị doanh thu, thuế"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Có thể viết script để tạo ra một tác vụ mới"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "143": {
+        "content": "Làm thế nào để xác định nhà hàng đã đóng ca chung?",
+        "index": 143,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hỏi quản lý"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Kiểm tra danh sách hóa đơn đã tính tiền"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Kiểm tra báo cáo giao ca thu ngân"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "144": {
+        "content": "Số order (OrderNumber) phát sinh khi nào?",
+        "index": 144,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Phát sinh khi mở bàn mới"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Phát sinh khi in tạm tính"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Phát sinh khi in hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "145": {
+        "content": "Số check phát sinh khi nào?",
+        "index": 145,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Khi tạm tính và in hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Khi mở bàn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khi hủy tạm tính"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Khi hủy hóa đơn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "146": {
+        "content": "Trong RK7, chức năng “giai đoạn” có thể áp dụng cho? (Có thể chọn nhiều đáp án)",
+        "index": 146,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giảm giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đơn giá"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Thuế"
+            }
+        },
+        "count_correct": 3,
+        "attachments": []
+    },
+    "147": {
+        "content": "Phát biểu nào sau đây đúng về tính năng “Món ăn tồn”?",
+        "index": 147,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Quản lý danh sách món ăn tồn kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Đưa món ăn vào danh sách ngưng bán"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đáp án khác"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giới hạn số lượng bán của món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "148": {
+        "content": "Phát biểu nào sau đây sai về ca chung?",
+        "index": 148,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhân viên cần thực hiện thao tác đóng ca chung sau khi kết thúc ngày làm việc"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ca chung có thể cài đặt đóng tự động"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Ca chung bao gồm 2 ca thu ngân"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Khi đóng ca chung thì POS sẽ reset dữ liệu, và đóng gói dữ liệu bán hàng gửi về văn phòng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "149": {
+        "content": "Làm thế nào để xác định nhà hàng đã đóng ca thu ngân chưa? (Có thể chọn nhiều đáp án)",
+        "index": 149,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hỏi thu ngân"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thử phục hồi hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Kiểm tra tab ca thu ngân của Midserver"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Kiểm tra báo cáo giao ca thu ngân"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "150": {
+        "content": "Khi đóng ca thu ngân, hệ thống sẽ in ra biên lai rút tiền. Biên lai rút tiền này chứa doanh thu của:",
+        "index": 150,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tiền mặt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thẻ tín dụng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thẻ thanh toán"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "151": {
+        "content": "Nếu cần file dữ liệu đóng ca chung của nhà hàng, chúng ta có thể tìm file ở thư mục nào?",
+        "index": 151,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thư mục MIDBASE\\Archive"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thư mục base\\backup\\ftpserver"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thư mục MIDBASE\\Forsend"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "A và B đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "152": {
+        "content": "Phát biểu nào sau đây đúng về ca chung?",
+        "index": 152,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Khi nhân viên mở bàn sẽ phát sinh ca chung"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ca chung bắt đầu từ đầu ngày và kết thúc trước 0h hàng ngày"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Sau khi đóng ca chung vẫn có thể xem doanh thu bán hàng trên POS"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "153": {
+        "content": "Phát biểu sau đây sai về số hóa đơn (Printnumber)?",
+        "index": 153,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Số hóa đơn có thể trùng nhau trong 1 ngày làm việc"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Số hóa đơn reset lại sau mỗi ngày làm việc"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Số hóa đơn luôn luôn duy nhất, hệ thống không hỗ trợ trùng số hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Số hóa đơn của order có thể thay đổi sau khi hủy hóa đơn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "154": {
+        "content": "Số hóa đơn (Printnumber) phát sinh khi nào?",
+        "index": 154,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Khi in tạm tính"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Khi in hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khi mở bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Khi hủ̉y hóa đơn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "155": {
+        "content": "Trong RK7, tab chức năng “Lý do hủy” có thể hỗ trợ những lý do gì? (Có thể chọn nhiều đáp án)",
+        "index": 155,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Lý do hủy món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Lý do hủy giảm giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Lý do hủy tạm tính, hủy hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Lý do rút tiền, nạp tiền"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "156": {
+        "content": "Phát biểu nào sau đây đúng?",
+        "index": 156,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có thể phục hồi hóa đơn của ca thu ngân trước"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không thể phục hồi bill của ca thu ngân trước."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Có thể phục hồi hóa đơn của ca thu ngân trước, nhưng cần xác nhận của quản lý."
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "157": {
+        "content": "File Sh.udb chứa các dữ liệu gì?",
+        "index": 157,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là file chứa dữ liệu master data của refserver"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Là file chứa các module hệ thống của midserver"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Là file dữ liệu bán hàng cuối cùng trước khi đóng ca chung của Midserver"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "158": {
+        "content": "Khi khởi tạo Midserver, tham số Checkgen=100500 có ý nghĩa là?",
+        "index": 158,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100500"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100501"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100000"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "159": {
+        "content": "Nhóm kinh doanh được sử dụng cho mục vào mục đích gì?",
+        "index": 159,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Cho phép hoặc giới hạn món ăn được áp dụng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Cho phé́p hoặc giới hạn giảm giá được áp dụng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cho phép hoặc giới hạ̣n hình thức thanh toán được áp dụng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "160": {
+        "content": "File work.udb chứa các dữ liệu gì?",
+        "index": 160,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là file chứa dữ liệu master data của refserver"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Là file chứa các module hệ thống của midserver"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Là file dữ liệu đóng ca cuối ngày của nhà hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "161": {
+        "content": "Số check bán hàng trên không liên tục trên báo cáo, cho thấy điều gì? Chọn đáp án sai",
+        "index": 161,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhà hàng hủy tạm tính"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhà hàng in tạm tính không thành công"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhà hàng hủy hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nhà hàng in tạm tính theo số khách"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "162": {
+        "content": "Phát biểu nào sau đây đúng về cài đặt menu",
+        "index": 162,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo menu trong RK7 thông qua thao tác thủ công trên Rk7Manager"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo menu RK7 bằng cách import xml"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo menu RK7 thông qua API"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "163": {
+        "content": "Sau khi đóng ca chung, file ca chung chứa dữ liệu bán hàng sẽ thế nào?",
+        "index": 163,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Được chuyển về server"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Được lưu trữ trong thư mục Archive"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Được gửi vào thư mục Forsend"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "164": {
+        "content": "Thời gian bán hàng của một ca chung mặc định là bao nhiêu?",
+        "index": 164,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1200 phút"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2400 phút"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3600 phút"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "900 phút"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "165": {
+        "content": "Ứng dụng của \"Cube OLAP\" trong RK7?",
+        "index": 165,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hỗ trợ thiết kế báo cáo POS"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hỗ trợ thiết kế báo cáo HeadOffice"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hỗ trợ mẫu xml cho SkyMonitor"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "166": {
+        "content": "Phát biểu sau đây đúng về thuộc tính mở rộng (Extended Properties)?",
+        "index": 166,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Được sử dụng để khai báo mã phần mềm kế toán, hỗ trợ cho phép nhập nhiều ngôn ngữ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo thuộc tính dạng danh sách để nhân viên chọn trên POS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo thuộc tính cho phép nhập ghi chú trên POS"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "167": {
+        "content": "File ns.udb có ý nghĩa gì?",
+        "index": 167,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là file work.udb mới nhât sinh ra sau khi đóng ca chung"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Là file chứa các module hệ thống của midserver"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Là file dữ liệu bán hàng cuối cùng trước khi đóng ca chung của Midserver"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "168": {
+        "content": "Các bước để thiết lập phần thập phân của số lượng và giá tiền trên các phiếu như thế nào?",
+        "index": 168,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Report"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Report"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Documents Qty - Documents Price"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Documents Qty & Documents Price"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "169": {
+        "content": "Trong SkyInventory, để nhập hàng vào kho, bạn cần thực hiện thao tác:",
+        "index": 169,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Purchase Order"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Goods Transfer"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Goods Receipt"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Return Supplier"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "170": {
+        "content": "Trong SkyInventory, khi kiểm kê hàng hóa, bạn cần:",
+        "index": 170,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo phiếu yêu cầu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Lập phiếu mua hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo phiếu nhập kho"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tạo phiếu kiểm kê"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "171": {
+        "content": "Trong SkyInventory, khi tạo bảng giá mới, nếu ngày áp dụng không được chọn, hệ thống sẽ:",
+        "index": 171,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Lấy ngày hiện tại"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Báo lỗi"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Lấy ngày khởi tạo bảng giá"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tự động áp dụng giá từ hôm sau"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "172": {
+        "content": "Trong SkyInventory, để xem chi tiết số lượng hàng hóa đã được đặt hàng và nhận hàng, xác định số lượng hàng đã nhận và chưa nhậ. Ta thực hiện các bước nào để xem báo cáo",
+        "index": 172,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Phiếu yêu cầu hàng hóa"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "173": {
+        "content": "Trong SkyInventory, để kiểm kê hàng tồn kho, bạn sử dụng tính năng:",
+        "index": 173,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Report Balance"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Stock Count"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Goods Receipt"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Purchase Request"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "174": {
+        "content": "Trong SkyInventory, Báo cáo thành phần định lượng cho người dùng xem lại tất cả định lượng đã được nhập vào hệ thống. Liệt kê chi tiết số lượng các thành phần nguyên vật liệu có trong từng định lượng của món ăn. Nhầm kiểm soát được các định lượng đang được sử dụng.",
+        "index": 174,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Bá́o cáo thành phần định lượng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "175": {
+        "content": "Trong SkyInventory, đơn vị cơ bản của hệ portion là:",
+        "index": 175,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "kg"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "ml"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "gr"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "pcs"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "176": {
+        "content": "Trong SkyInventory, xem tất cả các hoạt động nhập xuất tồn của một nguyên vật liệu trong một hoặc nhiều kho khác nhau, nhắm theo dõi số lượng chi tiết theo các lần nhập xuất tồn kho, theo từng phiếu nghiệp vụ",
+        "index": 176,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Bán hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "177": {
+        "content": "Trong SkyInventory, để lập phiếu mua hàng, bạn cần thực hiện bước nào trước tiên:",
+        "index": 177,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thay đổi nhà cung cấp"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn phiếu đặt hàng đã duyệt"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhập số lượng hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn nhà cung cấp"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "178": {
+        "content": "Trong SkyInventory, khi lập phiếu mua hàng, nếu hàng hóa có nhà cung cấp chính, hệ thống sẽ:",
+        "index": 178,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Áp dụng giá cao nhất"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Áp dụng giá thấp nhất"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tự động chọn nhà cung cấp chính"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tự động chọn nhà cung cấp chính"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "179": {
+        "content": "Trong SkyInventory, để đăng nhập vào phần mềm, bạn cần:",
+        "index": 179,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhập Email và Password"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập User Name và Password"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhập mã nhân viên"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nhập số điện thoại"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "180": {
+        "content": "Có mấy môi trường đăng nhập phần mềm SkyInventory cho người quản trị? Website/App/MobileApp/v..v..",
+        "index": 180,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "4"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "181": {
+        "content": "Trong SkyInventory, để lưu và thoát khỏi màn hình lập phiếu mua hàng, bạn nhấn vào:",
+        "index": 181,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Save"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Save and Close"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Post"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Submit"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "182": {
+        "content": "Trong SkyInventory, để xem báo cáo về số lượng và tổng tiền các nghiệp vụ có phát sinh trong khoảng thời gian được lọc báo báo",
+        "index": 182,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "183": {
+        "content": "Khi cần chuyển hàng hóa từ kho A sang kho B thì dùng phiếu nào?",
+        "index": 183,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Goods write-off"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Goods transfers"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Production Record"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Good receipt"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "184": {
+        "content": "Trong SkyInventory, Để xem giá của một nguyên vật liệu tương ứng với từng nhà cung cấp. Thời gian áp dụng trên bảng giá sẽ được báo cáo lọc ra theo đúng thời điểm người dùng chọn lựa.Ta xem báo cáo:",
+        "index": 184,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thiết lập kho -> Báo cáo -> Supplier Prices"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "185": {
+        "content": "Trong SkyInventory, thao tác để yêu cầu đặt hàng là:",
+        "index": 185,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Goods Receipt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Purchase Request"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Stock Count"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Goods Transfer"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "186": {
+        "content": "Trong SkyInventory, đơn vị cơ bản của hệ qui đổi volume là:",
+        "index": 186,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "gr"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "pcs"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "ml"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "cái"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "187": {
+        "content": "Trong SkyInventory, để xem báo cáo số lượng tồn cuối của ngày được chọn xuất báo cáo, thực hiện thao tác",
+        "index": 187,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Bán hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "188": {
+        "content": "Trong SkyInventory, sau khi lập phiếu mua hàng, bước tiếp theo bạn cần làm là:",
+        "index": 188,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn phiếu đặt hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thay đổi nhà cung cấp"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Kết chuyển phiếu"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn đơn vị tính"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "189": {
+        "content": "Trên SkyInventory có thể tạo bao nhiêu kho tổng (Kho trung tâm)?",
+        "index": 189,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không giới hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "190": {
+        "content": "Trong thông tin nhà hàng trên SkyInventory, mã ngoài (External code) là gì?",
+        "index": 190,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là mã sinh tự động, dùng để quản lý trên phần mềm SkyInventory"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Là mã người dùng nhập vào, dùng để quản lý trên phần mềm SkyInventory"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Là mã đồng bộ từ phần mềm R-Keeper, dùng để quản lý trên phần mềm Sky Inventory"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Là mã đồng bộ từ phần mềm R-Keeper, dùng để kết nối với phần mềm thứ 3"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "191": {
+        "content": "Trong SkyInventory, khi trả hàng kém chất lượng về nhà cung cấp, bạn chọn:",
+        "index": 191,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Goods Write-Off"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Goods Sales"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Goods Transfer"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Return Supplier"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "192": {
+        "content": "Trong SkyInventory, để kiểm tra báo cáo tồn kho, bạn chọn:",
+        "index": 192,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Goods Receipt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Report Balance"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Stock Count"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Purchase Order"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "193": {
+        "content": "Trong SkyInventory, Để theo dõi tình trạng yêu cầu đặt hàng, nhận hàng của các kho thì báo cáo yêu cầu hàng hóa sẽ liệt kê đầy đủ các trạng thái số lượng yêu cầu hàng hóa, đặt hàng và nhận hàng chi tiết của từng hàng hóa. Ta xem báo cáo:",
+        "index": 193,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Phiếu đặt hàng -> Reports -> Phiếu yêu cầu hàng hóa"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "194": {
+        "content": "Các bước để thiết lập phần thập phân của số lượng và tổng tiền trên báo cáo như thế nào?",
+        "index": 194,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Report"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Report"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Documents Qty - Documents Price"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Documents Qty & Documents Price"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "195": {
+        "content": "Trong SkyInventory, đơn vị cơ bản của hệ weight là:",
+        "index": 195,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "kg"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "ml"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "gr"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "lít"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "196": {
+        "content": "Recipe mapping của một món ăn hoặc ghi chú có nghĩa là gì?",
+        "index": 196,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Xác định trừ kho theo BOM (recipe) nào"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Xác định nhập kho theo BOM (recipe) nào"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Gán nhà hàng và trung tâm doanh thu khi trừ hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Gán nhà hàng và trung tâm doanh thu khi nhập hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "197": {
+        "content": "Trong SkyInventory, để tạo mới một nhóm hàng hóa, bạn cần thực hiện bước đầu tiên là:",
+        "index": 197,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn Create"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Điền thông tin nguyên vật liệu"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn nhóm cần thêm"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn Danh sách hàng hóa"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "198": {
+        "content": "Trong SkyInventory, phát biểu nào sau đây sai?",
+        "index": 198,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Một hàng hóa có thể có nhiều đơn vị tính, bắt buộc phải có hệ quy đổi"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nếu hàng hóa có nhà cung cấp chính và bảng giá chính, thì hệ thống sẽ tự động áp dụng chọn nhà cung cấp chính và bảng giá cho từng hàng hóa tương ứng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Bảng kê bán hàng được tải tự động về từ hệ thống POS realtime"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Bảng kê bán hàng được tải tự động về từ hệ thống POS vào cuối ngày"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "199": {
+        "content": "Trong SkyInventory, để quản lý nhà cung cấp, bạn vào mục:",
+        "index": 199,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Hàng hóa"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Đối tác"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Đơn vị tính"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Định mức nguyên vật liệu"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "200": {
+        "content": "Trong SkyInventory, khi hủy hàng kém chất lượng hoặc hết hạn sử dụng, bạn chọn:",
+        "index": 200,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Goods Sales"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Goods Transfer"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Goods Write-Off"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Return Supplier"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "201": {
+        "content": "Trong SkyInventory, để tạo định mức nguyên vật liệu, bạn vào mục:",
+        "index": 201,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thiết lập kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Định mức nguyên vật liệu"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Báo cáo tồn kho"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "202": {
+        "content": "Trong SkyInventory, mã hàng hóa được gọi là:",
+        "index": 202,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Internal code"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Product code"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "External code"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Item code"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "203": {
+        "content": "Trong SkyInventory, Để xem tất cả các hoạt động nhập xuất tồn của một nguyên vật liệu trong một hoặc nhiều kho khác nhau. Nhầm theo dõi số lượng chi tiết theo các lần nhập xuất tồn của kho, theo từng phiếu nghiệp vụ.Ta xem báo cáo:",
+        "index": 203,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "204": {
+        "content": "Có mấy nhóm đối tượng khóa kỳ? Hãy liệt kê ra",
+        "index": 204,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1 nhóm Khóa kỳ cho từng tài khoản người dùng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2 nhóm Khóa kỳ cho tất cả tài khoản và Khóa kỳ cho từng tài khoản người dùng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3 nhóm Khóa kỳ cho tất cả tài khoản; Khóa kỳ cho từng tài khoản người dùng; Khóa kỳ cho nhóm tài khoản được xác bằng tham số khóa kỳ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không có phân nhóm"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "205": {
+        "content": "Trong SkyInventory, khi nhập kho từ phiếu đặt hàng PO, bước đầu tiên là:",
+        "index": 205,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn phiếu yêu cầu hàng hóa"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn phiếu đặt hàng đã duyệt"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhập số lượng hàng hóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn nhà cung cấp"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "206": {
+        "content": "Trong CRM Manager, để tích lũy điểm cho khách hàng, bạn phải thiết lập gì?",
+        "index": 206,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chương trình giảm giá"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Account Types"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Special Offer"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Coupon Types"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "207": {
+        "content": "Các hình thức để áp dụng mã thành viên CRM vào POS (Có thể chọn nhiều đáp án)",
+        "index": 207,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Sử dụng tính năng nhập mã từ bàn phím"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Scan Qrcode mã thành viên"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Scan Qr thông tin order và cập nhật thông tin thành viên qua app"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Quẹt thẻ từ"
+            }
+        },
+        "count_correct": 4,
+        "attachments": []
+    },
+    "208": {
+        "content": "SkyCRM là gì?",
+        "index": 208,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Là module được dùng để kết nối theo dõi hệ thống quản lý khách hàng thành viên và doanh thu báo cáo của từng mô hình cửa hàng."
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Coi báo cáo về CRM và RK7"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Là module Quản lý giảm giá."
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "209": {
+        "content": "Trong CRM Manager, để tạo hành động quy đổi từ tiêu dùng sang điểm, bạn phải vào mục nào trước tiên?",
+        "index": 209,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Special Offers"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Coupon Types"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Account Types"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Scheduler"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "210": {
+        "content": "Bước nào sau đây dùng để thiết lập tính năng debit/credit cho khách hàng trong CRM (Có thể chọn nhiều đáp án)",
+        "index": 210,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo hình thức thanh toán với Farcard Transaction và Subaccount tương ứng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo scheme"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Gán Priority cho tài khoản debit khi thiết lập SW Classifier"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tạo segment"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "211": {
+        "content": "Trong CRM Manager, một \"SpecialOffer\" bao gồm những gì?",
+        "index": 211,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Các điều kiện và hành động của chương trình CRM"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Các loại tài khoản và giảm giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Các thông tin khách hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Các liên hệ mạng xã hội"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "212": {
+        "content": "Bước nào sau đây trong nằm các bước cài đặt voucher thanh toán CRM",
+        "index": 212,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo scheme"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo hình thức thanh toán với Farcard Transaction và Subaccount tương ứng với tham số"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Gán mã món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "213": {
+        "content": "Trong CRM Manager, khi muốn tạo mới một coupon giảm giá, bạn phải vào mục nào?",
+        "index": 213,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Special Offers"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Coupon Types"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Groups of Cards"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Account Types"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "214": {
+        "content": "<p>Viết query lấy danh sách khách hàng có sinh nhật trong tháng 6 (Tên, mã thẻ, ngày sinh) (Tự luận)</p>",
+        "index": 214,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "215": {
+        "content": "Trong CRM Manager, để tạo tài khoản chính sách, bạn cần chọn mục nào?",
+        "index": 215,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "References -> Account Types"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Settings -> Discount Accounts"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tools -> Create Discount"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Users -> Account Settings"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "216": {
+        "content": "Trong CRM Manager, phát biểu nào sau đây sai?",
+        "index": 216,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "CRM Manager có thể xem được danh sách coupon/voucher của khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "CRM Manager có thể xem chi tiết số bill và món khách đã sử dụng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "CRM Manager cho phép thêm nhanh voucher cho nhiều khách hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "CRM Manager cho phép kiểm tra lịch sử giao dịch của khách hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "217": {
+        "content": "<p>Liệt kê các loại coupon trong CRM và công dụng tương ứng (Câu hỏi tự luận)</p>",
+        "index": 217,
+        "type": "essay",
+        "answers": [],
+        "count_correct": 0,
+        "attachments": []
+    },
+    "218": {
+        "content": "Phát biểu nào sau đây không đúng về CRM?",
+        "index": 218,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "CRM có thể tích điểm dựa trên số tổng tiền thanh toán"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Có thể hiện bất kỳ thông tin tài khoản điểm nào của khách lên hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "CRM không thể nhận biết khách giao dịch tại nhà hàng nào."
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "CRM không thêm xem chi tiết món khách sử dụng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "219": {
+        "content": "Trong CRM Manager, để thay đổi level tài khoản giảm giá cho thành viên, bạn cần vào tab nào?",
+        "index": 219,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Account"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Contact"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Schedule"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Segment"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "220": {
+        "content": "Các thông tin nào của khách hàng trong CRM có thể hiển thị trên hóa đơn?",
+        "index": 220,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tên khách hàng, số điện thoại"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tên khách hàng, số điện thoại"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tên khách hàng, số điện thoại, hạng thẻ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tên khách hàng, số điện thoại, hạng thẻ, điểm tích lũy, điểm có thể đổi voucher, điểm xét hạng."
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "221": {
+        "content": "Trong CRM Manager, khi tạo một chương trình giảm giá, bạn cần nhập thông tin nào từ RK7?",
+        "index": 221,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Ident nhóm giảm giá"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ident giảm giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Code nhóm giảm giá"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Code giảm giá"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "222": {
+        "content": "Trong CRM, tổ hợp phím tắt để tìm kiếm nhanh thông tin khách hàng là",
+        "index": 222,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Ctrl + S"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ctrl + F"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Ctrl + Alt + F"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "B và C đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "223": {
+        "content": "Trong CRM Manager, mục \"Schedule\" dùng để làm gì?",
+        "index": 223,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Quản lý danh sách khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Lịch trình sử dụng cho các hành động"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thiết lập các loại tài khoản"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tạo mới chương trình giảm giá"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "224": {
+        "content": "Tổ hợp phím Ctrl + Alt + F trong CRM Manager có ý nghĩa gì?",
+        "index": 224,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tìm kiếm thông tin khách hàng theo \"Cardcode\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tìm kiếm thông tin khách hàng theo \"Holder\""
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mở cửa sổ tạo thẻ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Lưu tác vụ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "225": {
+        "content": "Báo cáo/Daskboard doanh thu trên SkyCRM bao gồm các loại báo cáo nào",
+        "index": 225,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Theo khách hàng, nhóm khách hàng, món ăn, nhóm món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Theo khách hàng, nhóm khách hàng, nhóm thẻ, nhóm tuổi, giới tính"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Theo khách hàng, giới tính, nhà hàng, món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Theo ngày, nhà hàng, món ăn, nhóm món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "226": {
+        "content": "Phát biểu nào sau đây đúng về coupon CRM?",
+        "index": 226,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Coupon sẽ tắt kích hoạt khi nhập vào bàn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Coupon sẽ tắt kích hoạt khi thanh toán hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Coupon sẽ không tắt kích hoạt sau khi sử dụng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "227": {
+        "content": "Chọn đáp án đúng về SkyCRM?",
+        "index": 227,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "SkyCRM cung cấp tính năng dùng điểm đổi coupon/voucher"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "SkyCRM cho phép ghi nhận đánh giá của khách hàng về chất lượng dịch vụ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "SkyCRM hỗ trợ tính năng đăng ký thành viên thông qua Zalo, Facebook"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "228": {
+        "content": "Một coupon phát hành bởi CRM mặc định có bao nhiêu chữ số?",
+        "index": 228,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "10"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "11"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "12"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "13"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "229": {
+        "content": "Trong CRM, khi tạo thẻ thành viên mới cho khách hàng, thẻ có thời hạn mặc định bao nhiêu?",
+        "index": 229,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1 năm"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2 năm"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3 năm"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Không có thời hạn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "230": {
+        "content": "Trong database CRM, để truy vấn thông tin tên khách hàng, ngày sinh, giới tính,...Ta sử dụng bảng dữ liệu",
+        "index": 230,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "CARD_CARDS"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "CARD_PEOPLE_ACCOUNTS"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "CARD_PEOPLES"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "CARD_CLIENTS"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "231": {
+        "content": "Chọn đáp án đúng về CRM?",
+        "index": 231,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "CRM hỗ trợ tạo tài khoản thành viên và chính sách nâng hạng/xuống hạng thành viên"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "CRM hỗ trợ chính sách tích điểm dựa theo tiêu dùng của khách. Sử dụng điểm để nâng hạng hoặc tiêu dùng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "CRM cho phép nạp tiền trước cho khách và sử dụng dần"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "232": {
+        "content": "Trong CRM Manager, \"Coupon Type\" bao gồm những loại nào?",
+        "index": 232,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Voucher & Discount"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Payment,Discount & Gift Item"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Voucher,Payment & Gift Item"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Discount & Gift Item"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "233": {
+        "content": "Trong CRM, chúng ta có thể import danh sách thông tin khách hàng kèm điểm tích lũy không?",
+        "index": 233,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chỉ có thể import danh sách khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Import được danh sách khác hàng và điểm tích lũy. Cần thêm cột Balance1 vào template import."
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Import được danh sách khác hàng và điểm tích lũy. Cần thêm cột Summ1 vào template import"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Import được danh sách khác hàng và điểm tích lũy. Thêm cột Sum0 vào template import và khai báo thêm tài khoản acc"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "234": {
+        "content": "Có bao nhiêu phân loại kịch bản sẽ chạy trong Special Offer (Action) (Ghi Chú - khi nào kịch bản được chạy)",
+        "index": 234,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "1"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "2"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "3"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "4"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "235": {
+        "content": "Ứng dụng quản lý tài khoản User_manager.exe không khởi động được, khi mở nhận được thông báo “Windows Socket Error” là do?",
+        "index": 235,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Do kết nối internet bị ngắt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Ứng dụng không thể kết nối với máy chủ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Ứng dụng bị chặn bởi chương trình virus"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Máy chủ bị ngắt kết nối"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "236": {
+        "content": "Trong CRM Manager, loại tài khoản nào dùng để ghi nhận số tiền tiêu dùng của khách hàng?",
+        "index": 236,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Discount"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Spent"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Debit"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Credit"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "237": {
+        "content": "Trong CRM Manager, một \"Segment\" dùng để phân loại gì?",
+        "index": 237,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Danh sách khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhóm sản phẩm"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Loại tài khoản"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Coupon dự trữ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "238": {
+        "content": "Để cài chính sách loyaly trong CRM, ta có thể sử dụng cách nào? (Có thể chọn nhiều đáp án)",
+        "index": 238,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Sử dụng Special Offer"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng Segment"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Viết query SQL"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "239": {
+        "content": "Trong CRM Manager, bước đầu tiên để tạo coupon giảm giá là gì?",
+        "index": 239,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tạo chương trình giảm giá trên CRM"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tạo chương trình giảm giá trên RK7"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo nhóm thẻ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tạo nhóm khách hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "240": {
+        "content": "Tổ hợp phím Ctrl + F trong CRM Manager có ý nghĩa gì?",
+        "index": 240,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tìm kiếm thông tin khách hàng theo \"Cardcode\""
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tìm kiếm thông tin khách hàng theo \"Holder\""
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mở cửa sổ tạo thẻ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Lưu tác vụ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "241": {
+        "content": "Trong CRM Manager, để tạo mới một chương trình giảm giá, bạn cần vào mục nào?",
+        "index": 241,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "References -> Schemes"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tools -> Discount Programs"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Settings -> Create Discount"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Users -> New Scheme"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "242": {
+        "content": "SkyCRM không có tính năng nào sau đây?",
+        "index": 242,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tính năng quy đổi điểm thành coupon"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tính năng hiển thị nội dung, hình ảnh các chương trình khuyến mại"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tính năng tạo các loại coupon mới"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tính năng nhận phản hồi và phản hồi thông tin của khách hàng?"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "243": {
+        "content": "Chọn đáp án đúng về SkyCRM?",
+        "index": 243,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "SkyCRM cho phép tạo tài khoản mới cho khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "SkyCRM cho phé́p kiểm tra thông tin tài khoản khách hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "SkyCRM cho phép tạo bản tin về chương trình KM"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "244": {
+        "content": "Khi khách hàng đến nhà hàng, có thể sử dụng số điện thoại và cả thẻ cứng để sử dụng chính sách thành viên không?",
+        "index": 244,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không, Khách hàng chỉ được sử dụng số điện thoại"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không, khách hàng chỉ được sử dụng thẻ cứng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Không, khách hàng chỉ được chọn hoặc số điện thoại, hoặc thẻ cứng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Được, khách hàng sử dụng số điện thoại hoặc thẻ cứng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "245": {
+        "content": "Trong CRM Manager, để tạo một coupon tặng món, bạn cần chọn loại gì?",
+        "index": 245,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Payment"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Discount"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Goods"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Services"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "246": {
+        "content": "Để phân quyền tài khoản đăng nhập CRM Manager, ta sử dụng?",
+        "index": 246,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "CRM Manager"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "User Manager"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "RK7 Manager"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "CRM không hỗ trợ phân quyền tài khoản"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "247": {
+        "content": "Trong CRM_V7 (Tab Cards), Khi tạo một thẻ mà dòng thẻ đó có mầu đỏ thì được hiểu như thế nào?",
+        "index": 247,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thẻ chưa được được kích hoạt"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thẻ chưa gán thông tin khách hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thẻ nằm ngoài khoảng thẻ quy định"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "248": {
+        "content": "SkyOrder có hỗ trợ hiển thị đa ngôn ngữ không?",
+        "index": 248,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "249": {
+        "content": "Tổng tiền tạm tính hiển thị trên SkyOrder là?",
+        "index": 249,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Đơn giá chưa bao gồm thuế"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Đơn giá đã bao gồm thuế"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cho phép tùy chỉnh giữa đơn giá bao gồm thuế và chưa bao gồm thuế"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án sai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "250": {
+        "content": "Đơn giá món trên SkyOrder có cho phép hiện số thập phân không?",
+        "index": 250,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Không hỗ trợ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Hỗ trợ tùy chỉnh hiển thị số thập phân"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "251": {
+        "content": "Trên SkyOffice, có thể xem trước giao diện hiển thị trên SkyOrder không?",
+        "index": 251,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "252": {
+        "content": "Trong SkyOrder, nếu khách hàng muốn xoá một món ăn đã chọn, họ cần làm gì?",
+        "index": 252,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhấn vào biểu tượng giỏ hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Vào “Order của tôi” và nhấn chọn thùng rác ở món cần xoá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhấn vào thanh “Xem Order”"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tuỳ chỉnh số lượng món ăn về 0"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "253": {
+        "content": "Để thay đổi tên món hiển thị trên SkyOrder, ta thực hiện:",
+        "index": 253,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thay đổi trực tiếp tên món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng tab \"Đa ngôn ngữ\""
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thay đổi phần \"Mô tả\""
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Đáp án khác"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "254": {
+        "content": "Phát biểu nào sau đây sai về tính năng có thể hỗ trợ của SkyOrder?",
+        "index": 254,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Cho phép cài đặt số lượng tối đa món được gọi trong một lần order"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Cho phép order được lưu vào bàn ở trạng thái \"Nháp\""
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cho phép giới hạn số lượng bán của món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Cho phép xem danh sách các món đã order trong bàn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "255": {
+        "content": "Trong SkyOrder, để truy cập vào giao diện Order, khách hàng cần làm gì đầu tiên?",
+        "index": 255,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Đăng nhập tài khoản"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Quét QR code"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhấn vào biểu tượng giỏ hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn món từ menu"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "256": {
+        "content": "Phát biểu nào sau đây sai về tính năng \"Món ăn hạn chế\" trên skyoffice",
+        "index": 256,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Món ăn hạn chế cho phép cài đặt theo giai đoạn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Món ăn hạn chế cho phép đưa món ăn vào danh sách hết món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Món ăn hạn chế có thể cài đặt riêng cho từng nhà hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Món ăn hạn chế cần cập nhật lại sau mỗi ngày"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "257": {
+        "content": "<p>SkyOrder sử dụng QR code tĩnh hay QR code động?</p>",
+        "index": 257,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "<p>QR code tĩnh</p>"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "<p>QR code động</p>"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cả hai"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "258": {
+        "content": "Để SkyOrder sử dụng QR code tĩnh, cần yếu tố nào: (Có thể chọn nhiều đáp án)",
+        "index": 258,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Cài đặt tọa độ của nhà hàng trên SkyOffice"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Khai báo tọa độ của nhà hàng trong RK7"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khách hàng chia sẽ vị trí trên điện thoại"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Khai báo thông tin Guidstring của order trong QR code"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "259": {
+        "content": "Có thể sắp xếp thứ tự hiển thị nhóm món và món trên SkyOrder không?",
+        "index": 259,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "260": {
+        "content": "Trong SkyInvoice, khi ký hóa đơn, bạn cần chọn gì trước tiên?",
+        "index": 260,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn ngày ký hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn bill cần ký"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn trạng thái hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn số bàn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "261": {
+        "content": "Trong SkyInvoice, màn hình chính hiển thị những danh mục nào sau khi đăng nhập thành công?",
+        "index": 261,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Danh sách sản phẩm và Danh sách khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Danh sách bill và Danh sách hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Danh sách nhân viên và Danh sách khách hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Danh sách đơn hàng và Danh sách thanh toán"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "262": {
+        "content": "Trong SkyInvoice, để thay đổi tên món ăn trên hóa đơn, bạn cần thao tác gì?",
+        "index": 262,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhấn trực tiếp vào tên món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập tên món ăn mới vào ô tìm kiếm"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn tên món ăn từ danh sách"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Gửi yêu cầu thay đổi lên hệ thống"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "263": {
+        "content": "Trong SkyInvoice, sau khi nhập thông tin email của khách hàng, hệ thống sẽ làm gì?",
+        "index": 263,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Gửi hóa đơn về email của khách hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Lưu email vào danh sách khách hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Hiển thị thông tin khách hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tạo tài khoản cho khách hàng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "264": {
+        "content": "Trong SkyInvoice, để tạo hóa đơn cho nhiều bill, bạn cần chọn gì trước tiên?",
+        "index": 264,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn ngày tạo hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn các bill cần xuất hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn trạng thái hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn số bàn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "265": {
+        "content": "Trong SkyInvoice, khi khách hàng muốn lấy hóa đơn, bạn cần nhập thông tin nào?",
+        "index": 265,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mã số thuế, tên đơn vị, địa chỉ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Mã số thuế, số điện thoại, email"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tên đơn vị, địa chỉ, số điện thoại"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Địa chỉ, số điện thoại, email"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "266": {
+        "content": "Trong SkyInvoice, trạng thái của bill khi đã có số hóa đơn được biểu thị bằng gì?",
+        "index": 266,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dấu cộng màu xanh"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dấu trừ màu vàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dấu trừ màu đỏ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Dấu tích màu xanh"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "267": {
+        "content": "Trong SkyInvoice, khi khách hàng không lấy hóa đơn, bạn cần tích chọn mục nào?",
+        "index": 267,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mục khách hàng doanh nghiệp"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Mục khách lẻ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mục thanh toán trực tiếp"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Mục trả góp"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "268": {
+        "content": "Trong SkyInvoice, làm thế nào để đăng nhập vào phần mềm?",
+        "index": 268,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Sử dụng email và mã OTP"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sử dụng mã số thuế và mã OTP"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Sử dụng Username và Password"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Sử dụng mã QR"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "269": {
+        "content": "Dữ liệu sử dụng cho SkyInvoice được hỗ trợ bởi module nào?",
+        "index": 269,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "SkyOrder"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "SkyMenu"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "SkyMonitor"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "SkyInventory"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "270": {
+        "content": "Trong SkyInvoice, khi hủy hóa đơn, bạn cần điền gì?",
+        "index": 270,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Lý do hủy hóa đơn và văn bản thỏa thuận hủy hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Số bill và số bàn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thông tin khách hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Mã số thuế"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "271": {
+        "content": "Trong SkyInvoice, để tạo hóa đơn theo từng bill, bạn cần chọn gì trước tiên?",
+        "index": 271,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn bill cần xuất hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn trạng thái hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn ngày xuất hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn số bàn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "272": {
+        "content": "Trong SkyInvoice, để cập nhật hóa đơn, bạn cần chọn bill có trạng thái gì",
+        "index": 272,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bill chưa tạo hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Bill đã có số hóa đơn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Bill đã tạo hóa đơn nhưng chưa có số hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Bill đã thanh toán"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "273": {
+        "content": "Danh sách đơn hàng và Danh sách thanh toán",
+        "index": 273,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bấm chọn vào biểu tượng bộ lọc"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập mã số thuế của doanh nghiệp"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn ngày bắt đầu và ngày kết thúc"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn trạng thái của hóa đơn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "274": {
+        "content": "Trong SkyInvoice, để phát hành hóa đơn cuối ngày, bạn cần nhấn chọn vào mục nào?",
+        "index": 274,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dấu trừ màu vàng tại Danh sách bill"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dấu cộng màu xanh tại Danh sách bill"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dấu 3 chấm tại Danh sách bill"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Dấu tích màu xanh tại Danh sách bill"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "275": {
+        "content": "Trong SkyInvoice, khi nhập đúng mã số thuế, hệ thống sẽ trả về thông tin gì?",
+        "index": 275,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thông tin công ty đã được lưu sẵn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Thông tin khách hàng mới"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thông tin sản phẩm"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Thông tin hóa đơn trước đó"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "276": {
+        "content": "Trong SkyInvoice, để ký hóa đơn cuối ngày, bạn cần nhấn chọn vào mục nào?",
+        "index": 276,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dấu trừ màu vàng tại Danh sách hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dấu cộng màu xanh tại Danh sách bill"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dấu 3 chấm tại Danh sách hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Dấu tích màu xanh"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "277": {
+        "content": "Trong SkyInvoice, khi khách hàng không lấy hóa đơn, bạn cần tích chọn mục nào?",
+        "index": 277,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mục khách hàng doanh nghiệp"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Mục khách lẻ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mục thanh toán trực tiếp"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Mục trả góp"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "278": {
+        "content": "Trong SkyInvoice, trạng thái của bill khi đã tạo hóa đơn nhưng chưa có số hóa đơn được biểu thị bằng gì?",
+        "index": 278,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Dấu cộng màu xanh"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Dấu trừ màu vàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Dấu trừ màu đỏ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Dấu tích màu xanh"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "279": {
+        "content": "Trong SkyInvoice, để hủy hóa đơn, bạn cần thao tác gì?",
+        "index": 279,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mở hóa đơn cần hủy và chọn Hủy hóa đơn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn hóa đơn và nhấn nút Xóa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn hóa đơn và nhấn nút Sửa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Gửi yêu cầu hủy hóa đơn lên hệ thống"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "280": {
+        "content": "Trong SkyMonitor, có hỗ trợ xem doanh thu nhà hàng, số lượng hóa đơn, số khách vào giờ không?",
+        "index": 280,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có́"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "281": {
+        "content": "Trong ứng dụng SkyMonitor, để đăng nhập phần mềm, bạn cần nhập thông tin gì đầu tiên?",
+        "index": 281,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Mã server (Mã doanh nghiệp)"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tên đăng nhập"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mật khẩu"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Email"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "282": {
+        "content": "Trong SkyMonitor có hỗ trợ báo cáo doanh thu theo từng hạng mục order hay không?",
+        "index": 282,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "283": {
+        "content": "Khi thay đổi tên nhà hàng, tên món ăn,...Thì dữ liệu trước đó trên skymonitor có tự động cập nhật thay đổi không?",
+        "index": 283,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "284": {
+        "content": "SkyMonitor hỗ trợ người dùng xem các thông tin nào?",
+        "index": 284,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Doanh thu chi tiết theo từng hình thức thanh toán"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giá trị chi tiết theo từng chương trình giảm giá"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Doanh thu chi tiết theo từng nhóm hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "285": {
+        "content": "SkyMonitor hỗ trợ cho các tính năng/module nào?",
+        "index": 285,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Inventory"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "PaymentHub, SkyInvoice"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "KDS"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "CRM"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "286": {
+        "content": "Trong SkyMonitor, có hỗ trợ xem báo cáo doanh thu theo độ tuổi, giới tính của khách hàng hay không?",
+        "index": 286,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "287": {
+        "content": "SkyMonitor có hỗ trợ đa ngôn ngữ không? Chọn đáp án đúng nhất",
+        "index": 287,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "2 ngôn ngữ"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "3 ngôn ngữ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "4 ngôn ngữ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "trên 5 ngôn ngữ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "288": {
+        "content": "Màn hình báo cáo mặc định của SkyMonitor chứa các thông tin gì?",
+        "index": 288,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Doanh thu bán hàng của từng nhà hàng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Doanh thu của nhóm hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "So sánh doanh số với thời gian trước đó"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "289": {
+        "content": "Màn hình báo cáo mặc định của SkyMonitor hỗ trợ lọc dữ liệu báo cáo thế nào? (Có thể chọn nhiều đáp án)",
+        "index": 289,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Cho phép lọc nhanh dữ liệu theo ngày, theo tuần và theo tháng hiện tại"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Cho phép lọc theo vùng, mô hình, nhà hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Cho phép lọc theo khu vực bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "290": {
+        "content": "Trong SkyMonitor có hỗ trợ báo cáo hủy món không?",
+        "index": 290,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Có"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Không"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "291": {
+        "content": "Trong SkyMenu, để tăng giảm số lượng món, bạn sử dụng nút nào?",
+        "index": 291,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nút Thêm món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nút Gọi món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nút + hoặc -"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nút Tìm kiếm món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "292": {
+        "content": "Trong SkyMenu, để gọi món và gửi order vào bar và bếp, bạn nhấn vào nút nào?",
+        "index": 292,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nút Thêm món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nút Tìm kiếm món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nút Gọi món"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nút Thoát"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "293": {
+        "content": "Khi sử dụng ứng dụng SkyMenu,chúng ta có thể thực hiện các tùy chỉnh nào? (Có thể chọn nhiều đáp án)",
+        "index": 293,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Thay đổi màu nền của ứng dụng trong phạm vi cho phép"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Tùy chỉnh màn hình hiển thị món theo 2 hoặc 3 cột"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thay đổi hình ảnh hiển thị món trực tiếp trên app"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án đều đúng"
+            }
+        },
+        "count_correct": 2,
+        "attachments": []
+    },
+    "294": {
+        "content": "Trong SkyMenu, sau khi chọn món xong và muốn thêm món vào giỏ hàng, bạn nhấn vào nút nào?",
+        "index": 294,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nút + hoặc -"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nút Thêm món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nút Tìm kiếm món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nút Gọi món"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "295": {
+        "content": "Trong SkyMenu, màn hình đầu tiên xuất hiện sau khi đăng nhập là gì?",
+        "index": 295,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Giao diện chọn món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Giao diện sơ đồ bàn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Giao diện giỏ hàng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giao diện thanh toán"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "296": {
+        "content": "Trong SkyMenu, để thêm món vào giỏ hàng, bạn nhấn vào nút nào?",
+        "index": 296,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nút Tìm kiếm món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nút Thêm món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nút + hoặc -"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nút Gọi món"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "297": {
+        "content": "Trong SkyMenu, muốn trở lại giao diện sơ đồ bàn từ màn hình món đã gọi, bạn làm gì?",
+        "index": 297,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bấm vào nút Thêm món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Bấm vào nút Tìm kiếm món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Bấm vào Logo phía trên góc trái"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Bấm vào nút Gọi món"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "298": {
+        "content": "Trong SkyMenu, nút \"Thêm món\" bị mờ khi nào?",
+        "index": 298,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Khi đã chọn số lượng món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Khi đã chọn món từ giỏ hàng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khi đã chọn modifier cho món có modifier"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Khi đã nhập ghi chú cho món"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "299": {
+        "content": "Trong SkyMenu, khi chọn món có modifier, điều gì bắt buộc phải làm trước khi thêm món vào giỏ hàng?",
+        "index": 299,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn lưu lại món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn số lượng món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn modifier"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tìm kiếm món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "300": {
+        "content": "Trong SkyMenu, khi thoát khỏi giao diện chọn món, bạn cần nhập gì để trở lại sơ đồ bàn?",
+        "index": 300,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Tên người dùng và mật khẩu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Mã và mật khẩu"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Mã PIN"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Số điện thoại"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "301": {
+        "content": "Trong SkyTab, để thêm modifier cho món ăn, sau khi chọn nút “Tùy chọn”, người dùng cần làm gì tiếp theo?",
+        "index": 301,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn món ăn từ menu"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập ghi chú cho món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn nút “Giảm giá”"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn lý do xóa món"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "302": {
+        "content": "Trong SkyTab, khi thêm món ăn, nếu không chọn từ menu, người dùng có thể làm gì?",
+        "index": 302,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhập tên món ăn trên thanh tìm kiếm và chọn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn nút “Giảm giá”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn nút “Thanh toán”"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn nút “Log out”"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "303": {
+        "content": "Trong SkyTab, để xóa món đã xác nhận order, sau khi nhấn giữ món cần xóa và chọn \"Xóa\", bước tiếp theo là gì?",
+        "index": 303,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn nhân viên xóa món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn lý do xóa"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn quyền quản lý cho phép xóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Chọn món khác để thay thế"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "304": {
+        "content": "Trong SkyTab, khi thực hiện giảm giá cho order, sau khi chọn nút “Giảm giá”, bước tiếp theo là gì?",
+        "index": 304,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn hình thức thanh toán"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn loại giảm giá, chương trình giảm giá mong muốn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhập ghi chú cho món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Xác nhận thanh toán"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "305": {
+        "content": "Trong SkyTab, trong quá trình thanh toán, sau khi chọn nút tác vụ “Thanh toán”, bước tiếp theo là gì?",
+        "index": 305,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn hình thức thanh toán và bấm xác nhận"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "In phiếu kiểm đồ"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Tạo order mới"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Gộp bàn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "306": {
+        "content": "Trong SkyTab, để xem lại các hóa đơn đã đóng, sau khi chọn nút “Hóa đơn đã đóng”, bước tiếp theo là gì?",
+        "index": 306,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn hóa đơn cần xem"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn món ăn cần thêm"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Chọn lý do xóa hóa đơn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "In phiếu tạm tính"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "307": {
+        "content": "Trong SkyTab, để tách món trong một order, sau khi mở thêm một order mới, bước tiếp theo là gì?",
+        "index": 307,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn món cần tách"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn lý do tách món"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "In phiếu kiểm đồ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giảm giá món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "308": {
+        "content": "Trong SkyTab, trong quá trình chuyển món ăn sang bàn khác, sau khi chọn “Chuyển sang order khác”, bước tiếp theo là gì?",
+        "index": 308,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Nhập ghi chú cho món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn bàn cần chuyển món tới"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Gộp bàn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Xóa món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "309": {
+        "content": "Trong SkyTab, để tách một order sang nhiều order khác nhau, sau khi chọn và nhấn giữ bàn cần tách order, bước tiếp theo là gì?",
+        "index": 309,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn chức năng tách món"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn lý do tách order"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thêm món ăn mới"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Xóa các món ăn cũ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "310": {
+        "content": "Trong SkyTab, khi thay đổi thông tin order, người dùng có thể thay đổi thông tin nào sau đây?",
+        "index": 310,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Loại order và số khách"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Số lượng món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Ghi chú món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Giá tiền món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "311": {
+        "content": "Trong SkyTab, trong quá trình làm việc với order, nếu muốn xóa món đã xác nhận order, người dùng cần chọn lý do xóa ở bước nào?",
+        "index": 311,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Bước cuối cùng"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Sau khi nhấn giữ món cần xóa và chọn “Xóa”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Trước khi chọn món cần xóa"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Sau khi chọn “Log out”"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "312": {
+        "content": "Trong SkyTab, trong quá trình thay đổi số lượng món ăn, phương pháp nào không được đề cập?",
+        "index": 312,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn món ăn trên menu nhiều lần"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn món ăn cần thay đổi số lượng, chọn nút tác vụ Số lượng"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhấn giữ món ăn và chọn số lượng"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Nhập số lượng trực tiếp vào ô tìm kiếm"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "313": {
+        "content": "Trong SkyTab, sau khi chọn một bàn bất kỳ trên sơ đồ bàn, bước tiếp theo là gì?",
+        "index": 313,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn “Sơ đồ bàn”"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Nhập thông tin order và chọn “Lập order”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Thêm món ăn vào order"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Tất cả đáp án trên"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "314": {
+        "content": "Trong SkyTab, khi thêm món ăn bằng cách nhập tên món ăn trên thanh tìm kiếm, bước tiếp theo là gì?",
+        "index": 314,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn món từ danh sách tìm kiếm hiện ra"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Chọn “Sơ đồ bàn”"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhập ghi chú cho món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Xóa món ăn cũ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "315": {
+        "content": "Trong SkyTab, để chuyển bàn, sau khi chọn nút Chuyển bàn, bước tiếp theo là gì?",
+        "index": 315,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Chọn bàn cần chuyển tới"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Gộp các món ăn"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Nhập số lượng món ăn"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Xóa các món ăn cũ"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    },
+    "316": {
+        "content": "Trong SkyTab, trong màn hình soạn thảo order, khu vực nào chứa các nút tác vụ?",
+        "index": 316,
+        "type": "default",
+        "answers": {
+            "1": {
+                "index": 1,
+                "match_column": null,
+                "content": "Khu vực hiển thị menu món ăn"
+            },
+            "2": {
+                "index": 2,
+                "match_column": null,
+                "content": "Khu vực hiển thị các món ăn đang order"
+            },
+            "3": {
+                "index": 3,
+                "match_column": null,
+                "content": "Khu vực chứa các nút tác vụ"
+            },
+            "4": {
+                "index": 4,
+                "match_column": null,
+                "content": "Ô tìm kiếm món ăn"
+            }
+        },
+        "count_correct": 1,
+        "attachments": []
+    }
+}

@@ -1,7 +1,7 @@
 /* eslint-disable react/no-danger-with-children */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
-import { dataTest, dataTest2, dataTest3, dataTest4, dataTest5 } from "@/data";
+import { dataTest, dataTest2, dataTest3, dataTest4, dataTest5, dataTest6 } from "@/data";
 import parse from "html-react-parser";
 import { useState } from "react";
 
@@ -58,6 +58,15 @@ export default function Home() {
     return item;
   });
 
+  const listQuestion6 = Object.values(dataTest6).map((item: any) => {
+    if (item?.answers?.content) {
+      item.content2 = item?.answers?.content;
+    } else {
+      item.answers2 = Object.values(item.answers);
+    }
+    return item;
+  });
+
   // for (const key in dataTest) {
   //   console.log(`${key}: ${dataTest[key].index}`); // In ra từng thuộc tính và giá trị của entity
   // }
@@ -105,6 +114,13 @@ export default function Home() {
           className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
         >
           {listQuestion5[0]?.topic_name}
+        </button>
+        <button
+          type="button"
+          onClick={() => setStep(5)}
+          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+        >
+          xxxx
         </button>
       </div>
 
@@ -262,6 +278,43 @@ export default function Home() {
             {listQuestion5[0]?.topic_name}
           </div>
           {listQuestion5?.map((item, index) => (
+            <div className="pb-5" key={index}>
+              <div className="font-bold">
+                Câu hỏi: {index + 1} ({item?.score}đ)
+              </div>
+              <div className="pl-5" key={index}>
+                {parse(item?.content)}
+              </div>
+              <div className="font-bold">Câu trả lời: </div>
+              {item?.content2 && (
+                <div className="pl-5">{parse(item?.content2)}</div>
+              )}
+              <div>
+                {item?.answers2?.map((i: any, index: number) => (
+                  <div
+                    key={index}
+                    className={
+                      i?.correct === 1 ? "pl-5 text-green-600" : "pl-5"
+                    }
+                  >
+                    <div className={i?.select === 1? "flex text-blue-600 gap-3" : "flex gap-3"}>
+                      <div>
+                        {numberToLetter(index)}. {i?.content}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+      {step === 5 && (
+        <div className="p-10">
+          <div className="text-center font-bold text-xl">
+            {listQuestion6[0]?.topic_name}
+          </div>
+          {listQuestion6?.map((item, index) => (
             <div className="pb-5" key={index}>
               <div className="font-bold">
                 Câu hỏi: {index + 1} ({item?.score}đ)
