@@ -21763,8784 +21763,13422 @@ export const dataTest5 = {
 
 export const dataTest6 = {
     "1": {
-        "content": "Trong sơ đồ combo, nhóm combo có thuộc tính \"Free count\"=2 có ý nghĩa gì?",
+        "id": 54667,
         "index": 1,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213336,
                 "index": 1,
-                "match_column": null,
-                "content": "Miễn phí cho khách hàng 02 combo đầu tiên"
+                "content": "Miễn phí cho khách hàng 02 combo đầu tiên",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213337,
                 "index": 2,
-                "match_column": null,
-                "content": "Miễn phí 02 món trong combo đầu tiên"
+                "content": "Miễn phí 02 món trong combo đầu tiên",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213338,
                 "index": 3,
-                "match_column": null,
-                "content": "Miễn phí món combo từ món 02 trở đi"
+                "content": "Miễn phí món combo từ món 02 trở đi",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213339,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong sơ đồ combo, nhóm combo có thuộc tính \"Free count\"=2 có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "2": {
-        "content": "Combo có thể sử dụng \"đơn giá mở\" không?",
+        "id": 54670,
         "index": 2,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213346,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213347,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Combo có thể sử dụng \"đơn giá mở\" không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "3": {
-        "content": "Có thể sắp xếp thứ tự hiển thị của các chi tiết trong combo hay không?",
+        "id": 54665,
         "index": 3,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213332,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213333,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có thể sắp xếp thứ tự hiển thị của các chi tiết trong combo hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "4": {
-        "content": "Chi tiết combo có được gán giá âm hay không?",
+        "id": 54662,
         "index": 4,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213326,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213327,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Chi tiết combo có được gán giá âm hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "5": {
-        "content": "Khách hàng cần cài đặt một combo như sau: Combo gồm 01 bắp rang (tùy chọn vị) và 01 nước uống lựa chọn (Coca, Sprite). Combo với vị bắp bình thường giá 90.000đ. Combo với vị bắp phô mai có giá 95.000đ. Hệ thống có hỗ trợ cài đặt combo này không?",
+        "id": 54669,
         "index": 5,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213344,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213345,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khách hàng cần cài đặt một combo như sau: Combo gồm 01 bắp rang (tùy chọn vị) và 01 nước uống lựa chọn (Coca, Sprite). Combo với vị bắp bình thường giá 90.000đ. Combo với vị bắp phô mai có giá 95.000đ. Hệ thống có hỗ trợ cài đặt combo này không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "6": {
-        "content": "Một nhóm combo có thể nằm trong bao nhiêu sơ đồ combo?",
+        "id": 54668,
         "index": 6,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213340,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213341,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213342,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213343,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Một nhóm combo có thể nằm trong bao nhiêu sơ đồ combo?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "7": {
-        "content": "<p>Nối các mục tương ứng về tính năng:</p>",
+        "id": 31958,
         "index": 7,
-        "type": "match",
         "answers": {
             "1": {
                 "1": {
+                    "id": 124329,
                     "index": 1,
                     "content": "<p><strong>Merge combo (Join Combo)</strong></p>",
-                    "match_column": 1
+                    "match_column": 1,
+                    "match_id": "124334",
+                    "correct": 1,
+                    "match_index": "2"
                 },
                 "2": {
+                    "id": 124330,
                     "index": 2,
                     "content": "<p><strong>Combo for change</strong></p>",
-                    "match_column": 1
+                    "match_column": 1,
+                    "match_id": "124333",
+                    "correct": 1,
+                    "match_index": "1"
                 },
                 "3": {
+                    "id": 124331,
                     "index": 3,
                     "content": "<p><strong>Split combo (Divide Combo</strong>)</p>",
-                    "match_column": 1
+                    "match_column": 1,
+                    "match_id": "124335",
+                    "correct": 1,
+                    "match_index": "3"
                 },
                 "4": {
+                    "id": 124332,
                     "index": 4,
                     "content": "<p><strong>Change to combo (Combo assistant)</strong></p>",
-                    "match_column": 1
+                    "match_column": 1,
+                    "match_id": "124336",
+                    "correct": 1,
+                    "match_index": "4"
                 }
             },
             "2": {
                 "1": {
+                    "id": 124333,
                     "index": 1,
                     "content": "<p>Có thể thay đổi món trong combo</p>",
-                    "match_column": 2
+                    "match_column": 2,
+                    "match_id": "124330"
                 },
                 "2": {
+                    "id": 124334,
                     "index": 2,
                     "content": "<p>Gộp món thành combo</p>",
-                    "match_column": 2
+                    "match_column": 2,
+                    "match_id": "124329"
                 },
                 "3": {
+                    "id": 124335,
                     "index": 3,
                     "content": "<p>Tách phần tử combo</p>",
-                    "match_column": 2
+                    "match_column": 2,
+                    "match_id": "124331"
                 },
                 "4": {
+                    "id": 124336,
                     "index": 4,
                     "content": "<p>Gợi ý combo cho món ăn</p>",
-                    "match_column": 2
+                    "match_column": 2,
+                    "match_id": "124332"
                 }
             }
         },
+        "explain": "",
+        "type_score": "1",
+        "score": 4,
+        "type": "match",
+        "content": "<p>Nối các mục tương ứng về tính năng:</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 4
     },
     "8": {
-        "content": "Có thể gán thuế suất trực tiếp cho combo hay không?",
+        "id": 54663,
         "index": 8,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213328,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213329,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có thể gán thuế suất trực tiếp cho combo hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "9": {
-        "content": "Khách hàng cần cài đặt một combo như sau: combo có tổng cộng 02 món (01 đồ ăn và 01 đồ uống). Món ăn đươc phép lựa chọn 1 trong danh sách 3 món. Đồ uống được phép lựa chọn 1 trong 2 món (Coca, Sprite). Đồ uống của combo có thể gọi thêm (refill) thỏa thích, không giới hạn. Tính năng combo có hỗ trợ cài đặt được không?",
+        "id": 54666,
         "index": 9,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213334,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213335,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khách hàng cần cài đặt một combo như sau: combo có tổng cộng 02 món (01 đồ ăn và 01 đồ uống). Món ăn đươc phép lựa chọn 1 trong danh sách 3 món. Đồ uống được phép lựa chọn 1 trong 2 món (Coca, Sprite). Đồ uống của combo có thể gọi thêm (refill) thỏa thích, không giới hạn. Tính năng combo có hỗ trợ cài đặt được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 0
     },
     "10": {
-        "content": "Có thể gán ghi chú (modifier) cho combo hay không?",
+        "id": 54664,
         "index": 10,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213330,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213331,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có thể gán ghi chú (modifier) cho combo hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2713,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Combo",
+        "attachments": [],
+        "score_q": 1
     },
     "11": {
-        "content": "Chế độ xắp xếp \"Tên\", \"Nhân viên Order\" ảnh hưởng thế nào tới sơ đồ bàn trên máy POS",
+        "id": 54709,
         "index": 11,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213478,
                 "index": 1,
-                "match_column": null,
-                "content": "Các bàn không thỏa mãn sẽ ẩn đi"
+                "content": "Các bàn không thỏa mãn sẽ ẩn đi",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213479,
                 "index": 2,
-                "match_column": null,
-                "content": "Không ảnh hưởng"
+                "content": "Không ảnh hưởng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213480,
                 "index": 3,
-                "match_column": null,
-                "content": "Bàn xắp xếp lại theo thứ tự"
+                "content": "Bàn xắp xếp lại theo thứ tự",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213481,
                 "index": 4,
-                "match_column": null,
-                "content": "Không có tính năng này"
+                "content": "Không có tính năng này",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Chế độ xắp xếp \"Tên\", \"Nhân viên Order\" ảnh hưởng thế nào tới sơ đồ bàn trên máy POS",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "12": {
-        "content": "Nhân viên thực hiện thao tác ghép bàn A và bàn B. Phát biểu nào sau đây đúng về nghiệp vụ \"Ghép bàn\"?",
+        "id": 54703,
         "index": 12,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213457,
                 "index": 1,
-                "match_column": null,
-                "content": "Là gộp bàn A vào bàn B"
+                "content": "Là gộp bàn A vào bàn B",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213458,
                 "index": 2,
-                "match_column": null,
-                "content": "Sơ đồ bàn xuất hiện bàn A&B"
+                "content": "Sơ đồ bàn xuất hiện bàn A&B",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213459,
                 "index": 3,
-                "match_column": null,
-                "content": "Mở bàn A hay bàn B đều thấy chung danh sách các món của 2 bàn"
+                "content": "Mở bàn A hay bàn B đều thấy chung danh sách các món của 2 bàn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213460,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều sai"
+                "content": "Tất cả đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nhân viên thực hiện thao tác ghép bàn A và bàn B. Phát biểu nào sau đây đúng về nghiệp vụ \"Ghép bàn\"?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "13": {
-        "content": "Tại màn hình Sơ đồ bàn, nhân viên có thể biết được bàn nào đang có các món ăn theo trọng lượng",
+        "id": 54704,
         "index": 13,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213461,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213462,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213463,
                 "index": 3,
-                "match_column": null,
-                "content": "Tùy tham số hệ thống"
+                "content": "Tùy tham số hệ thống",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tại màn hình Sơ đồ bàn, nhân viên có thể biết được bàn nào đang có các món ăn theo trọng lượng",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "14": {
-        "content": "Trên sơ đồ bàn, có cách nào biết được bàn đó được chuyển từ bàn nào hoặc được gộp từ bàn nào về?",
+        "id": 54707,
         "index": 14,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213470,
                 "index": 1,
-                "match_column": null,
-                "content": "Mở tham số hiển thị"
+                "content": "Mở tham số hiển thị",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213471,
                 "index": 2,
-                "match_column": null,
-                "content": "Không có thông tin"
+                "content": "Không có thông tin",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213472,
                 "index": 3,
-                "match_column": null,
-                "content": "Dựa vào icon trên bàn"
+                "content": "Dựa vào icon trên bàn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213473,
                 "index": 4,
-                "match_column": null,
-                "content": "Trong sơ đồ chi tiết"
+                "content": "Trong sơ đồ chi tiết",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên sơ đồ bàn, có cách nào biết được bàn đó được chuyển từ bàn nào hoặc được gộp từ bàn nào về?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "15": {
-        "content": "Tại giao diện sơ đồ bàn, phát biểu nào sau đây đúng khi xem ở chế độ chi tiết?",
+        "id": 54621,
         "index": 15,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213172,
                 "index": 1,
-                "match_column": null,
-                "content": "Có thể hiển thị danh sách order theo thứ tự giá trị order"
+                "content": "Có thể hiển thị danh sách order theo thứ tự giá trị order",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213173,
                 "index": 2,
-                "match_column": null,
-                "content": "Có thể hiển thị danh sách order theo nhân viên phục vụ"
+                "content": "Có thể hiển thị danh sách order theo nhân viên phục vụ",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213174,
                 "index": 3,
-                "match_column": null,
-                "content": "Có thể hiển thị danh sách order theo thời gian order"
+                "content": "Có thể hiển thị danh sách order theo thời gian order",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213175,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều đúng"
+                "content": "Tất cả phương án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tại giao diện sơ đồ bàn, phát biểu nào sau đây đúng khi xem ở chế độ chi tiết?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "16": {
-        "content": "Tại giao diện sơ đồ bàn, có mấy chế độ hiển thị",
+        "id": 54620,
         "index": 16,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213168,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213169,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213170,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213171,
                 "index": 4,
-                "match_column": null,
-                "content": "4"
+                "content": "4",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tại giao diện sơ đồ bàn, có mấy chế độ hiển thị",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "17": {
-        "content": "Tên của bàn trên sơ đồ bàn sẽ là đối tượng nào",
+        "id": 54706,
         "index": 17,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213466,
                 "index": 1,
-                "match_column": null,
-                "content": "Tên bàn"
+                "content": "Tên bàn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213467,
                 "index": 2,
-                "match_column": null,
-                "content": "Mã bàn"
+                "content": "Mã bàn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213468,
                 "index": 3,
-                "match_column": null,
-                "content": "Tên bàn nhập trong sơ đồ bàn"
+                "content": "Tên bàn nhập trong sơ đồ bàn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213469,
                 "index": 4,
-                "match_column": null,
-                "content": "Tùy tham số hệ thống"
+                "content": "Tùy tham số hệ thống",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tên của bàn trên sơ đồ bàn sẽ là đối tượng nào",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "18": {
-        "content": "Ở đâu bạn có thể xem được số lượng khách của một order đang mở?",
+        "id": 54708,
         "index": 18,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213474,
                 "index": 1,
-                "match_column": null,
-                "content": "Trên sơ đồ bàn"
+                "content": "Trên sơ đồ bàn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213475,
                 "index": 2,
-                "match_column": null,
-                "content": "Trong danh mục \"Chi tiết\""
+                "content": "Trong danh mục \"Chi tiết\"",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213476,
                 "index": 3,
-                "match_column": null,
-                "content": "Vào trong Soạn thảo order"
+                "content": "Vào trong Soạn thảo order",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213477,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Ở đâu bạn có thể xem được số lượng khách của một order đang mở?",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 0
     },
     "19": {
-        "content": "Tại giao diện sơ đồ bàn, phát biểu nào sau đây đúng khi xem ở chế độ chi tiết? (Có thể chọn nhiều đáp án)",
+        "id": 54622,
         "index": 19,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213176,
                 "index": 1,
-                "match_column": null,
-                "content": "Có́ thể lọc hiển thị order theo hạng mục order"
+                "content": "Có́ thể lọc hiển thị order theo hạng mục order",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213177,
                 "index": 2,
-                "match_column": null,
-                "content": "Có́ thể lọc hiển thị order theo ghi chú của order"
+                "content": "Có́ thể lọc hiển thị order theo ghi chú của order",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213178,
                 "index": 3,
-                "match_column": null,
-                "content": "Có́ thể lọc hiển thị order theo tên chương trình giảm giá đang áp dụng"
+                "content": "Có́ thể lọc hiển thị order theo tên chương trình giảm giá đang áp dụng",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213179,
                 "index": 4,
-                "match_column": null,
-                "content": "Có thể lọc hiển thị theo mã thẻ thành viên"
+                "content": "Có thể lọc hiển thị theo mã thẻ thành viên",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tại giao diện sơ đồ bàn, phát biểu nào sau đây đúng khi xem ở chế độ chi tiết? (Có thể chọn nhiều đáp án)",
         "count_correct": 4,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 0
     },
     "20": {
-        "content": "Khi thực hiện ghép bàn, thì bàn được ghép vào có mất đi trên sơ đồ bàn hay không?",
+        "id": 54705,
         "index": 20,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213464,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213465,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi thực hiện ghép bàn, thì bàn được ghép vào có mất đi trên sơ đồ bàn hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2712,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Sơ đồ bàn",
+        "attachments": [],
+        "score_q": 1
     },
     "21": {
-        "content": "\"Return of Goods\" có có phép rả lại hàng hóa từ các hóa đơn của ngày trước đó (Hóa đơn thuộc về ca chung đã đóng)?",
+        "id": 54701,
         "index": 21,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213451,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213452,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "\"Return of Goods\" có có phép rả lại hàng hóa từ các hóa đơn của ngày trước đó (Hóa đơn thuộc về ca chung đã đóng)?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 0
     },
     "22": {
-        "content": "Phát biểu đúng về tính năng \"Danh sách món ngưng bán\" trên POS?",
+        "id": 54623,
         "index": 22,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213180,
                 "index": 1,
-                "match_column": null,
-                "content": "Thiêt lập món ngưng bán dùng chung cho tất cả nhà hàng, món ngưng bán sẽ không hiển thị trên menu"
+                "content": "Thiêt lập món ngưng bán dùng chung cho tất cả nhà hàng, món ngưng bán sẽ không hiển thị trên menu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213181,
                 "index": 2,
-                "match_column": null,
-                "content": "Thiết lập các món nhà hàng không bán tạm thời, mỗi nhà hàng cài đặt riêng biệt trên POS"
+                "content": "Thiết lập các món nhà hàng không bán tạm thời, mỗi nhà hàng cài đặt riêng biệt trên POS",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213182,
                 "index": 3,
-                "match_column": null,
-                "content": "Món đưa vào danh sách ngưng bán đồng thời sẽ được tắt kích hoạt trên máy chủ"
+                "content": "Món đưa vào danh sách ngưng bán đồng thời sẽ được tắt kích hoạt trên máy chủ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213183,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều sai"
+                "content": "Tất cả phương án đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu đúng về tính năng \"Danh sách món ngưng bán\" trên POS?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 1
     },
     "23": {
-        "content": "Khi thực hiện thưởng, phạt nhân viên trên máy POS, thì doanh thu ca thu ngân có ảnh hưởng hay không",
+        "id": 54697,
         "index": 23,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213441,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213442,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi thực hiện thưởng, phạt nhân viên trên máy POS, thì doanh thu ca thu ngân có ảnh hưởng hay không",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 1
     },
     "24": {
-        "content": "\"Giờ vào/ra\" nếu nhân viên chỉ check giờ vào và không check giờ ra thì nhân viên đó sẽ có độ dài ca là bao nhiêu",
+        "id": 54699,
         "index": 24,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213445,
                 "index": 1,
-                "match_column": null,
-                "content": "8 tiếng"
+                "content": "8 tiếng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213446,
                 "index": 2,
-                "match_column": null,
-                "content": "Tùy tham số thiết lập"
+                "content": "Tùy tham số thiết lập",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213447,
                 "index": 3,
-                "match_column": null,
-                "content": "24h"
+                "content": "24h",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213448,
                 "index": 4,
-                "match_column": null,
-                "content": "không xác định"
+                "content": "không xác định",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "\"Giờ vào/ra\" nếu nhân viên chỉ check giờ vào và không check giờ ra thì nhân viên đó sẽ có độ dài ca là bao nhiêu",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 0
     },
     "25": {
-        "content": "Phát biểu đúng về tính năng \"Món ăn tồn\" trên POS?",
+        "id": 54624,
         "index": 25,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213184,
                 "index": 1,
-                "match_column": null,
-                "content": "Các món nhà hàng ngưng bán sẽ được thêm vào danh sách này"
+                "content": "Các món nhà hàng ngưng bán sẽ được thêm vào danh sách này",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213185,
                 "index": 2,
-                "match_column": null,
-                "content": "Cài đặt số lượng tồn tối thiểu của món ăn, khi bán hàng, số lượng món ăn sẽ được trừ dần."
+                "content": "Cài đặt số lượng tồn tối thiểu của món ăn, khi bán hàng, số lượng món ăn sẽ được trừ dần.",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213186,
                 "index": 3,
-                "match_column": null,
-                "content": "Món ăn tồn được quản lý trực tiếp từ phần mềm Inventory"
+                "content": "Món ăn tồn được quản lý trực tiếp từ phần mềm Inventory",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213187,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều đúng"
+                "content": "Tất cả phương án đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu đúng về tính năng \"Món ăn tồn\" trên POS?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 1
     },
     "26": {
-        "content": "Các Visit sử dụng khi nào",
+        "id": 54696,
         "index": 26,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213437,
                 "index": 1,
-                "match_column": null,
-                "content": "Không sử dụng Visit tự tạo ra"
+                "content": "Không sử dụng Visit tự tạo ra",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213438,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng khi tham số One Order in One Visit được tắt"
+                "content": "Sử dụng khi tham số One Order in One Visit được tắt",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213439,
                 "index": 3,
-                "match_column": null,
-                "content": "Khi cần tạo order mới"
+                "content": "Khi cần tạo order mới",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213440,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các Visit sử dụng khi nào",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 0
     },
     "27": {
-        "content": "2 phím chức năng Xem báo cáo & In báo cáo được hiểu như thế nào là đúng?",
+        "id": 54688,
         "index": 27,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213407,
                 "index": 1,
-                "match_column": null,
-                "content": "In báo cáo là không được xem. Xem báo cáo là không được in"
+                "content": "In báo cáo là không được xem. Xem báo cáo là không được in",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213408,
                 "index": 2,
-                "match_column": null,
-                "content": "In báo cáo chỉ được 1 báo cáo, Xem báo cáo được nhiều."
+                "content": "In báo cáo chỉ được 1 báo cáo, Xem báo cáo được nhiều.",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213409,
                 "index": 3,
-                "match_column": null,
-                "content": "In báo cáo là không được xem. Xem báo cáo là được xem và in"
+                "content": "In báo cáo là không được xem. Xem báo cáo là được xem và in",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213410,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "2 phím chức năng Xem báo cáo & In báo cáo được hiểu như thế nào là đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 1
     },
     "28": {
-        "content": "POS có mấy chế độ order ở menu chính?",
+        "id": 54595,
         "index": 28,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213068,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213069,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213070,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213071,
                 "index": 4,
-                "match_column": null,
-                "content": "4"
+                "content": "4",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "POS có mấy chế độ order ở menu chính?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 0
     },
     "29": {
-        "content": "Một món ăn đang trong sách sách \"Món ăn bị giới hạn\" Nếu chọn tiếp vào món đó trong danh mục menu thì số lượng tồn sẽ bị ảnh hưởng",
+        "id": 54702,
         "index": 29,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213453,
                 "index": 1,
-                "match_column": null,
-                "content": "Chuyển thành 1"
+                "content": "Chuyển thành 1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213454,
                 "index": 2,
-                "match_column": null,
-                "content": "Tăng thêm 1"
+                "content": "Tăng thêm 1",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213455,
                 "index": 3,
-                "match_column": null,
-                "content": "không ảnh hưởng"
+                "content": "không ảnh hưởng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213456,
                 "index": 4,
-                "match_column": null,
-                "content": "Bớt đi 1"
+                "content": "Bớt đi 1",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Một món ăn đang trong sách sách \"Món ăn bị giới hạn\" Nếu chọn tiếp vào món đó trong danh mục menu thì số lượng tồn sẽ bị ảnh hưởng",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 0
     },
     "30": {
-        "content": "Từ máy POS có thể ra lệnh cho MidServer tải lại dữ liệu masterdata không?",
+        "id": 54700,
         "index": 30,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213449,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213450,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Từ máy POS có thể ra lệnh cho MidServer tải lại dữ liệu masterdata không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 0
     },
     "31": {
-        "content": "Đăng ký nhân viên là việc làm bắt buộc phải thực hiện mỗi ca làm việc",
+        "id": 54698,
         "index": 31,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213443,
                 "index": 1,
-                "match_column": null,
-                "content": "Đúng"
+                "content": "Đúng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213444,
                 "index": 2,
-                "match_column": null,
-                "content": "Sai"
+                "content": "Sai",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Đăng ký nhân viên là việc làm bắt buộc phải thực hiện mỗi ca làm việc",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2711,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Menu chính",
+        "attachments": [],
+        "score_q": 1
     },
     "32": {
-        "content": "Thao tác nào có thể thực hiện sau khi tạm tính?",
+        "id": 54604,
         "index": 32,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213104,
                 "index": 1,
-                "match_column": null,
-                "content": "Thêm/thay đổi giá trị giảm giá"
+                "content": "Thêm/thay đổi giá trị giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213105,
                 "index": 2,
-                "match_column": null,
-                "content": "Thêm/xóa món"
+                "content": "Thêm/xóa món",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213106,
                 "index": 3,
-                "match_column": null,
-                "content": "Chuyển bàn/gộp bàn"
+                "content": "Chuyển bàn/gộp bàn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213107,
                 "index": 4,
-                "match_column": null,
-                "content": "Thanh toán"
+                "content": "Thanh toán",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thao tác nào có thể thực hiện sau khi tạm tính?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "33": {
-        "content": "Giao diện order món có hiển thị menu theo các cách nào?",
+        "id": 54594,
         "index": 33,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213064,
                 "index": 1,
-                "match_column": null,
-                "content": "Hiển thị tên món và đơn giá món"
+                "content": "Hiển thị tên món và đơn giá món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213065,
                 "index": 2,
-                "match_column": null,
-                "content": "Hiển thị theo tên thay thế"
+                "content": "Hiển thị theo tên thay thế",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213066,
                 "index": 3,
-                "match_column": null,
-                "content": "Hiển thị mã món ăn, tên rút gọn"
+                "content": "Hiển thị mã món ăn, tên rút gọn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213067,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Giao diện order món có hiển thị menu theo các cách nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "34": {
-        "content": "Mô tả nào sau đây đúng về cơ chế “In kiểm đồ”? (Có thể chọn nhiều đáp án)",
+        "id": 54596,
         "index": 34,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213072,
                 "index": 1,
-                "match_column": null,
-                "content": "Có thể in kiểm đồ bất kỳ thời điểm nào"
+                "content": "Có thể in kiểm đồ bất kỳ thời điểm nào",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213073,
                 "index": 2,
-                "match_column": null,
-                "content": "In kiểm đồ nhằm mục đích giúp nghiệm vụ nhà hàng kiểm tra danh sách món khách đã gọi."
+                "content": "In kiểm đồ nhằm mục đích giúp nghiệm vụ nhà hàng kiểm tra danh sách món khách đã gọi.",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213074,
                 "index": 3,
-                "match_column": null,
-                "content": "Phiếu kiểm đồ thường không hiện số tiền thanh toán để giảm thiểu khả năng gian lận của nhân viên"
+                "content": "Phiếu kiểm đồ thường không hiện số tiền thanh toán để giảm thiểu khả năng gian lận của nhân viên",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213075,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Mô tả nào sau đây đúng về cơ chế “In kiểm đồ”? (Có thể chọn nhiều đáp án)",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "35": {
-        "content": "Nhân viên phục vụ và thu ngân không có quyền xóa món, chỉ có quản lý có quyền xóa món? Để hỗ trợ xóa nhiều món nhanh chống, thực hiện thao tác:",
+        "id": 54605,
         "index": 35,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213108,
                 "index": 1,
-                "match_column": null,
-                "content": "Sử dụng tính năng \"Đăng nhập tạm thời\""
+                "content": "Sử dụng tính năng \"Đăng nhập tạm thời\"",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213109,
                 "index": 2,
-                "match_column": null,
-                "content": "Quẹt thẻ quản lý vào cửa sổ yêu cầu quyền \"Hủy\". Thực hiện nhiều lần thao tác cho đến khi hủy hết món"
+                "content": "Quẹt thẻ quản lý vào cửa sổ yêu cầu quyền \"Hủy\". Thực hiện nhiều lần thao tác cho đến khi hủy hết món",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213110,
                 "index": 3,
-                "match_column": null,
-                "content": "Hủy đăng nhập, đăng nhập tài khoản quản lý"
+                "content": "Hủy đăng nhập, đăng nhập tài khoản quản lý",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213111,
                 "index": 4,
-                "match_column": null,
-                "content": "Phân quyền hủy cho thu ngân, hủy xong hết món sẽ bỏ quyền hủy"
+                "content": "Phân quyền hủy cho thu ngân, hủy xong hết món sẽ bỏ quyền hủy",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nhân viên phục vụ và thu ngân không có quyền xóa món, chỉ có quản lý có quyền xóa món? Để hỗ trợ xóa nhiều món nhanh chống, thực hiện thao tác:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "36": {
-        "content": "Nghiệp vụ POS, thao tác xóa giảm giá áp dụng cho món ăn?",
+        "id": 54597,
         "index": 36,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213076,
                 "index": 1,
-                "match_column": null,
-                "content": "Ấn chọn vào giảm giá, bầm \"Xóa\""
+                "content": "Ấn chọn vào giảm giá, bầm \"Xóa\"",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213077,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn món đang áp dụng giảm giá và bấm nút \"Nội dung\", ấn chọn giảm giá cần xóa"
+                "content": "Chọn món đang áp dụng giảm giá và bấm nút \"Nội dung\", ấn chọn giảm giá cần xóa",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213078,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn món đang áp dụng giảm giá và bấm nút \"Giảm giá\", ấn chọn giảm giá cần xóa"
+                "content": "Chọn món đang áp dụng giảm giá và bấm nút \"Giảm giá\", ấn chọn giảm giá cần xóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213079,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nghiệp vụ POS, thao tác xóa giảm giá áp dụng cho món ăn?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "37": {
-        "content": "Trong giao diện soạn thảo order, các thao tác để thêm giảm giá vào order? (Có thể chọn nhiều đáp án)",
+        "id": 54601,
         "index": 37,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213092,
                 "index": 1,
-                "match_column": null,
-                "content": "Thao tác thủ công"
+                "content": "Thao tác thủ công",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213093,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng thẻ giả̉m giá, số điện thoại thành viên, app thành viên"
+                "content": "Sử dụng thẻ giả̉m giá, số điện thoại thành viên, app thành viên",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213094,
                 "index": 3,
-                "match_column": null,
-                "content": "Sử dụng mã RK7 + nút \"Giảm giá\""
+                "content": "Sử dụng mã RK7 + nút \"Giảm giá\"",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213095,
                 "index": 4,
-                "match_column": null,
-                "content": "Cài đặt chương trình giảm giá tự động"
+                "content": "Cài đặt chương trình giảm giá tự động",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong giao diện soạn thảo order, các thao tác để thêm giảm giá vào order? (Có thể chọn nhiều đáp án)",
         "count_correct": 3,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 0
     },
     "38": {
-        "content": "Trong giao diện soạn thảo order, các bước thực hiện thao tác chuyển món từ bàn này sang bàn khác?",
+        "id": 54603,
         "index": 38,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213100,
                 "index": 1,
-                "match_column": null,
-                "content": "Xóa món ở bàn cũ, order lại món đó vào bàn mới"
+                "content": "Xóa món ở bàn cũ, order lại món đó vào bàn mới",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213101,
                 "index": 2,
-                "match_column": null,
-                "content": "\"Chon \"Tách bàn\" -> Chọn \"Chọn order\", chọn bàn cần chuyển món tới -> Chuyển món ăn cần tách --> Lưu"
+                "content": "\"Chon \"Tách bàn\" -> Chọn \"Chọn order\", chọn bàn cần chuyển món tới -> Chuyển món ăn cần tách --> Lưu",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213102,
                 "index": 3,
-                "match_column": null,
-                "content": "Vào order, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách"
+                "content": "Vào order, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213103,
                 "index": 4,
-                "match_column": null,
-                "content": "Không thể chuyển được món từ bàn này sang bàn khác"
+                "content": "Không thể chuyển được món từ bàn này sang bàn khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong giao diện soạn thảo order, các bước thực hiện thao tác chuyển món từ bàn này sang bàn khác?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "39": {
-        "content": "Nghiệp vụ POS, sau khi xác nhận order, làm cách nào để thay đổi ghi chú món ăn?",
+        "id": 54593,
         "index": 39,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213060,
                 "index": 1,
-                "match_column": null,
-                "content": "Bấm vào món cần thay đổi ghi chú -> chọn nút \"Nội dung\""
+                "content": "Bấm vào món cần thay đổi ghi chú -> chọn nút \"Nội dung\"",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213061,
                 "index": 2,
-                "match_column": null,
-                "content": "Ấn chọn vào ghi chú, bầm \"Xóa\" và thêm ghi chú mới"
+                "content": "Ấn chọn vào ghi chú, bầm \"Xóa\" và thêm ghi chú mới",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213062,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thay đổi được ghi chú"
+                "content": "Không thay đổi được ghi chú",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213063,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nghiệp vụ POS, sau khi xác nhận order, làm cách nào để thay đổi ghi chú món ăn?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "40": {
-        "content": "Trong giao diện soạn thảo order, các cách để chuyển về màn hình \"Thông tin order\" cho phép thay đổi hạng mục order?",
+        "id": 54599,
         "index": 40,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213084,
                 "index": 1,
-                "match_column": null,
-                "content": "Bấm vào nút \"Hạng mục order\""
+                "content": "Bấm vào nút \"Hạng mục order\"",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213085,
                 "index": 2,
-                "match_column": null,
-                "content": "Bấm vào vị trí thời gian mở order gốc trên màn hình"
+                "content": "Bấm vào vị trí thời gian mở order gốc trên màn hình",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213086,
                 "index": 3,
-                "match_column": null,
-                "content": "Bấm vào vị trí tên bàn phía trên màn hình"
+                "content": "Bấm vào vị trí tên bàn phía trên màn hình",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213087,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều đúng"
+                "content": "Tất cả phương án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong giao diện soạn thảo order, các cách để chuyển về màn hình \"Thông tin order\" cho phép thay đổi hạng mục order?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "41": {
-        "content": "Phát biểu nào đúng theo tính năng \"Thanh toán\"?",
+        "id": 54606,
         "index": 41,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213112,
                 "index": 1,
-                "match_column": null,
-                "content": "Có thể chọn thanh toán nhanh bằng tiền tệ mặc định"
+                "content": "Có thể chọn thanh toán nhanh bằng tiền tệ mặc định",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213113,
                 "index": 2,
-                "match_column": null,
-                "content": "Có thể thanh toán băng nhiều hình thức thanh toán khác nhau"
+                "content": "Có thể thanh toán băng nhiều hình thức thanh toán khác nhau",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213114,
                 "index": 3,
-                "match_column": null,
-                "content": "Thanh toán bằng voucher sẽ không có tiền thối lại"
+                "content": "Thanh toán bằng voucher sẽ không có tiền thối lại",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213115,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều đúng"
+                "content": "Tất cả phương án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào đúng theo tính năng \"Thanh toán\"?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "42": {
-        "content": "Trong giao diện soạn thảo order, các bước thực hiện thao tác tách bàn cần?",
+        "id": 54602,
         "index": 42,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213096,
                 "index": 1,
-                "match_column": null,
-                "content": "Chon \"Tách bàn\" -> Chọn \"Mới\" để tạo order mới -> Chuyển món ăn cần tách --> Lưu"
+                "content": "Chon \"Tách bàn\" -> Chọn \"Mới\" để tạo order mới -> Chuyển món ăn cần tách --> Lưu",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213097,
                 "index": 2,
-                "match_column": null,
-                "content": "Chon \"Tách bàn\" -> Chọn \"Mới\" để tạo order mới -> Chuyển món ăn cần tách --> Lưu\n Vào order mới tạo, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách."
+                "content": "Chon \"Tách bàn\" -> Chọn \"Mới\" để tạo order mới -> Chuyển món ăn cần tách --> Lưu\n Vào order mới tạo, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách.",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213098,
                 "index": 3,
-                "match_column": null,
-                "content": "Vào order, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách"
+                "content": "Vào order, ấn \"Chuyển bàn\" để chuyển sang bàn cần tách",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213099,
                 "index": 4,
-                "match_column": null,
-                "content": "Vào order, ấn \"Gộp bàn\" để chuyển sang bàn cần tách"
+                "content": "Vào order, ấn \"Gộp bàn\" để chuyển sang bàn cần tách",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong giao diện soạn thảo order, các bước thực hiện thao tác tách bàn cần?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 0
     },
     "43": {
-        "content": "Trong giao diện soạn thảo order, các cách để nhập món vào order? (Có thể chọn nhiều đáp án)",
+        "id": 54598,
         "index": 43,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213080,
                 "index": 1,
-                "match_column": null,
-                "content": "Thao tác chọn món ăn trong nhóm menu trên màn hình"
+                "content": "Thao tác chọn món ăn trong nhóm menu trên màn hình",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213081,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng tính năng tìm kiếm món ăn"
+                "content": "Sử dụng tính năng tìm kiếm món ăn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213082,
                 "index": 3,
-                "match_column": null,
-                "content": "Sử dụng mã món ăn trong RK7"
+                "content": "Sử dụng mã món ăn trong RK7",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213083,
                 "index": 4,
-                "match_column": null,
-                "content": "Scan barcode để nhập món vào order"
+                "content": "Scan barcode để nhập món vào order",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong giao diện soạn thảo order, các cách để nhập món vào order? (Có thể chọn nhiều đáp án)",
         "count_correct": 4,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "44": {
-        "content": "Nghiệp vụ POS, có mấy thao tác nhập chỉnh sửa số lượng món ăn trước khi xác nhận order?",
+        "id": 54592,
         "index": 44,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213056,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213057,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213058,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213059,
                 "index": 4,
-                "match_column": null,
-                "content": "4"
+                "content": "4",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nghiệp vụ POS, có mấy thao tác nhập chỉnh sửa số lượng món ăn trước khi xác nhận order?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "45": {
-        "content": "Trong giao diện soạn thảo order, phát biểu nào sau đây đúng?",
+        "id": 54600,
         "index": 45,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213088,
                 "index": 1,
-                "match_column": null,
-                "content": "Có thể xem danh sách các món đã order ở chế độ gộp lại."
+                "content": "Có thể xem danh sách các món đã order ở chế độ gộp lại.",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213089,
                 "index": 2,
-                "match_column": null,
-                "content": "Có thể xem danh sách các món order chưa lưu ở chế độ gộp lại."
+                "content": "Có thể xem danh sách các món order chưa lưu ở chế độ gộp lại.",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213090,
                 "index": 3,
-                "match_column": null,
-                "content": "Có phím tính năng hỗ trợ di chuyển con trỏ lên xuống theo thứ tự hoặc chuyển trang trong khu vực hiển thị món đã lưu."
+                "content": "Có phím tính năng hỗ trợ di chuyển con trỏ lên xuống theo thứ tự hoặc chuyển trang trong khu vực hiển thị món đã lưu.",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213091,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều đúng"
+                "content": "Tất cả phương án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong giao diện soạn thảo order, phát biểu nào sau đây đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2710,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Soạn thảo order",
+        "attachments": [],
+        "score_q": 1
     },
     "46": {
-        "content": "Trên máy POS, báo cáo giao ca thu ngân không chứa các thông tin gì?",
+        "id": 54729,
         "index": 46,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213556,
                 "index": 1,
-                "match_column": null,
-                "content": "Số tiền giảm giá của từng chương trình"
+                "content": "Số tiền giảm giá của từng chương trình",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213557,
                 "index": 2,
-                "match_column": null,
-                "content": "Doanh thu của từng hình thức thanh toán"
+                "content": "Doanh thu của từng hình thức thanh toán",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213558,
                 "index": 3,
-                "match_column": null,
-                "content": "Tổng số tiền các bàn chưa đóng"
+                "content": "Tổng số tiền các bàn chưa đóng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213559,
                 "index": 4,
-                "match_column": null,
-                "content": "Doanh thu của ca thu ngân đã đóng"
+                "content": "Doanh thu của ca thu ngân đã đóng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên máy POS, báo cáo giao ca thu ngân không chứa các thông tin gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 1
     },
     "47": {
-        "content": "Phát biểu nào sau đây đúng về hệ thống báo cáo POS? (Có thể chọn nhiều đáp án)",
+        "id": 54557,
         "index": 47,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212916,
                 "index": 1,
-                "match_column": null,
-                "content": "Báo cáo POS có thể phân quyền xem, truy cập tùy theo chức vụ của nhân viên tại nhà hàng."
+                "content": "Báo cáo POS có thể phân quyền xem, truy cập tùy theo chức vụ của nhân viên tại nhà hàng.",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212917,
                 "index": 2,
-                "match_column": null,
-                "content": "Báo cáo POS không hỗ trợ phân quyền xem/truy cập theo từng chức vụ của nhân viên tại nhà hàng."
+                "content": "Báo cáo POS không hỗ trợ phân quyền xem/truy cập theo từng chức vụ của nhân viên tại nhà hàng.",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212918,
                 "index": 3,
-                "match_column": null,
-                "content": "Có thể thiết lập nhiều bộ báo cáo khác nhau cho các nhà hàng khác nhau"
+                "content": "Có thể thiết lập nhiều bộ báo cáo khác nhau cho các nhà hàng khác nhau",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212919,
                 "index": 4,
-                "match_column": null,
-                "content": "Các nhà hàng phải sử dụng chung một bộ báo cáo POS"
+                "content": "Các nhà hàng phải sử dụng chung một bộ báo cáo POS",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về hệ thống báo cáo POS? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 0
     },
     "48": {
-        "content": "Trên báo cáo POS, báo cáo nào hỗ trợ cho việc thống kê số lượng món bán hàng ngày cho nhà hàng?",
+        "id": 54559,
         "index": 48,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212924,
                 "index": 1,
-                "match_column": null,
-                "content": "Báo cáo giao ca cả ngày"
+                "content": "Báo cáo giao ca cả ngày",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212925,
                 "index": 2,
-                "match_column": null,
-                "content": "Báo cáo cân đối hệ thống"
+                "content": "Báo cáo cân đối hệ thống",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212926,
                 "index": 3,
-                "match_column": null,
-                "content": "Báo cáo món ăn theo hạng mục bar/bếp"
+                "content": "Báo cáo món ăn theo hạng mục bar/bếp",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212927,
                 "index": 4,
-                "match_column": null,
-                "content": "Báo cáo đóng ca chung"
+                "content": "Báo cáo đóng ca chung",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên báo cáo POS, báo cáo nào hỗ trợ cho việc thống kê số lượng món bán hàng ngày cho nhà hàng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 1
     },
     "49": {
-        "content": "<p>Liệt kê 5 báo cáo mà hệ thống POS của Dcorp đang hỗ trợ? (Tự luận)</p>",
+        "id": 54868,
         "index": 49,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<ul><li>Báo cáo giao ca thu ngân</li><li>Báo cáo giao ca cả ngày</li><li>Bảng cân đối hệ thống</li><li>Báo cáo món ăn theo hạng mục</li><li>Báo cáo giảm giá</li></ul>"
+        },
+        "explain": "",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Liệt kê 5 báo cáo mà hệ thống POS của Dcorp đang hỗ trợ? (Tự luận)</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 0
     },
     "50": {
-        "content": "Báo cáo trên trên POS có thể lọc theo thu ngân, phân nhóm món ăn không?",
+        "id": 54727,
         "index": 50,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213550,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213551,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Báo cáo trên trên POS có thể lọc theo thu ngân, phân nhóm món ăn không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 1
     },
     "51": {
-        "content": "Trên máy POS, “Báo cáo giao ca thu ngân” thường cung cấp các thông tin gì?",
+        "id": 54558,
         "index": 51,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212920,
                 "index": 1,
-                "match_column": null,
-                "content": "Thông tin doanh thu, thuế, chiết khấu trong ca thu ngân"
+                "content": "Thông tin doanh thu, thuế, chiết khấu trong ca thu ngân",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212921,
                 "index": 2,
-                "match_column": null,
-                "content": "Chi tiết doanh thu các hình thức thanh toán"
+                "content": "Chi tiết doanh thu các hình thức thanh toán",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212922,
                 "index": 3,
-                "match_column": null,
-                "content": "Chi tiết số tiền chiết khấu của các chương trình khuyến mại"
+                "content": "Chi tiết số tiền chiết khấu của các chương trình khuyến mại",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212923,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên máy POS, “Báo cáo giao ca thu ngân” thường cung cấp các thông tin gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 1
     },
     "52": {
-        "content": "Trên máy POS, có thể in lại báo cáo giao ca cả ngày sau khi đã đóng ca chung không?",
+        "id": 54730,
         "index": 52,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213560,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213561,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên máy POS, có thể in lại báo cáo giao ca cả ngày sau khi đã đóng ca chung không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 1
     },
     "53": {
-        "content": "<p>Trên máy POS, khi kết ca sáng, thu ngân in báo cáo giao ca thu ngân, sau đó thanh toán bill, rồi đóng ca thu ngân. Quy trình này đúng hay sai? Diễn giải lý do? (Câu hỏi tự luận)</p>",
+        "id": 54870,
         "index": 53,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<p>Quy trình sai</p><p>Quy trình như thế sẽ bị lệch doanh thu</p><p>Quy trình đúng: Thanh toán bill xong mới đóng ca thu ngân</p><p>&nbsp;</p>"
+        },
+        "explain": "",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Trên máy POS, khi kết ca sáng, thu ngân in báo cáo giao ca thu ngân, sau đó thanh toán bill, rồi đóng ca thu ngân. Quy trình này đúng hay sai? Diễn giải lý do? (Câu hỏi tự luận)</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 0
     },
     "54": {
-        "content": "Trên máy POS, trong báo cáo giảm giá/tăng giá mặc định, cột số lượng có ý nghĩa gì?",
+        "id": 54728,
         "index": 54,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213552,
                 "index": 1,
-                "match_column": null,
-                "content": "Số lượng bill đã thanh toán áp dụng chương trình giảm giá"
+                "content": "Số lượng bill đã thanh toán áp dụng chương trình giảm giá",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213553,
                 "index": 2,
-                "match_column": null,
-                "content": "Số lượng order đang mở có chương trình giảm giá"
+                "content": "Số lượng order đang mở có chương trình giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213554,
                 "index": 3,
-                "match_column": null,
-                "content": "Số lần áp dụng chương trình giảm giá"
+                "content": "Số lần áp dụng chương trình giảm giá",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213555,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên máy POS, trong báo cáo giảm giá/tăng giá mặc định, cột số lượng có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 0
     },
     "55": {
-        "content": "Phát biểu nào sau đây đúng về hệ thống báo cáo POS",
+        "id": 54556,
         "index": 55,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212912,
                 "index": 1,
-                "match_column": null,
-                "content": "Báo cáo POS có thể hỗ trợ layout A4/A5"
+                "content": "Báo cáo POS có thể hỗ trợ layout A4/A5",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212913,
                 "index": 2,
-                "match_column": null,
-                "content": "Báo cáo POS chỉ hỗ trợ in layout trên máy in nhiệt, khổ giấy 80mm"
+                "content": "Báo cáo POS chỉ hỗ trợ in layout trên máy in nhiệt, khổ giấy 80mm",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212914,
                 "index": 3,
-                "match_column": null,
-                "content": "Báo cáo POS có thể được in lại sau khi đóng ca chung"
+                "content": "Báo cáo POS có thể được in lại sau khi đóng ca chung",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212915,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về hệ thống báo cáo POS",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2709,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_FO_Report",
+        "attachments": [],
+        "score_q": 1
     },
     "56": {
-        "content": "Khi setup dịch vụ in, làm sao biết được máy in bếp thì in món ăn, máy in bar chỉ in món nước?",
+        "id": 54551,
         "index": 56,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212896,
                 "index": 1,
-                "match_column": null,
-                "content": "Dựa theo nhóm menu"
+                "content": "Dựa theo nhóm menu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212897,
                 "index": 2,
-                "match_column": null,
-                "content": "Dựa theo phân nhóm được gán trong dịch vụ in"
+                "content": "Dựa theo phân nhóm được gán trong dịch vụ in",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212898,
                 "index": 3,
-                "match_column": null,
-                "content": "Dựa theo tên máy in"
+                "content": "Dựa theo tên máy in",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212899,
                 "index": 4,
-                "match_column": null,
-                "content": "Do mặc định hệ thống"
+                "content": "Do mặc định hệ thống",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi setup dịch vụ in, làm sao biết được máy in bếp thì in món ăn, máy in bar chỉ in món nước?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "57": {
-        "content": "Sự khác nhau giữa In Graphic và In Linemode",
+        "id": 54681,
         "index": 57,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213379,
                 "index": 1,
-                "match_column": null,
-                "content": "Không khác nhau"
+                "content": "Không khác nhau",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213380,
                 "index": 2,
-                "match_column": null,
-                "content": "Graphic là in dạng hình ảnh, đồ họa"
+                "content": "Graphic là in dạng hình ảnh, đồ họa",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213381,
                 "index": 3,
-                "match_column": null,
-                "content": "Line mode là chế độ in dòng lệnh"
+                "content": "Line mode là chế độ in dòng lệnh",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213382,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả A và B đều đúng"
+                "content": "Cả A và B đều đúng",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Sự khác nhau giữa In Graphic và In Linemode",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 0
     },
     "58": {
-        "content": "Khách hàng yêu cầu dịch vụ in trệt khác với dịch vụ in lầu 1, thì người dùng cần làm như thế nào?",
+        "id": 54554,
         "index": 58,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212904,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo dịch vụ in, sau đó đặt tên cho khác nhau"
+                "content": "Tạo dịch vụ in, sau đó đặt tên cho khác nhau",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212905,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo 2 dịch vụ in riêng cho trệt và dịch vụ in cho lầu 1, gán máy in theo yêu cầu khách hàng để phiếu in ra đúng vị trí , kéo sơ đồ sử dụng."
+                "content": "Tạo 2 dịch vụ in riêng cho trệt và dịch vụ in cho lầu 1, gán máy in theo yêu cầu khách hàng để phiếu in ra đúng vị trí , kéo sơ đồ sử dụng.",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212906,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thể tạo được"
+                "content": "Không thể tạo được",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212907,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khách hàng yêu cầu dịch vụ in trệt khác với dịch vụ in lầu 1, thì người dùng cần làm như thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "59": {
-        "content": "Khi 1 nhóm item cần in ra ở 3 vị trí bếp khác nhau cùng 1 thời điểm. Setup nào sau đây là đúng?",
+        "id": 54684,
         "index": 59,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213391,
                 "index": 1,
-                "match_column": null,
-                "content": "Không setup được"
+                "content": "Không setup được",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213392,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo 3 dịch vụ in và chọn máy in tương ứng"
+                "content": "Tạo 3 dịch vụ in và chọn máy in tương ứng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213393,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo 3 sơ đồ dịch vụ in và chọn máy in tương ứng"
+                "content": "Tạo 3 sơ đồ dịch vụ in và chọn máy in tương ứng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213394,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả 3 câu đều sai"
+                "content": "Cả 3 câu đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi 1 nhóm item cần in ra ở 3 vị trí bếp khác nhau cùng 1 thời điểm. Setup nào sau đây là đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "60": {
-        "content": "Khi sử dụng mẫu in line mode có cần cài driver máy in không?",
+        "id": 54682,
         "index": 60,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213383,
                 "index": 1,
-                "match_column": null,
-                "content": "Bắt buộc cài driver"
+                "content": "Bắt buộc cài driver",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213384,
                 "index": 2,
-                "match_column": null,
-                "content": "Không cần cài driver"
+                "content": "Không cần cài driver",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213385,
                 "index": 3,
-                "match_column": null,
-                "content": "Cài cũng được hoặc không cài cũng được"
+                "content": "Cài cũng được hoặc không cài cũng được",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213386,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả A & B đều đúng"
+                "content": "Cả A & B đều đúng",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi sử dụng mẫu in line mode có cần cài driver máy in không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 0
     },
     "61": {
-        "content": "Ỏ 1 thời điểm, 1 dịch vụ in có thể chọn được bao nhiêu phân lớp in?",
+        "id": 54685,
         "index": 61,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213395,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213396,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213397,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213398,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Ỏ 1 thời điểm, 1 dịch vụ in có thể chọn được bao nhiêu phân lớp in?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 0
     },
     "62": {
-        "content": "Khách hàng yêu cầu khi in hóa đơn thì phải ra 2 liên giống nhau, người dùng sẽ làm như thế nào?",
+        "id": 54555,
         "index": 62,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212908,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo 2 sơ đồ in khác nhau"
+                "content": "Tạo 2 sơ đồ in khác nhau",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212909,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo 2 máy in khác nhau"
+                "content": "Tạo 2 máy in khác nhau",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212910,
                 "index": 3,
-                "match_column": null,
-                "content": "Trong thuộc tính Copies, chọn số lượng cần in ra"
+                "content": "Trong thuộc tính Copies, chọn số lượng cần in ra",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212911,
                 "index": 4,
-                "match_column": null,
-                "content": "Không thể làm được"
+                "content": "Không thể làm được",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khách hàng yêu cầu khi in hóa đơn thì phải ra 2 liên giống nhau, người dùng sẽ làm như thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "63": {
-        "content": "Sơ đồ in có áp dụng theo nhóm menu được không?",
+        "id": 54683,
         "index": 63,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213387,
                 "index": 1,
-                "match_column": null,
-                "content": "Có áp dụng"
+                "content": "Có áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213388,
                 "index": 2,
-                "match_column": null,
-                "content": "Không áp dụng"
+                "content": "Không áp dụng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213389,
                 "index": 3,
-                "match_column": null,
-                "content": "Tùy trường hợp mà áp dụng"
+                "content": "Tùy trường hợp mà áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213390,
                 "index": 4,
-                "match_column": null,
-                "content": "Sơ đồ in chỉ áp dụng cho item, không áp dụng cho nhóm"
+                "content": "Sơ đồ in chỉ áp dụng cho item, không áp dụng cho nhóm",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Sơ đồ in có áp dụng theo nhóm menu được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "64": {
-        "content": "Phiếu in món ăn có thể setup vừa in ở bếp vừa in ở bar được không?",
+        "id": 54552,
         "index": 64,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212900,
                 "index": 1,
-                "match_column": null,
-                "content": "Được"
+                "content": "Được",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212901,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phiếu in món ăn có thể setup vừa in ở bếp vừa in ở bar được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "65": {
-        "content": "Trong trường hợp doanh nghiệp có 2 nhà hàng trong cùng 1 tòa nhà, chung 1 quầy bar, khách hàng yêu cầu sử dụng chung 1 máy in quầy bar cho 2 nhà hàng được không?",
+        "id": 54553,
         "index": 65,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212902,
                 "index": 1,
-                "match_column": null,
-                "content": "Được, hệ thống POS tại 2 nhà hàng phải chung 1 lớp mạng với máy in đặt quầy bar"
+                "content": "Được, hệ thống POS tại 2 nhà hàng phải chung 1 lớp mạng với máy in đặt quầy bar",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212903,
                 "index": 2,
-                "match_column": null,
-                "content": "Không, bắt buộc phải tạo riêng"
+                "content": "Không, bắt buộc phải tạo riêng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong trường hợp doanh nghiệp có 2 nhà hàng trong cùng 1 tòa nhà, chung 1 quầy bar, khách hàng yêu cầu sử dụng chung 1 máy in quầy bar cho 2 nhà hàng được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2708,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_ServicesPrint",
+        "attachments": [],
+        "score_q": 1
     },
     "66": {
-        "content": "Ứng dụng của “Hạng mục order” (Order Categories)?",
+        "id": 54547,
         "index": 66,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212880,
                 "index": 1,
-                "match_column": null,
-                "content": "Dùng để phân trung tâm doanh thu"
+                "content": "Dùng để phân trung tâm doanh thu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212881,
                 "index": 2,
-                "match_column": null,
-                "content": "Ứng dụng vào mô hình buffet"
+                "content": "Ứng dụng vào mô hình buffet",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212882,
                 "index": 3,
-                "match_column": null,
-                "content": "Ứng dụng cho mô hình nhà hàng nhiều thuế suất"
+                "content": "Ứng dụng cho mô hình nhà hàng nhiều thuế suất",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212883,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Ứng dụng của “Hạng mục order” (Order Categories)?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 1
     },
     "67": {
-        "content": "Tiền tệ khi không được áp dụng chọn trong hạng mục order/Loại order thì như thế nào trên POS?",
+        "id": 54549,
         "index": 67,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212888,
                 "index": 1,
-                "match_column": null,
-                "content": "Hiển thị nhưng không thể thao tác chọn."
+                "content": "Hiển thị nhưng không thể thao tác chọn.",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212889,
                 "index": 2,
-                "match_column": null,
-                "content": "Hiển thị và có thể thao tác chọn."
+                "content": "Hiển thị và có thể thao tác chọn.",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212890,
                 "index": 3,
-                "match_column": null,
-                "content": "Không hiển thị tiền tệ trên POS."
+                "content": "Không hiển thị tiền tệ trên POS.",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212891,
                 "index": 4,
-                "match_column": null,
-                "content": "Không hiển thị trên POS nhưng có thể sử dụng cho order bằng cách khác."
+                "content": "Không hiển thị trên POS nhưng có thể sử dụng cho order bằng cách khác.",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tiền tệ khi không được áp dụng chọn trong hạng mục order/Loại order thì như thế nào trên POS?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 0
     },
     "68": {
-        "content": "Để giới hạn 1 OrderCategories hiển thị chỉ được sử dụng cho 1 nhóm nhân viên nào đó, bạn cần làm gì?",
+        "id": 54646,
         "index": 68,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213272,
                 "index": 1,
-                "match_column": null,
-                "content": "Kéo sơ đồ sử dụng, chọn nhóm nhân viên"
+                "content": "Kéo sơ đồ sử dụng, chọn nhóm nhân viên",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213273,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo quyền, gắn quyền vào mục quyền truy cập và phân quyền cho nhóm nhân viên"
+                "content": "Tạo quyền, gắn quyền vào mục quyền truy cập và phân quyền cho nhóm nhân viên",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213274,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thể phân quyền Order categories"
+                "content": "Không thể phân quyền Order categories",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213275,
                 "index": 4,
-                "match_column": null,
-                "content": "Câu A & B đúng"
+                "content": "Câu A & B đúng",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để giới hạn 1 OrderCategories hiển thị chỉ được sử dụng cho 1 nhóm nhân viên nào đó, bạn cần làm gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 0
     },
     "69": {
-        "content": "Hạng mục order không có thuộc tính này?",
+        "id": 54710,
         "index": 69,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213482,
                 "index": 1,
-                "match_column": null,
-                "content": "Giới hạn quyền truy cập"
+                "content": "Giới hạn quyền truy cập",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213483,
                 "index": 2,
-                "match_column": null,
-                "content": "Loại order mặc định"
+                "content": "Loại order mặc định",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213484,
                 "index": 3,
-                "match_column": null,
-                "content": "Giới hạn tiền tệ"
+                "content": "Giới hạn tiền tệ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213485,
                 "index": 4,
-                "match_column": null,
-                "content": "Giới hạn nhóm kinh doanh"
+                "content": "Giới hạn nhóm kinh doanh",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Hạng mục order không có thuộc tính này?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 1
     },
     "70": {
-        "content": "Để áp dụng không tính service charge 5% cho Order type \"take away\", thì thao tác nào sau đây là đúng?",
+        "id": 54644,
         "index": 70,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213264,
                 "index": 1,
-                "match_column": null,
-                "content": "Trong quy tắc thuế, chọn order type \"take away\""
+                "content": "Trong quy tắc thuế, chọn order type \"take away\"",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213265,
                 "index": 2,
-                "match_column": null,
-                "content": "Không chọn được thuế cho Order type"
+                "content": "Không chọn được thuế cho Order type",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213266,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn order type \"take away\", chọn nhóm thuế"
+                "content": "Chọn order type \"take away\", chọn nhóm thuế",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213267,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều sai"
+                "content": "Tất cả đều sai",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để áp dụng không tính service charge 5% cho Order type \"take away\", thì thao tác nào sau đây là đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 0
     },
     "71": {
-        "content": "Có 2 OrderCategories là \"oc_Alacarte\" và \"oc_Buffet\" sử dụng 2 đơn giá tương ứng là \"pt_Alacarte\" và \"pt_Buffet\" thì đáp án nào sau đây là đúng",
+        "id": 54645,
         "index": 71,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213268,
                 "index": 1,
-                "match_column": null,
-                "content": "Không sử dụng được đơn giá theo từng loại OrderCategories"
+                "content": "Không sử dụng được đơn giá theo từng loại OrderCategories",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213269,
                 "index": 2,
-                "match_column": null,
-                "content": "Kéo sơ đồ sử dụng OrderCategories tương ứng với từng loại đơn giá"
+                "content": "Kéo sơ đồ sử dụng OrderCategories tương ứng với từng loại đơn giá",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213270,
                 "index": 3,
-                "match_column": null,
-                "content": "Kéo sơ đồ sử dụng đơn giá tương ứng với từng loại ordercategories"
+                "content": "Kéo sơ đồ sử dụng đơn giá tương ứng với từng loại ordercategories",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213271,
                 "index": 4,
-                "match_column": null,
-                "content": "Chỉ áp dụng được 1 đơn giá cho 2 ordercategories"
+                "content": "Chỉ áp dụng được 1 đơn giá cho 2 ordercategories",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có 2 OrderCategories là \"oc_Alacarte\" và \"oc_Buffet\" sử dụng 2 đơn giá tương ứng là \"pt_Alacarte\" và \"pt_Buffet\" thì đáp án nào sau đây là đúng",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 1
     },
     "72": {
-        "content": "Để sử dụng Order Type (Take away) cho 1 nhà hàng, thao tác nào sau đây là đúng",
+        "id": 54643,
         "index": 72,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213260,
                 "index": 1,
-                "match_column": null,
-                "content": "Kéo sơ đồ sử dụng order type, chọn nhà hàng áp dụng"
+                "content": "Kéo sơ đồ sử dụng order type, chọn nhà hàng áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213261,
                 "index": 2,
-                "match_column": null,
-                "content": "Trong thuộc tính order type, chọn nhà hàng sử dụng"
+                "content": "Trong thuộc tính order type, chọn nhà hàng sử dụng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213262,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thể sử dụng order cho nhà hàng"
+                "content": "Không thể sử dụng order cho nhà hàng",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213263,
                 "index": 4,
-                "match_column": null,
-                "content": "Trong thuộc tính nhà hàng, chọn order type \"take away\""
+                "content": "Trong thuộc tính nhà hàng, chọn order type \"take away\"",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để sử dụng Order Type (Take away) cho 1 nhà hàng, thao tác nào sau đây là đúng",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 1
     },
     "73": {
-        "content": "Quy tắc áp dụng hạng mục order trong sơ đồ sử dụng như thế nào?",
+        "id": 54548,
         "index": 73,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212884,
                 "index": 1,
-                "match_column": null,
-                "content": "Từ dưới lên trên, từ trái qua phải."
+                "content": "Từ dưới lên trên, từ trái qua phải.",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212885,
                 "index": 2,
-                "match_column": null,
-                "content": "Từ trên xuống dưới, từ phải qua trái."
+                "content": "Từ trên xuống dưới, từ phải qua trái.",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212886,
                 "index": 3,
-                "match_column": null,
-                "content": "Từ dưới lên trên,từ phải qua trái."
+                "content": "Từ dưới lên trên,từ phải qua trái.",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212887,
                 "index": 4,
-                "match_column": null,
-                "content": "Từ trên xuống dưới, từ trái qua phải."
+                "content": "Từ trên xuống dưới, từ trái qua phải.",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Quy tắc áp dụng hạng mục order trong sơ đồ sử dụng như thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 0
     },
     "74": {
-        "content": "Loại order không có thuộc tính này?",
+        "id": 54711,
         "index": 74,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213486,
                 "index": 1,
-                "match_column": null,
-                "content": "Giới hạn quyền truy cập"
+                "content": "Giới hạn quyền truy cập",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213487,
                 "index": 2,
-                "match_column": null,
-                "content": "Loại order mặc định"
+                "content": "Loại order mặc định",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213488,
                 "index": 3,
-                "match_column": null,
-                "content": "Giới hạn tiền tệ"
+                "content": "Giới hạn tiền tệ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213489,
                 "index": 4,
-                "match_column": null,
-                "content": "Giới hạn nhóm kinh doanh"
+                "content": "Giới hạn nhóm kinh doanh",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Loại order không có thuộc tính này?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 0
     },
     "75": {
-        "content": "Để giới hạn hình thức thanh toán Grab chỉ được áp dụng cho các bàn ở sơ đồ bàn \"Delivery\", ta có thể sử dụng tính năng gì? (Có thể chọn nhiều đáp án)",
+        "id": 54712,
         "index": 75,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213490,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhóm kinh doanh"
+                "content": "Nhóm kinh doanh",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213491,
                 "index": 2,
-                "match_column": null,
-                "content": "Loại order"
+                "content": "Loại order",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213492,
                 "index": 3,
-                "match_column": null,
-                "content": "Hạng mục order"
+                "content": "Hạng mục order",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213493,
                 "index": 4,
-                "match_column": null,
-                "content": "Schedule"
+                "content": "Schedule",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để giới hạn hình thức thanh toán Grab chỉ được áp dụng cho các bàn ở sơ đồ bàn \"Delivery\", ta có thể sử dụng tính năng gì? (Có thể chọn nhiều đáp án)",
         "count_correct": 3,
-        "attachments": []
+        "topic_id": 2707,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_OrderCategories_OrderType",
+        "attachments": [],
+        "score_q": 0
     },
     "76": {
-        "content": "Tham số \"Change to combo\" của một món ăn có thể thiết lập với mấy Combo",
+        "id": 54642,
         "index": 76,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213256,
                 "index": 1,
-                "match_column": null,
-                "content": "Là số lượng combo mà món ăn tham gia vào"
+                "content": "Là số lượng combo mà món ăn tham gia vào",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213257,
                 "index": 2,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213258,
                 "index": 3,
-                "match_column": null,
-                "content": "Chỉ 1"
+                "content": "Chỉ 1",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213259,
                 "index": 4,
-                "match_column": null,
-                "content": "Tùy phiên bản"
+                "content": "Tùy phiên bản",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tham số \"Change to combo\" của một món ăn có thể thiết lập với mấy Combo",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 0
     },
     "77": {
-        "content": "Một menu item có thể gắn bao nhiêu mã vạch",
+        "id": 54640,
         "index": 77,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213248,
                 "index": 1,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213249,
                 "index": 2,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213250,
                 "index": 3,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213251,
                 "index": 4,
-                "match_column": null,
-                "content": "Tùy phiên bản"
+                "content": "Tùy phiên bản",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Một menu item có thể gắn bao nhiêu mã vạch",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 0
     },
     "78": {
-        "content": "Thuộc tính \"Thời gian chế biến\" trong menu item có ý nghĩa gì?",
+        "id": 54636,
         "index": 78,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213232,
                 "index": 1,
-                "match_column": null,
-                "content": "Thời gian item in vào bếp"
+                "content": "Thời gian item in vào bếp",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213233,
                 "index": 2,
-                "match_column": null,
-                "content": "Thời gian item hiển thị trên KDS"
+                "content": "Thời gian item hiển thị trên KDS",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213234,
                 "index": 3,
-                "match_column": null,
-                "content": "Thời gian chế biến của item"
+                "content": "Thời gian chế biến của item",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213235,
                 "index": 4,
-                "match_column": null,
-                "content": "Không có thuộc tính này"
+                "content": "Không có thuộc tính này",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thuộc tính \"Thời gian chế biến\" trong menu item có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "79": {
-        "content": "Trong RK7 manager, Một menuitem có thể gắn được bao nhiêu đơn giá?",
+        "id": 54634,
         "index": 79,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213224,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213225,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213226,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213227,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, Một menuitem có thể gắn được bao nhiêu đơn giá?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "80": {
-        "content": "Trong RK7 manager, Tính năng nào cho phép nhập số thập phân cho số lượng của menu item?",
+        "id": 54543,
         "index": 80,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212864,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhập giá trị cho thuộc tính “Độ chính xác của số lượng”"
+                "content": "Nhập giá trị cho thuộc tính “Độ chính xác của số lượng”",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212865,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập giá trị cho thuộc tính “Xác minh số lượng”"
+                "content": "Nhập giá trị cho thuộc tính “Xác minh số lượng”",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212866,
                 "index": 3,
-                "match_column": null,
-                "content": "Cả A và B đều đúng"
+                "content": "Cả A và B đều đúng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212867,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả A và B đều sai"
+                "content": "Cả A và B đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, Tính năng nào cho phép nhập số thập phân cho số lượng của menu item?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "81": {
-        "content": "Trong RK7 manager, Tính năng nào cho phép menu item order theo trọng lượng?",
+        "id": 54541,
         "index": 81,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212856,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn giá trị “Suất ăn tính theo trọng lượng” trong thuộc tính “Phương thức tính giá”"
+                "content": "Chọn giá trị “Suất ăn tính theo trọng lượng” trong thuộc tính “Phương thức tính giá”",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212857,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn giá trị “Theo cái (suất ăn cố định)” trong thuộc tính “Phương thức tính giá”"
+                "content": "Chọn giá trị “Theo cái (suất ăn cố định)” trong thuộc tính “Phương thức tính giá”",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212858,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn giá trị “Theo liều lượng chuẩn” trong thuộc tính “Phương thức tính giá”"
+                "content": "Chọn giá trị “Theo liều lượng chuẩn” trong thuộc tính “Phương thức tính giá”",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212859,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn giá trị “Theo suất ăn chuẩn” trong thuộc tính “Phương thức tính giá”"
+                "content": "Chọn giá trị “Theo suất ăn chuẩn” trong thuộc tính “Phương thức tính giá”",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, Tính năng nào cho phép menu item order theo trọng lượng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "82": {
-        "content": "Trong RK7 manager, Tính năng nào cho phép order menu item thành từng dòng riêng biệt",
+        "id": 54542,
         "index": 82,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212860,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn giá trị “Đăng nhập” trong thuộc tính “Add Line Mode”"
+                "content": "Chọn giá trị “Đăng nhập” trong thuộc tính “Add Line Mode”",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212861,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn giá trị “Thêm dòng” trong thuộc tính “Add Line Mode”"
+                "content": "Chọn giá trị “Thêm dòng” trong thuộc tính “Add Line Mode”",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212862,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn giá trị “Bổ sung” trong thuộc tính “Add Line Mode”"
+                "content": "Chọn giá trị “Bổ sung” trong thuộc tính “Add Line Mode”",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212863,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn giá trị “Dòng riêng” trong thuộc tính “Add Line Mode”"
+                "content": "Chọn giá trị “Dòng riêng” trong thuộc tính “Add Line Mode”",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, Tính năng nào cho phép order menu item thành từng dòng riêng biệt",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "83": {
-        "content": "Thuộc tính \"Công thức chế biến\" của menuitem có chức năng gì?",
+        "id": 54637,
         "index": 83,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213236,
                 "index": 1,
-                "match_column": null,
-                "content": "Là định lượng của item, bán sẽ trừ hàng theo định lượng"
+                "content": "Là định lượng của item, bán sẽ trừ hàng theo định lượng",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213237,
                 "index": 2,
-                "match_column": null,
-                "content": "Là 1 ghi chú về công thức để hiển thị trên màn hình POS"
+                "content": "Là 1 ghi chú về công thức để hiển thị trên màn hình POS",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213238,
                 "index": 3,
-                "match_column": null,
-                "content": "Là 1 ghi chú về công thức để hiển thị trên màn hình KDS"
+                "content": "Là 1 ghi chú về công thức để hiển thị trên màn hình KDS",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213239,
                 "index": 4,
-                "match_column": null,
-                "content": "Menu item không có thuộc tính \"Công thức chế biến\""
+                "content": "Menu item không có thuộc tính \"Công thức chế biến\"",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thuộc tính \"Công thức chế biến\" của menuitem có chức năng gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 0
     },
     "84": {
-        "content": "Mội menu item có thể gắn trực tiếp vào nhóm kinh doanh không?",
+        "id": 54639,
         "index": 84,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213244,
                 "index": 1,
-                "match_column": null,
-                "content": "Không được, phải thông qua phân lớp classfication"
+                "content": "Không được, phải thông qua phân lớp classfication",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213245,
                 "index": 2,
-                "match_column": null,
-                "content": "Có thế gắn trực tiếp"
+                "content": "Có thế gắn trực tiếp",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213246,
                 "index": 3,
-                "match_column": null,
-                "content": "Cả A, B đều đúng"
+                "content": "Cả A, B đều đúng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213247,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả A & B đều sai"
+                "content": "Cả A & B đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Mội menu item có thể gắn trực tiếp vào nhóm kinh doanh không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "85": {
-        "content": "Trong thuộc tính menu item. Ý nghĩa của tham số tồn tối thiểu trên món ăn là gì",
+        "id": 54641,
         "index": 85,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213252,
                 "index": 1,
-                "match_column": null,
-                "content": "Không thể bán khi số lượng món ăn tồn thấp hơn đó đó"
+                "content": "Không thể bán khi số lượng món ăn tồn thấp hơn đó đó",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213253,
                 "index": 2,
-                "match_column": null,
-                "content": "Món ăn sẽ được quản lý tồn trên POS"
+                "content": "Món ăn sẽ được quản lý tồn trên POS",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213254,
                 "index": 3,
-                "match_column": null,
-                "content": "Số lượng tồn hàng ngày sẽ là số đó"
+                "content": "Số lượng tồn hàng ngày sẽ là số đó",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213255,
                 "index": 4,
-                "match_column": null,
-                "content": "Kho hàng phải nhập thêm hàng nếu số tồn thấp hơn"
+                "content": "Kho hàng phải nhập thêm hàng nếu số tồn thấp hơn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong thuộc tính menu item. Ý nghĩa của tham số tồn tối thiểu trên món ăn là gì",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 0
     },
     "86": {
-        "content": "Tính năng mã vạch của menu item được hiểu như nào là đúng?",
+        "id": 54638,
         "index": 86,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213240,
                 "index": 1,
-                "match_column": null,
-                "content": "Không có mã vạch"
+                "content": "Không có mã vạch",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213241,
                 "index": 2,
-                "match_column": null,
-                "content": "Mã vạch chỉ có thể là số"
+                "content": "Mã vạch chỉ có thể là số",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213242,
                 "index": 3,
-                "match_column": null,
-                "content": "Mã vạch có thể là số hoặc chữ"
+                "content": "Mã vạch có thể là số hoặc chữ",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213243,
                 "index": 4,
-                "match_column": null,
-                "content": "Trong menu item có thể tự tạo ra mã vạch"
+                "content": "Trong menu item có thể tự tạo ra mã vạch",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tính năng mã vạch của menu item được hiểu như nào là đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "87": {
-        "content": "Trong RK7 manager, Một menuitem có thể gắn được nhóm thuế theo từng nhà hàng khác nhau được không?",
+        "id": 54635,
         "index": 87,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213228,
                 "index": 1,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213229,
                 "index": 2,
-                "match_column": null,
-                "content": "Được"
+                "content": "Được",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213230,
                 "index": 3,
-                "match_column": null,
-                "content": "Item không có nhóm thuế"
+                "content": "Item không có nhóm thuế",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213231,
                 "index": 4,
-                "match_column": null,
-                "content": "Item chỉ có duy nhất 1 nhóm thuế dùng chung"
+                "content": "Item chỉ có duy nhất 1 nhóm thuế dùng chung",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, Một menuitem có thể gắn được nhóm thuế theo từng nhà hàng khác nhau được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "88": {
-        "content": "Trong RK7 manager, Thuộc tính “Schedule” của menu item có chức năng gì?",
+        "id": 54540,
         "index": 88,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212852,
                 "index": 1,
-                "match_column": null,
-                "content": "Điều chỉnh giá bán của menu item cho tất cả nhà hàng"
+                "content": "Điều chỉnh giá bán của menu item cho tất cả nhà hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212853,
                 "index": 2,
-                "match_column": null,
-                "content": "Điều chỉnh số lượng menu item cho tất cả nhà hàng"
+                "content": "Điều chỉnh số lượng menu item cho tất cả nhà hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212854,
                 "index": 3,
-                "match_column": null,
-                "content": "Điều chỉnh thời gian theo giai đoạn của menu item cho tất cả nhà hàng"
+                "content": "Điều chỉnh thời gian theo giai đoạn của menu item cho tất cả nhà hàng",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212855,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đúng"
+                "content": "Tất cả đáp án đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, Thuộc tính “Schedule” của menu item có chức năng gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2706,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_MenuItem",
+        "attachments": [],
+        "score_q": 1
     },
     "89": {
-        "content": "Phát biểu nào sau đây là đúng về phân lớp menu (Menu Classifications)? (Có thể chọn nhiều đáp án)",
+        "id": 54535,
         "index": 89,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212832,
                 "index": 1,
-                "match_column": null,
-                "content": "Một món ăn có thể nằm ở nhiều hạng mục trong cùng một phân lớp."
+                "content": "Một món ăn có thể nằm ở nhiều hạng mục trong cùng một phân lớp.",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212833,
                 "index": 2,
-                "match_column": null,
-                "content": "Một món ăn chỉ nằm ở một hạng mục trong cùng một phân lớp."
+                "content": "Một món ăn chỉ nằm ở một hạng mục trong cùng một phân lớp.",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212834,
                 "index": 3,
-                "match_column": null,
-                "content": "Một món ăn có thể nằm ở nhiều hạng mục khác nhau ở nhiều phân lớp khác nhau"
+                "content": "Một món ăn có thể nằm ở nhiều hạng mục khác nhau ở nhiều phân lớp khác nhau",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212835,
                 "index": 4,
-                "match_column": null,
-                "content": "Một món ăn chỉ có thể nằm ở một hạng mục của một phân lớp, không thể nằm ở hạng mục khác ở phân phân lớp khác."
+                "content": "Một món ăn chỉ có thể nằm ở một hạng mục của một phân lớp, không thể nằm ở hạng mục khác ở phân phân lớp khác.",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây là đúng về phân lớp menu (Menu Classifications)? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "90": {
-        "content": "Đối tượng nào sau đây không link với Classifications",
+        "id": 54630,
         "index": 90,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213208,
                 "index": 1,
-                "match_column": null,
-                "content": "Giảm giá"
+                "content": "Giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213209,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhóm kinh doanh"
+                "content": "Nhóm kinh doanh",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213210,
                 "index": 3,
-                "match_column": null,
-                "content": "Dịch vụ in"
+                "content": "Dịch vụ in",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213211,
                 "index": 4,
-                "match_column": null,
-                "content": "Đơn giá"
+                "content": "Đơn giá",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "Giảm giá",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Đối tượng nào sau đây không link với Classifications",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "91": {
-        "content": "Trong Classifications, sử dụng phân lớp hay hạng mục classification để kết kết nối vào nhóm kinh doanh",
+        "id": 54632,
         "index": 91,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213216,
                 "index": 1,
-                "match_column": null,
-                "content": "Phân lớp"
+                "content": "Phân lớp",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213217,
                 "index": 2,
-                "match_column": null,
-                "content": "Hạng mục"
+                "content": "Hạng mục",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213218,
                 "index": 3,
-                "match_column": null,
-                "content": "Cả A,B đều đúng"
+                "content": "Cả A,B đều đúng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213219,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả A & B đều sai"
+                "content": "Cả A & B đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Phân lớp",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong Classifications, sử dụng phân lớp hay hạng mục classification để kết kết nối vào nhóm kinh doanh",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "92": {
-        "content": "Khi phân lớp tích vào thuộc tính \"Grouping Required\", có ý nghĩa gì?",
+        "id": 54737,
         "index": 92,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213584,
                 "index": 1,
-                "match_column": null,
-                "content": "Các phân lớp sẽ nhóm lại trên RK7manager"
+                "content": "Các phân lớp sẽ nhóm lại trên RK7manager",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213585,
                 "index": 2,
-                "match_column": null,
-                "content": "Các phân lớp sẽ nhóm lại trên báo cáo"
+                "content": "Các phân lớp sẽ nhóm lại trên báo cáo",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213586,
                 "index": 3,
-                "match_column": null,
-                "content": "Yêu cầu món ăn bắt buộc phải gán phân lớp này"
+                "content": "Yêu cầu món ăn bắt buộc phải gán phân lớp này",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213587,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi phân lớp tích vào thuộc tính \"Grouping Required\", có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 0
     },
     "93": {
-        "content": "Một phân lớp Classifications có thể gắn được bao nhiêu chương trỉnh giảm giá",
+        "id": 54631,
         "index": 93,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213212,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213213,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213214,
                 "index": 3,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213215,
                 "index": 4,
-                "match_column": null,
-                "content": "Không gắn vào được giảm giá"
+                "content": "Không gắn vào được giảm giá",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "1",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Một phân lớp Classifications có thể gắn được bao nhiêu chương trỉnh giảm giá",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "94": {
-        "content": "Trong RK7 manager, một menu item có thể chọn bao nhiêu phân lớp?",
+        "id": 54539,
         "index": 94,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212848,
                 "index": 1,
-                "match_column": null,
-                "content": "Chỉ 1 phân lớp menu"
+                "content": "Chỉ 1 phân lớp menu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212849,
                 "index": 2,
-                "match_column": null,
-                "content": "Tối đa 2 phân lớp menu"
+                "content": "Tối đa 2 phân lớp menu",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212850,
                 "index": 3,
-                "match_column": null,
-                "content": "Tối đa 3 phân lớp menu"
+                "content": "Tối đa 3 phân lớp menu",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212851,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn phân lớp menu được chọn"
+                "content": "Không giới hạn phân lớp menu được chọn",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, một menu item có thể chọn bao nhiêu phân lớp?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "95": {
-        "content": "Có thể sử dụng phân lớp Classifications để phân nhóm cho Modifier được không",
+        "id": 54633,
         "index": 95,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213220,
                 "index": 1,
-                "match_column": null,
-                "content": "Sử dụng được"
+                "content": "Sử dụng được",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213221,
                 "index": 2,
-                "match_column": null,
-                "content": "Không sử dụng được"
+                "content": "Không sử dụng được",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213222,
                 "index": 3,
-                "match_column": null,
-                "content": "Được, nhưng hạn chế về phân nhóm"
+                "content": "Được, nhưng hạn chế về phân nhóm",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213223,
                 "index": 4,
-                "match_column": null,
-                "content": "Chỉ áp dụng cho Modifier có giá"
+                "content": "Chỉ áp dụng cho Modifier có giá",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Sử dụng được",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có thể sử dụng phân lớp Classifications để phân nhóm cho Modifier được không",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "96": {
-        "content": "Phân lớp (Menu Classifications) có giới hạn số lượng tạo bao nhiêu?",
+        "id": 54537,
         "index": 96,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212840,
                 "index": 1,
-                "match_column": null,
-                "content": "30"
+                "content": "30",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212841,
                 "index": 2,
-                "match_column": null,
-                "content": "40"
+                "content": "40",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212842,
                 "index": 3,
-                "match_column": null,
-                "content": "50"
+                "content": "50",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212843,
                 "index": 4,
-                "match_column": null,
-                "content": "Lớn hơn 50"
+                "content": "Lớn hơn 50",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phân lớp (Menu Classifications) có giới hạn số lượng tạo bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "97": {
-        "content": "Thuộc tính nào là thuộc tính của Phân lớp (Menu Classifications) (Có thể chọn nhiều đáp án)",
+        "id": 54536,
         "index": 97,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212836,
                 "index": 1,
-                "match_column": null,
-                "content": "Grouping Required"
+                "content": "Grouping Required",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212837,
                 "index": 2,
-                "match_column": null,
-                "content": "Open Price"
+                "content": "Open Price",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212838,
                 "index": 3,
-                "match_column": null,
-                "content": "Allow repurchasing"
+                "content": "Allow repurchasing",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212839,
                 "index": 4,
-                "match_column": null,
-                "content": "Use In Reports"
+                "content": "Use In Reports",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thuộc tính nào là thuộc tính của Phân lớp (Menu Classifications) (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 1
     },
     "98": {
-        "content": "<p>Mô tả tính năng của phân lớp (Menu Classifications) hỗ trợ được các vấn đề gì? (Câu hỏi tự luận)</p>",
+        "id": 54867,
         "index": 98,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<ul><li>Hỗ trợ báo cáo</li><li>Giảm giá</li><li>Dịch vụ in</li><li>Tạo quy tắc đơn giá mới</li><li>Nhóm kinh doanh</li></ul>"
+        },
+        "explain": "",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Mô tả tính năng của phân lớp (Menu Classifications) hỗ trợ được các vấn đề gì? (Câu hỏi tự luận)</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2705,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Classifications",
+        "attachments": [],
+        "score_q": 0
     },
     "99": {
-        "content": "Trên phần mềm RK7 Manager, Vào bộ selector nào để setup các tính năng liên quan đến thanh toán?",
+        "id": 54725,
         "index": 99,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213542,
                 "index": 1,
-                "match_column": null,
-                "content": "Selector Chính"
+                "content": "Selector Chính",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213543,
                 "index": 2,
-                "match_column": null,
-                "content": "Selector Linh Tinh"
+                "content": "Selector Linh Tinh",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213544,
                 "index": 3,
-                "match_column": null,
-                "content": "Selector tác vụ"
+                "content": "Selector tác vụ",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213545,
                 "index": 4,
-                "match_column": null,
-                "content": "Selector tác vụ, bàn phím"
+                "content": "Selector tác vụ, bàn phím",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên phần mềm RK7 Manager, Vào bộ selector nào để setup các tính năng liên quan đến thanh toán?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "100": {
-        "content": "Khi khách hàng yêu cầu là nhân viên order sử dụng bộ lựa chọn tiếng Việt, quản lý sử dụng bộ lựa chọn tiếng Anh, thì setup cách nào nhanh nhất?",
+        "id": 54526,
         "index": 100,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212796,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo 2 bộ lựa chọn Tiếng Anh – Tiếng Việt"
+                "content": "Tạo 2 bộ lựa chọn Tiếng Anh – Tiếng Việt",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212797,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng ngôn ngữ thay thế cho người dùng"
+                "content": "Sử dụng ngôn ngữ thay thế cho người dùng",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 212798,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thể nào tạo được"
+                "content": "Không thể nào tạo được",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212799,
                 "index": 4,
-                "match_column": null,
-                "content": "A và B đều đúng"
+                "content": "A và B đều đúng",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "Khi khách hàng yêu cầu là nhân viên order sử dụng bộ lựa chọn tiếng Việt, quản lý sử dụng bộ lựa chọn tiếng Anh, thì setup cách nào nhanh nhất?",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi khách hàng yêu cầu là nhân viên order sử dụng bộ lựa chọn tiếng Việt, quản lý sử dụng bộ lựa chọn tiếng Anh, thì setup cách nào nhanh nhất?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 0
     },
     "101": {
-        "content": "Trên phần mềm RK7 Manager, tính năng selector có thể setup phân quyền theo bàn được không?",
+        "id": 54726,
         "index": 101,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213546,
                 "index": 1,
-                "match_column": null,
-                "content": "Chỉ phân quyền được theo POS"
+                "content": "Chỉ phân quyền được theo POS",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213547,
                 "index": 2,
-                "match_column": null,
-                "content": "Chỉ phân quyền được theo khu vực"
+                "content": "Chỉ phân quyền được theo khu vực",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213548,
                 "index": 3,
-                "match_column": null,
-                "content": "Chỉ phân quyền được theo nhóm nhân viên"
+                "content": "Chỉ phân quyền được theo nhóm nhân viên",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213549,
                 "index": 4,
-                "match_column": null,
-                "content": "A,B,C đều đúng"
+                "content": "A,B,C đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên phần mềm RK7 Manager, tính năng selector có thể setup phân quyền theo bàn được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "102": {
-        "content": "Trên phần mềm RK7 Manager, tính năng selector có thể setup phân quyền theo nhân viên được không?",
+        "id": 54724,
         "index": 102,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213538,
                 "index": 1,
-                "match_column": null,
-                "content": "Được"
+                "content": "Được",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213539,
                 "index": 2,
-                "match_column": null,
-                "content": "Không được"
+                "content": "Không được",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213540,
                 "index": 3,
-                "match_column": null,
-                "content": "Chỉ phân quyền được theo nhóm nhân viên"
+                "content": "Chỉ phân quyền được theo nhóm nhân viên",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 213541,
                 "index": 4,
-                "match_column": null,
-                "content": "Chỉ phân quyền được theo nhà hàng"
+                "content": "Chỉ phân quyền được theo nhà hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên phần mềm RK7 Manager, tính năng selector có thể setup phân quyền theo nhân viên được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 0
     },
     "103": {
-        "content": "Tính năng selector chính giúp ích gì cho vận hành dưới nhà hàng",
+        "id": 54723,
         "index": 103,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213534,
                 "index": 1,
-                "match_column": null,
-                "content": "Quản lý doanh thu nhanh chóng hơn"
+                "content": "Quản lý doanh thu nhanh chóng hơn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213535,
                 "index": 2,
-                "match_column": null,
-                "content": "Quản lý kho thuận tiện hơn"
+                "content": "Quản lý kho thuận tiện hơn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213536,
                 "index": 3,
-                "match_column": null,
-                "content": "Cập nhật và thay đổi menu nhanh chóng"
+                "content": "Cập nhật và thay đổi menu nhanh chóng",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213537,
                 "index": 4,
-                "match_column": null,
-                "content": "A,B,C đều sai"
+                "content": "A,B,C đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tính năng selector chính giúp ích gì cho vận hành dưới nhà hàng",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "104": {
-        "content": "Trong tác vụ selector, để chuyển về giao diện hiển thị menu thì chọn tác vụ nào sau đây",
+        "id": 54686,
         "index": 104,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213399,
                 "index": 1,
-                "match_column": null,
-                "content": "Chuyển món ăn về bình thường"
+                "content": "Chuyển món ăn về bình thường",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213400,
                 "index": 2,
-                "match_column": null,
-                "content": "Chuyển tới selector món ăn"
+                "content": "Chuyển tới selector món ăn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213401,
                 "index": 3,
-                "match_column": null,
-                "content": "Chuyển tới selector"
+                "content": "Chuyển tới selector",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213402,
                 "index": 4,
-                "match_column": null,
-                "content": "Không có tác vụ này"
+                "content": "Không có tác vụ này",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong tác vụ selector, để chuyển về giao diện hiển thị menu thì chọn tác vụ nào sau đây",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "105": {
-        "content": "Khi khách hàng có yêu cầu sắp xếp lại menu, vị trí nút bấm ngay lập tức mà không muốn ảnh hưởng gián đoạn đến việc order của nhân viên phục vụ, vậy cần làm gì để đúng với yêu cầu khách hàng?",
+        "id": 54525,
         "index": 105,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212792,
                 "index": 1,
-                "match_column": null,
-                "content": "Tắt đồng bộ rồi tiến hành chỉnh sửa"
+                "content": "Tắt đồng bộ rồi tiến hành chỉnh sửa",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212793,
                 "index": 2,
-                "match_column": null,
-                "content": "Đợi hết giờ hoạt động nhà hàng rồi chỉnh sửa"
+                "content": "Đợi hết giờ hoạt động nhà hàng rồi chỉnh sửa",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212794,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo bộ lựa chọn riêng theo yêu cầu, sau đó đặt thời gian sử dụng cho bộ lựa chọn"
+                "content": "Tạo bộ lựa chọn riêng theo yêu cầu, sau đó đặt thời gian sử dụng cho bộ lựa chọn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212795,
                 "index": 4,
-                "match_column": null,
-                "content": "Bắt buộc phải ngưng order mới chỉnh sửa được"
+                "content": "Bắt buộc phải ngưng order mới chỉnh sửa được",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Khi khách hàng có yêu cầu sắp xếp lại menu, vị trí nút bấm ngay lập tức mà không muốn ảnh hưởng gián đoạn đến việc order của nhân viên phục vụ, vậy cần làm gì để đúng với yêu cầu khách hàng?",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi khách hàng có yêu cầu sắp xếp lại menu, vị trí nút bấm ngay lập tức mà không muốn ảnh hưởng gián đoạn đến việc order của nhân viên phục vụ, vậy cần làm gì để đúng với yêu cầu khách hàng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "106": {
-        "content": "Trong RK7, phát biểu nào sau đây đúng về tính năng selector?",
+        "id": 54524,
         "index": 106,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212788,
                 "index": 1,
-                "match_column": null,
-                "content": "Các nhà hàng khác nhau có thể sử dụng selector khác nhau"
+                "content": "Các nhà hàng khác nhau có thể sử dụng selector khác nhau",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212789,
                 "index": 2,
-                "match_column": null,
-                "content": "Để vẽ lại menu món ăn, ta vào tính năng Selector → Selector Hóa đơn:menu ngữ cảnh"
+                "content": "Để vẽ lại menu món ăn, ta vào tính năng Selector → Selector Hóa đơn:menu ngữ cảnh",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212790,
                 "index": 3,
-                "match_column": null,
-                "content": "Selector “Hóa đơn: selector chính” hỗ trợ việc thay đổi giao diện menu chính trên POS"
+                "content": "Selector “Hóa đơn: selector chính” hỗ trợ việc thay đổi giao diện menu chính trên POS",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212791,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả phương án đều đúng"
+                "content": "Tất cả phương án đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Trong RK7, phát biểu nào sau đây đúng về tính năng selector?",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7, phát biểu nào sau đây đúng về tính năng selector?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "107": {
-        "content": "Thuộc tính Model (mẫu in) trong selector có chức năng gì?",
+        "id": 54687,
         "index": 107,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213403,
                 "index": 1,
-                "match_column": null,
-                "content": "Dùng để soạn thảo form báo cáo"
+                "content": "Dùng để soạn thảo form báo cáo",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213404,
                 "index": 2,
-                "match_column": null,
-                "content": "Dùng để thiêt kế form in"
+                "content": "Dùng để thiêt kế form in",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213405,
                 "index": 3,
-                "match_column": null,
-                "content": "Dùng để vẽ các đối tượng trong selector theo ý người dùng"
+                "content": "Dùng để vẽ các đối tượng trong selector theo ý người dùng",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213406,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều sai"
+                "content": "Tất cả đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thuộc tính Model (mẫu in) trong selector có chức năng gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "108": {
-        "content": "Trong tính năng selector, phát biểu nào sau đây đúng nhất về nhóm selector “người dùng”",
+        "id": 54523,
         "index": 108,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212784,
                 "index": 1,
-                "match_column": null,
-                "content": "Hỗ trợ vẽ lại seletor chính của món ăn"
+                "content": "Hỗ trợ vẽ lại seletor chính của món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212785,
                 "index": 2,
-                "match_column": null,
-                "content": "Hỗ trợ vẽ selector các nút phím hàm cho người dùng"
+                "content": "Hỗ trợ vẽ selector các nút phím hàm cho người dùng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212786,
                 "index": 3,
-                "match_column": null,
-                "content": "Cung cấp cho người dùng các nhóm selector có thể tùy chỉnh theo các nghiệp vụ mong muốn"
+                "content": "Cung cấp cho người dùng các nhóm selector có thể tùy chỉnh theo các nghiệp vụ mong muốn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212787,
                 "index": 4,
-                "match_column": null,
-                "content": "Nhóm selector “người dùng” có thể tạo không giới hạn số lượng nhóm"
+                "content": "Nhóm selector “người dùng” có thể tạo không giới hạn số lượng nhóm",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Trong tính năng selector, phát biểu nào sau đây đúng nhất về nhóm selector “người dùng”",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong tính năng selector, phát biểu nào sau đây đúng nhất về nhóm selector “người dùng”",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2703,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Selector",
+        "attachments": [],
+        "score_q": 1
     },
     "109": {
-        "content": "Nhà hàng cài đặt \"phí dịch vụ 5%\" và thuế \"VAT 10%\". Để thuế VAT tính sau cùng, ta cần?",
+        "id": 54736,
         "index": 109,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213580,
                 "index": 1,
-                "match_column": null,
-                "content": "Cài đặt nhóm thuế \"phí dịch vụ 5%\" nằm trên nhóm thuế \"VAT 10%\""
+                "content": "Cài đặt nhóm thuế \"phí dịch vụ 5%\" nằm trên nhóm thuế \"VAT 10%\"",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213581,
                 "index": 2,
-                "match_column": null,
-                "content": "Điền tham số độ ưu tiên cho từng thuế"
+                "content": "Điền tham số độ ưu tiên cho từng thuế",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213582,
                 "index": 3,
-                "match_column": null,
-                "content": "Cài đặt thuế \"phí dịch vụ 5%\" nằm trên thuế \"VAT 10%\""
+                "content": "Cài đặt thuế \"phí dịch vụ 5%\" nằm trên thuế \"VAT 10%\"",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213583,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nhà hàng cài đặt \"phí dịch vụ 5%\" và thuế \"VAT 10%\". Để thuế VAT tính sau cùng, ta cần?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "110": {
-        "content": "Trong thuế, thuộc tính “Thêm vào đơn giá” có ý nghĩa gì?",
+        "id": 54521,
         "index": 110,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212776,
                 "index": 1,
-                "match_column": null,
-                "content": "Dùng để cài đặt cách tính thuế thêm vào đơn giá khi thanh toán hoặc thuế đã bao gồm trong đơn giá món ăn"
+                "content": "Dùng để cài đặt cách tính thuế thêm vào đơn giá khi thanh toán hoặc thuế đã bao gồm trong đơn giá món ăn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212777,
                 "index": 2,
-                "match_column": null,
-                "content": "Dùng để thêm thuế vào giá món ăn"
+                "content": "Dùng để thêm thuế vào giá món ăn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212778,
                 "index": 3,
-                "match_column": null,
-                "content": "Dùng để thêm đơn giá"
+                "content": "Dùng để thêm đơn giá",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212779,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong thuế, thuộc tính “Thêm vào đơn giá” có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "111": {
-        "content": "Món Cơm chiên có thuế 10%, nhà hàng tính thêm 5% phí dịch vụ. Thuế chưa bao gồm trong giá, giá trị thanh toán trên hóa đơn của món Cơm chiên 115.500đ. Hỏi thuế và phí dịch vụ bằng bao nhiêu?",
+        "id": 54517,
         "index": 111,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212760,
                 "index": 1,
-                "match_column": null,
-                "content": "10.000đ và 5.000đ"
+                "content": "10.000đ và 5.000đ",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212761,
                 "index": 2,
-                "match_column": null,
-                "content": "11.000đ và 5.000đ"
+                "content": "11.000đ và 5.000đ",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212762,
                 "index": 3,
-                "match_column": null,
-                "content": "10.500 và 5.000đ"
+                "content": "10.500 và 5.000đ",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212763,
                 "index": 4,
-                "match_column": null,
-                "content": "10.000đ và 10.000đ"
+                "content": "10.000đ và 10.000đ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Món Cơm chiên có thuế 10%, nhà hàng tính thêm 5% phí dịch vụ. Thuế chưa bao gồm trong giá, giá trị thanh toán trên hóa đơn của món Cơm chiên 115.500đ. Hỏi thuế và phí dịch vụ bằng bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "112": {
-        "content": "Thay đổi về thuế sẽ được đồng bộ tại POS vào thời điểm nào?",
+        "id": 54546,
         "index": 112,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212876,
                 "index": 1,
-                "match_column": null,
-                "content": "Thay đổi liền trên POS"
+                "content": "Thay đổi liền trên POS",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212877,
                 "index": 2,
-                "match_column": null,
-                "content": "Sau khi thực hiện thao tác đóng ca chung"
+                "content": "Sau khi thực hiện thao tác đóng ca chung",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212878,
                 "index": 3,
-                "match_column": null,
-                "content": "Sau khi thanh toán bill"
+                "content": "Sau khi thanh toán bill",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212879,
                 "index": 4,
-                "match_column": null,
-                "content": "Qua ngày hôm sau"
+                "content": "Qua ngày hôm sau",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thay đổi về thuế sẽ được đồng bộ tại POS vào thời điểm nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "113": {
-        "content": "<p>Trong thuế, nhà hàng áp dụng chính sách thuế 10% cho bia, 8% món ăn và phí dịch vụ 5% cho tổng bill. Thuế chưa bao gồm trong giá.</p><p>Bàn có 01 Cơm chiên giá 100.000đ/đĩa và 2 chai bia Heineiken giá 40.000đ/chai.</p><p>Tổng thanh toán của bill bằng bao nhiều?</p>",
+        "id": 30159,
         "index": 113,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<p>205.800</p>"
+        },
+        "explain": "<p>205800</p>",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Trong thuế, nhà hàng áp dụng chính sách thuế 10% cho bia, 8% món ăn và phí dịch vụ 5% cho tổng bill. Thuế chưa bao gồm trong giá.</p><p>Bàn có 01 Cơm chiên giá 100.000đ/đĩa và 2 chai bia Heineiken giá 40.000đ/chai.</p><p>Tổng thanh toán của bill bằng bao nhiều?</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 0
     },
     "114": {
-        "content": "Trong phần thuế suất, tỷ lệ thuế 10% và thuộc tính “Thêm vào đơn giá” được tắt kích hoạt. Với món cơm chiên giá 100.000đ thì thuế món cơm chiên là bao nhiêu?",
+        "id": 54518,
         "index": 114,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212764,
                 "index": 1,
-                "match_column": null,
-                "content": "10000đ"
+                "content": "10000đ",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212765,
                 "index": 2,
-                "match_column": null,
-                "content": "9090,91đ"
+                "content": "9090,91đ",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212766,
                 "index": 3,
-                "match_column": null,
-                "content": "11000đ"
+                "content": "11000đ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212767,
                 "index": 4,
-                "match_column": null,
-                "content": "9000đ"
+                "content": "9000đ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong phần thuế suất, tỷ lệ thuế 10% và thuộc tính “Thêm vào đơn giá” được tắt kích hoạt. Với món cơm chiên giá 100.000đ thì thuế món cơm chiên là bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "115": {
-        "content": "Trong phần thuế suất, tỷ lệ thuế 10% và thuộc tính “Thêm vào đơn giá” được kích hoạt. Với món cơm chiên giá 100.000đ thì thuế món cơm chiên là bao nhiêu?",
+        "id": 54519,
         "index": 115,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212768,
                 "index": 1,
-                "match_column": null,
-                "content": "10.000đ"
+                "content": "10.000đ",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212769,
                 "index": 2,
-                "match_column": null,
-                "content": "9.090.91đ"
+                "content": "9.090.91đ",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212770,
                 "index": 3,
-                "match_column": null,
-                "content": "11.000đ"
+                "content": "11.000đ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212771,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong phần thuế suất, tỷ lệ thuế 10% và thuộc tính “Thêm vào đơn giá” được kích hoạt. Với món cơm chiên giá 100.000đ thì thuế món cơm chiên là bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "116": {
-        "content": "Tính ra giá trị service charge cho giá trị bill bên dưới:\n Tổng giá trị hàng hóa trước thuế: 1,000,000 VND\n Service Charge: 5%\n VAT: 10%",
+        "id": 54768,
         "index": 116,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213698,
                 "index": 1,
-                "match_column": null,
-                "content": "1155000"
+                "content": "1155000",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213699,
                 "index": 2,
-                "match_column": null,
-                "content": "1210000"
+                "content": "1210000",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213700,
                 "index": 3,
-                "match_column": null,
-                "content": "1105000"
+                "content": "1105000",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213701,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả điều sai"
+                "content": "Tất cả điều sai",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tính ra giá trị service charge cho giá trị bill bên dưới:\n Tổng giá trị hàng hóa trước thuế: 1,000,000 VND\n Service Charge: 5%\n VAT: 10%",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 0
     },
     "117": {
-        "content": "Các cách tính service charge sau đây, cách nào không phù hợp về thuế?",
+        "id": 54767,
         "index": 117,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213694,
                 "index": 1,
-                "match_column": null,
-                "content": "Service charge được tính trên tổng giá trị tiền hàng"
+                "content": "Service charge được tính trên tổng giá trị tiền hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213695,
                 "index": 2,
-                "match_column": null,
-                "content": "Service charge được tính sau giảm giá, trước thuế"
+                "content": "Service charge được tính sau giảm giá, trước thuế",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213696,
                 "index": 3,
-                "match_column": null,
-                "content": "Service charge được tính trên tổng giá trị thanh toán"
+                "content": "Service charge được tính trên tổng giá trị thanh toán",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213697,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các cách tính service charge sau đây, cách nào không phù hợp về thuế?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 0
     },
     "118": {
-        "content": "Câu nào sai khi nói về thuế suất?",
+        "id": 54545,
         "index": 118,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212872,
                 "index": 1,
-                "match_column": null,
-                "content": "Không thể xóa thuế suất được sử dụng bởi chính sách thuế đang hoạt động"
+                "content": "Không thể xóa thuế suất được sử dụng bởi chính sách thuế đang hoạt động",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212873,
                 "index": 2,
-                "match_column": null,
-                "content": "Không thể hủy bỏ thuế suất đang hoạt động. Trước tiên, bạn nên hủy kích hoạt thuế và sau đó xóa thuế suất của nó"
+                "content": "Không thể hủy bỏ thuế suất đang hoạt động. Trước tiên, bạn nên hủy kích hoạt thuế và sau đó xóa thuế suất của nó",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212874,
                 "index": 3,
-                "match_column": null,
-                "content": "Khi tạo thuế suất, bạn nên thay đổi giá trị ,thành giá trị bắt buộc, sau đó kích hoạt tỷ lệ. Khi tỷ giá được kích hoạt, không thể thay đổi giá trị của nó"
+                "content": "Khi tạo thuế suất, bạn nên thay đổi giá trị ,thành giá trị bắt buộc, sau đó kích hoạt tỷ lệ. Khi tỷ giá được kích hoạt, không thể thay đổi giá trị của nó",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212875,
                 "index": 4,
-                "match_column": null,
-                "content": "Tắt kích hoạt được thuế suất"
+                "content": "Tắt kích hoạt được thuế suất",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Câu nào sai khi nói về thuế suất?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "119": {
-        "content": "Câu nào sai khi nói về thuế suất?",
+        "id": 54522,
         "index": 119,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212780,
                 "index": 1,
-                "match_column": null,
-                "content": "Không thể xóa thuế suất được sử dụng bởi chính sách thuế đang hoạt động"
+                "content": "Không thể xóa thuế suất được sử dụng bởi chính sách thuế đang hoạt động",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212781,
                 "index": 2,
-                "match_column": null,
-                "content": "Không thể hủy bỏ thuế suất đang hoạt động. Trước tiên, bạn nên hủy kích hoạt thuế và sau đó xóa thuế suất của nó"
+                "content": "Không thể hủy bỏ thuế suất đang hoạt động. Trước tiên, bạn nên hủy kích hoạt thuế và sau đó xóa thuế suất của nó",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212782,
                 "index": 3,
-                "match_column": null,
-                "content": "Khi tạo thuế suất, bạn nên thay đổi giá trị ,thành giá trị bắt buộc, sau đó kích hoạt tỷ lệ. Khi tỷ giá được kích hoạt, không thể thay đổi giá trị của nó"
+                "content": "Khi tạo thuế suất, bạn nên thay đổi giá trị ,thành giá trị bắt buộc, sau đó kích hoạt tỷ lệ. Khi tỷ giá được kích hoạt, không thể thay đổi giá trị của nó",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212783,
                 "index": 4,
-                "match_column": null,
-                "content": "Tắt kích hoạt được thuế suất"
+                "content": "Tắt kích hoạt được thuế suất",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Câu nào sai khi nói về thuế suất?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "120": {
-        "content": "Thay đổi về thuế sẽ được đồng bộ tại POS vào thời điểm nào?",
+        "id": 54520,
         "index": 120,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212772,
                 "index": 1,
-                "match_column": null,
-                "content": "Thay đổi liền trên POS"
+                "content": "Thay đổi liền trên POS",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212773,
                 "index": 2,
-                "match_column": null,
-                "content": "Sau khi thực hiện thao tác đóng ca chung"
+                "content": "Sau khi thực hiện thao tác đóng ca chung",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212774,
                 "index": 3,
-                "match_column": null,
-                "content": "Sau khi thanh toán bill"
+                "content": "Sau khi thanh toán bill",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212775,
                 "index": 4,
-                "match_column": null,
-                "content": "Qua ngày hôm sau"
+                "content": "Qua ngày hôm sau",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thay đổi về thuế sẽ được đồng bộ tại POS vào thời điểm nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2702,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Taxes",
+        "attachments": [],
+        "score_q": 1
     },
     "121": {
-        "content": "Cách nào sau đây là nhanh nhất để set tất cả đơn giá của món chi tiết combo có giá trị bằng 0",
+        "id": 54652,
         "index": 121,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213296,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn từng món và set giá bằng 0"
+                "content": "Chọn từng món và set giá bằng 0",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213297,
                 "index": 2,
-                "match_column": null,
-                "content": "Quét tất cả món và set đơn giá bằng 0"
+                "content": "Quét tất cả món và set đơn giá bằng 0",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213298,
                 "index": 3,
-                "match_column": null,
-                "content": "Dùng công thức set giá bằng 0 trong thuộc tính phần từ combo theo từng loại đơn giá"
+                "content": "Dùng công thức set giá bằng 0 trong thuộc tính phần từ combo theo từng loại đơn giá",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213299,
                 "index": 4,
-                "match_column": null,
-                "content": "Chi tiết combo không thể set giá bằng 0"
+                "content": "Chi tiết combo không thể set giá bằng 0",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Cách nào sau đây là nhanh nhất để set tất cả đơn giá của món chi tiết combo có giá trị bằng 0",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 0
     },
     "122": {
-        "content": "Khi sử dụng 1 đơn giá có 2 điều kiện là Nhà hàng và Concept thì điều kiện nào áp dụng trước.",
+        "id": 54648,
         "index": 122,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213280,
                 "index": 1,
-                "match_column": null,
-                "content": "Concept là nhóm lớn, áp dụng trước"
+                "content": "Concept là nhóm lớn, áp dụng trước",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213281,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhà hàng là điều kiện thấp nhất, áp dụng trước"
+                "content": "Nhà hàng là điều kiện thấp nhất, áp dụng trước",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213282,
                 "index": 3,
-                "match_column": null,
-                "content": "Đơn giá không áp dụng cho concept"
+                "content": "Đơn giá không áp dụng cho concept",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213283,
                 "index": 4,
-                "match_column": null,
-                "content": "Không thể chọn song song giữa concept và nhà hàng"
+                "content": "Không thể chọn song song giữa concept và nhà hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi sử dụng 1 đơn giá có 2 điều kiện là Nhà hàng và Concept thì điều kiện nào áp dụng trước.",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 1
     },
     "123": {
-        "content": "Trong RK7 manager, đơn giá của món bị mờ, không chỉnh sửa giá được, nguyên nhân do? (Có thể chọn nhiều đáp án)",
+        "id": 54735,
         "index": 123,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213576,
                 "index": 1,
-                "match_column": null,
-                "content": "Đơn giá được tính theo công thức"
+                "content": "Đơn giá được tính theo công thức",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213577,
                 "index": 2,
-                "match_column": null,
-                "content": "Đơn giá được gán theo hằng số"
+                "content": "Đơn giá được gán theo hằng số",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213578,
                 "index": 3,
-                "match_column": null,
-                "content": "Đơn giá được nhâp manual"
+                "content": "Đơn giá được nhâp manual",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213579,
                 "index": 4,
-                "match_column": null,
-                "content": "Món ăn có đơn giá mở"
+                "content": "Món ăn có đơn giá mở",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7 manager, đơn giá của món bị mờ, không chỉnh sửa giá được, nguyên nhân do? (Có thể chọn nhiều đáp án)",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 0
     },
     "124": {
-        "content": "Các cách để tạo giá trị cho một đơn giá mới?",
+        "id": 54491,
         "index": 124,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212656,
                 "index": 1,
-                "match_column": null,
-                "content": "Theo công thức"
+                "content": "Theo công thức",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212657,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập thủ công"
+                "content": "Nhập thủ công",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212658,
                 "index": 3,
-                "match_column": null,
-                "content": "Hằng số"
+                "content": "Hằng số",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212659,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các cách để tạo giá trị cho một đơn giá mới?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 1
     },
     "125": {
-        "content": "Bàn A đơn giá pepsi la 20.000đ. Bàn VIP đơn giá pepsi là 25.000 đ.\n  Nếu chuyển pepsi tư bàn A vào bàn VIP thì đơn giá pepsi lúc này là bao nhiêu?",
+        "id": 54649,
         "index": 125,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213284,
                 "index": 1,
-                "match_column": null,
-                "content": "25000"
+                "content": "25000",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213285,
                 "index": 2,
-                "match_column": null,
-                "content": "20000"
+                "content": "20000",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213286,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thể chuyển vì 2 bàn sử dụng 2 đơn giá khác nhau"
+                "content": "Không thể chuyển vì 2 bàn sử dụng 2 đơn giá khác nhau",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213287,
                 "index": 4,
-                "match_column": null,
-                "content": "Tùy trường hợp thiết lập tham số \"giữ giá khi chuyển món\" mà giá là 20.000 hoặc 25000"
+                "content": "Tùy trường hợp thiết lập tham số \"giữ giá khi chuyển món\" mà giá là 20.000 hoặc 25000",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Bàn A đơn giá pepsi la 20.000đ. Bàn VIP đơn giá pepsi là 25.000 đ.\n  Nếu chuyển pepsi tư bàn A vào bàn VIP thì đơn giá pepsi lúc này là bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 1
     },
     "126": {
-        "content": "Ở cùng 1 thời điểm, có bao nhiêu loại đơn giá được áp dụng trong cùng 1 order.",
+        "id": 54650,
         "index": 126,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213288,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213289,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213290,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213291,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Ở cùng 1 thời điểm, có bao nhiêu loại đơn giá được áp dụng trong cùng 1 order.",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 1
     },
     "127": {
-        "content": "Phát biểu nào sau đây sai về đơn giá?",
+        "id": 54492,
         "index": 127,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212660,
                 "index": 1,
-                "match_column": null,
-                "content": "Tất cả món ăn đều phải áp dụng chung một cách tính giá (công thức, nhập tay, hằng số)"
+                "content": "Tất cả món ăn đều phải áp dụng chung một cách tính giá (công thức, nhập tay, hằng số)",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212661,
                 "index": 2,
-                "match_column": null,
-                "content": "Đơn giá của ghi chú (modifier) có thể gán âm"
+                "content": "Đơn giá của ghi chú (modifier) có thể gán âm",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212662,
                 "index": 3,
-                "match_column": null,
-                "content": "Đơn giá của chi tiết combo có thể để trống"
+                "content": "Đơn giá của chi tiết combo có thể để trống",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212663,
                 "index": 4,
-                "match_column": null,
-                "content": "Có thể dùng công thức để sao chép giá của chi tiết combo từ đơn giá này sang đơn giá khác"
+                "content": "Có thể dùng công thức để sao chép giá của chi tiết combo từ đơn giá này sang đơn giá khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây sai về đơn giá?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 0
     },
     "128": {
-        "content": "Trong cùng 1 order, trên cùng 1 item có trường hợp 2 đơn giá khác nhau không",
+        "id": 54651,
         "index": 128,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213292,
                 "index": 1,
-                "match_column": null,
-                "content": "Không. Phải tách 2 item riêng biệt"
+                "content": "Không. Phải tách 2 item riêng biệt",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213293,
                 "index": 2,
-                "match_column": null,
-                "content": "Có. Sử dụng tính năng thứ tự giao theo loại đơn giá"
+                "content": "Có. Sử dụng tính năng thứ tự giao theo loại đơn giá",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213294,
                 "index": 3,
-                "match_column": null,
-                "content": "Cả A, B đều sai"
+                "content": "Cả A, B đều sai",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213295,
                 "index": 4,
-                "match_column": null,
-                "content": "Cả A, B đều đúng"
+                "content": "Cả A, B đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong cùng 1 order, trên cùng 1 item có trường hợp 2 đơn giá khác nhau không",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 0
     },
     "129": {
-        "content": "Trên máy POS, thao tác nào sau đây là đúng để thay đổi giá của món ăn?",
+        "id": 54538,
         "index": 129,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212844,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn vào món ăn → chọn “Đơn giá mở” → Nhập giá món"
+                "content": "Chọn vào món ăn → chọn “Đơn giá mở” → Nhập giá món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212845,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn “Đơn giá mở” → Nhập giá món → Chọn vào món ăn"
+                "content": "Chọn “Đơn giá mở” → Nhập giá món → Chọn vào món ăn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212846,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn món ăn → Nhập giá món → Chọn “Đơn giá mở”"
+                "content": "Chọn món ăn → Nhập giá món → Chọn “Đơn giá mở”",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212847,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên máy POS, thao tác nào sau đây là đúng để thay đổi giá của món ăn?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 1
     },
     "130": {
-        "content": "Để sử dụng 1 đơn giá cho 1 sơ đồ bàn, đáp án nào sau đây là đúng",
+        "id": 54647,
         "index": 130,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213276,
                 "index": 1,
-                "match_column": null,
-                "content": "Trong mục đơn giá, chọn sơ đồ bàn cần áp dụng"
+                "content": "Trong mục đơn giá, chọn sơ đồ bàn cần áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213277,
                 "index": 2,
-                "match_column": null,
-                "content": "Dùng sơ đồ sử dụng đơn giá, tại mục \"sơ đồ phòng\" chọn khu vực bàn cần áp dụng"
+                "content": "Dùng sơ đồ sử dụng đơn giá, tại mục \"sơ đồ phòng\" chọn khu vực bàn cần áp dụng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213278,
                 "index": 3,
-                "match_column": null,
-                "content": "Đơn giá áp dụng chung, không áp dụng cho sơ đồ bàn"
+                "content": "Đơn giá áp dụng chung, không áp dụng cho sơ đồ bàn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213279,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều sai"
+                "content": "Tất cả đều sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để sử dụng 1 đơn giá cho 1 sơ đồ bàn, đáp án nào sau đây là đúng",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2701,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_PriceType",
+        "attachments": [],
+        "score_q": 1
     },
     "131": {
-        "content": "Các bước để thiết kế một báo cáo \"Interactive Report\" (IR)",
+        "id": 54485,
         "index": 131,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212632,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo query SQL -> tạo dataset -> tạo báo cáo -> thiết kế mẫu báo cáo"
+                "content": "Tạo query SQL -> tạo dataset -> tạo báo cáo -> thiết kế mẫu báo cáo",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212633,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo báo cáo --> tạo query SQL -> thiết kế mẫu báo cáo -> tạo dataset"
+                "content": "Tạo báo cáo --> tạo query SQL -> thiết kế mẫu báo cáo -> tạo dataset",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212634,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo báo cáo -> thiết kế mẫu báo cáo -> tạo query SQL -> tạo dataset"
+                "content": "Tạo báo cáo -> thiết kế mẫu báo cáo -> tạo query SQL -> tạo dataset",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212635,
                 "index": 4,
-                "match_column": null,
-                "content": "Tạo báo cáo -> thiết kế mẫu báo cáo -> tạo dataset -> tạo query SQL"
+                "content": "Tạo báo cáo -> thiết kế mẫu báo cáo -> tạo dataset -> tạo query SQL",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các bước để thiết kế một báo cáo \"Interactive Report\" (IR)",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 1
     },
     "132": {
-        "content": "Có thể xóa các table được tạo ra khi khởi tạo IR report không?",
+        "id": 54626,
         "index": 132,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213192,
                 "index": 1,
-                "match_column": null,
-                "content": "Xóa được, nhưng không có dữ liệu tất cả báo cáo"
+                "content": "Xóa được, nhưng không có dữ liệu tất cả báo cáo",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213193,
                 "index": 2,
-                "match_column": null,
-                "content": "Xóa được, nhưng không có dữ liệu báo cáo mặc định"
+                "content": "Xóa được, nhưng không có dữ liệu báo cáo mặc định",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213194,
                 "index": 3,
-                "match_column": null,
-                "content": "Xóa được, nhưng không thiết kế được báo cáo mới"
+                "content": "Xóa được, nhưng không thiết kế được báo cáo mới",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213195,
                 "index": 4,
-                "match_column": null,
-                "content": "Không xóa được"
+                "content": "Không xóa được",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "Xóa được, nhưng không có dữ liệu tất cả báo cáo",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có thể xóa các table được tạo ra khi khởi tạo IR report không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 0
     },
     "133": {
-        "content": "Các database SQL của \"Interactive Report\" (IR) lưu trữ các thông tin gì?",
+        "id": 54488,
         "index": 133,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212644,
                 "index": 1,
-                "match_column": null,
-                "content": "Các thông tin được tổng hợp từ nhiều bảng trong database RK7"
+                "content": "Các thông tin được tổng hợp từ nhiều bảng trong database RK7",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212645,
                 "index": 2,
-                "match_column": null,
-                "content": "Thông tin lịch sử tác vụ của người dùng POS"
+                "content": "Thông tin lịch sử tác vụ của người dùng POS",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212646,
                 "index": 3,
-                "match_column": null,
-                "content": "Thông tin doanh thu của hệ thống POS"
+                "content": "Thông tin doanh thu của hệ thống POS",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212647,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các database SQL của \"Interactive Report\" (IR) lưu trữ các thông tin gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 1
     },
     "134": {
-        "content": "Phát biểu nào sau đây không đúng về \"Interactive Report\" (IR)?",
+        "id": 54484,
         "index": 134,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212628,
                 "index": 1,
-                "match_column": null,
-                "content": "IR hỗ trợ dạng báo cáo kéo thả tương tự như báo cáo Cube"
+                "content": "IR hỗ trợ dạng báo cáo kéo thả tương tự như báo cáo Cube",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212629,
                 "index": 2,
-                "match_column": null,
-                "content": "IR hỗ trợ báo cáo dạng Fast Report"
+                "content": "IR hỗ trợ báo cáo dạng Fast Report",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212630,
                 "index": 3,
-                "match_column": null,
-                "content": "Không thể phân quyền truy cập báo cáo IR"
+                "content": "Không thể phân quyền truy cập báo cáo IR",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212631,
                 "index": 4,
-                "match_column": null,
-                "content": "IR cho phép gửi báo cáo qua mail dạng file nén và có mật khẩu"
+                "content": "IR cho phép gửi báo cáo qua mail dạng file nén và có mật khẩu",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây không đúng về \"Interactive Report\" (IR)?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 1
     },
     "135": {
-        "content": "Đối tượng link giữa datasets và mẫu in báo cáo trong IR Reports là gì?",
+        "id": 54627,
         "index": 135,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213196,
                 "index": 1,
-                "match_column": null,
-                "content": "Dataset guid"
+                "content": "Dataset guid",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213197,
                 "index": 2,
-                "match_column": null,
-                "content": "Datasets code"
+                "content": "Datasets code",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213198,
                 "index": 3,
-                "match_column": null,
-                "content": "Datasets name"
+                "content": "Datasets name",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213199,
                 "index": 4,
-                "match_column": null,
-                "content": "Datasets ident"
+                "content": "Datasets ident",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Dataset guid",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Đối tượng link giữa datasets và mẫu in báo cáo trong IR Reports là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 0
     },
     "136": {
-        "content": "Một báo cáo IR Report có thể sử dụng được bao nhiêu datasets",
+        "id": 54625,
         "index": 136,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213188,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213189,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213190,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213191,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "1",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Một báo cáo IR Report có thể sử dụng được bao nhiêu datasets",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 0
     },
     "137": {
-        "content": "Phát biểu nào sau đây đúng về tính năng gửi mail của \"Interactive Report\" (IR)? (Có thể chọn nhiều đáp án)",
+        "id": 54487,
         "index": 137,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212640,
                 "index": 1,
-                "match_column": null,
-                "content": "IR chỉ hỗ trợ gửi mail thông qua hệ thống mail yandex"
+                "content": "IR chỉ hỗ trợ gửi mail thông qua hệ thống mail yandex",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212641,
                 "index": 2,
-                "match_column": null,
-                "content": "IR hỗ trợ gửi báo cáo dạng \"Fast report\""
+                "content": "IR hỗ trợ gửi báo cáo dạng \"Fast report\"",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212642,
                 "index": 3,
-                "match_column": null,
-                "content": "IR hỗ trợ gửi nội dung mail khác nhau cho đến các đối tượng khác nhau"
+                "content": "IR hỗ trợ gửi nội dung mail khác nhau cho đến các đối tượng khác nhau",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212643,
                 "index": 4,
-                "match_column": null,
-                "content": "IR chỉ truy suất dữ liệu từ database RK7"
+                "content": "IR chỉ truy suất dữ liệu từ database RK7",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về tính năng gửi mail của \"Interactive Report\" (IR)? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 1
     },
     "138": {
-        "content": "Các mẫu báo cáo của \"Interactive Report\" (IR) được lưu trữ trong database nào?",
+        "id": 54486,
         "index": 138,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212636,
                 "index": 1,
-                "match_column": null,
-                "content": "Các database SQL sinh ra khi cài đặt IR"
+                "content": "Các database SQL sinh ra khi cài đặt IR",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212637,
                 "index": 2,
-                "match_column": null,
-                "content": "Database SQL RK7"
+                "content": "Database SQL RK7",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212638,
                 "index": 3,
-                "match_column": null,
-                "content": "Trong file UCS.csdb"
+                "content": "Trong file UCS.csdb",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212639,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các mẫu báo cáo của \"Interactive Report\" (IR) được lưu trữ trong database nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 1
     },
     "139": {
-        "content": "Trong mẫu in IR Reports, dùng thuộc tính nào để hiển thị trên báo cáo",
+        "id": 54628,
         "index": 139,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213200,
                 "index": 1,
-                "match_column": null,
-                "content": "Mã"
+                "content": "Mã",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213201,
                 "index": 2,
-                "match_column": null,
-                "content": "Tên"
+                "content": "Tên",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213202,
                 "index": 3,
-                "match_column": null,
-                "content": "Tên thay thế"
+                "content": "Tên thay thế",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 213203,
                 "index": 4,
-                "match_column": null,
-                "content": "Tên hệ thống"
+                "content": "Tên hệ thống",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "Mã",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong mẫu in IR Reports, dùng thuộc tính nào để hiển thị trên báo cáo",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 0
     },
     "140": {
-        "content": "Trong mục IR Reports, có thể tạo datasets mới theo ý người dùng được không?",
+        "id": 54629,
         "index": 140,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213204,
                 "index": 1,
-                "match_column": null,
-                "content": "Mặc định, không tạo được"
+                "content": "Mặc định, không tạo được",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213205,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo được theo dữ liệu người dùng"
+                "content": "Tạo được theo dữ liệu người dùng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213206,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo được nhưng giới hạn dữ liệu"
+                "content": "Tạo được nhưng giới hạn dữ liệu",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213207,
                 "index": 4,
-                "match_column": null,
-                "content": "Chưa có định nghĩa"
+                "content": "Chưa có định nghĩa",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "Mặc định, không tạo được",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong mục IR Reports, có thể tạo datasets mới theo ý người dùng được không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2699,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_IR Report",
+        "attachments": [],
+        "score_q": 1
     },
     "141": {
-        "content": "<p>Trong RK7, một chuỗi có 2 nhà hàng A và B cùng chung một menu, mô tả cách cài đặt 1 món ăn chỉ áp dụng ở nhà hàng A và không áp dụng ở nhà hàng B? Cách đơn giản nhất là: (Câu hỏi tự luận)</p>",
+        "id": 30168,
         "index": 141,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<p>Sử dụng thuộc tính Shedule giới hạn theo nhà hàng</p><ul><li>Nhà hàng A chọn Luôn Luôn</li><li>Nhà hàng B chọn Không bao giờ</li></ul>"
+        },
+        "explain": "",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Trong RK7, một chuỗi có 2 nhà hàng A và B cùng chung một menu, mô tả cách cài đặt 1 món ăn chỉ áp dụng ở nhà hàng A và không áp dụng ở nhà hàng B? Cách đơn giản nhất là: (Câu hỏi tự luận)</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "142": {
-        "content": "Trong RK7, phát biểu nào sau đây đúng?",
+        "id": 54490,
         "index": 142,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212652,
                 "index": 1,
-                "match_column": null,
-                "content": "Có thể viết script trong form để hỗ trợ các nghiệp vụ mà POS không có sẵn"
+                "content": "Có thể viết script trong form để hỗ trợ các nghiệp vụ mà POS không có sẵn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212653,
                 "index": 2,
-                "match_column": null,
-                "content": "Có thể viết script trong mẫu in để tính toán các giá trị doanh thu, thuế"
+                "content": "Có thể viết script trong mẫu in để tính toán các giá trị doanh thu, thuế",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212654,
                 "index": 3,
-                "match_column": null,
-                "content": "Có thể viết script để tạo ra một tác vụ mới"
+                "content": "Có thể viết script để tạo ra một tác vụ mới",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212655,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7, phát biểu nào sau đây đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "143": {
-        "content": "Làm thế nào để xác định nhà hàng đã đóng ca chung?",
+        "id": 54476,
         "index": 143,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212596,
                 "index": 1,
-                "match_column": null,
-                "content": "Hỏi quản lý"
+                "content": "Hỏi quản lý",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212597,
                 "index": 2,
-                "match_column": null,
-                "content": "Kiểm tra danh sách hóa đơn đã tính tiền"
+                "content": "Kiểm tra danh sách hóa đơn đã tính tiền",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212598,
                 "index": 3,
-                "match_column": null,
-                "content": "Kiểm tra báo cáo giao ca thu ngân"
+                "content": "Kiểm tra báo cáo giao ca thu ngân",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212599,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên"
+                "content": "Tất cả đáp án trên",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Làm thế nào để xác định nhà hàng đã đóng ca chung?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "144": {
-        "content": "Số order (OrderNumber) phát sinh khi nào?",
+        "id": 54451,
         "index": 144,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212496,
                 "index": 1,
-                "match_column": null,
-                "content": "Phát sinh khi mở bàn mới"
+                "content": "Phát sinh khi mở bàn mới",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212497,
                 "index": 2,
-                "match_column": null,
-                "content": "Phát sinh khi in tạm tính"
+                "content": "Phát sinh khi in tạm tính",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212498,
                 "index": 3,
-                "match_column": null,
-                "content": "Phát sinh khi in hóa đơn"
+                "content": "Phát sinh khi in hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212499,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên"
+                "content": "Tất cả đáp án trên",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Số order (OrderNumber) phát sinh khi nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "145": {
-        "content": "Số check phát sinh khi nào?",
+        "id": 54447,
         "index": 145,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212480,
                 "index": 1,
-                "match_column": null,
-                "content": "Khi tạm tính và in hóa đơn"
+                "content": "Khi tạm tính và in hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212481,
                 "index": 2,
-                "match_column": null,
-                "content": "Khi mở bàn"
+                "content": "Khi mở bàn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212482,
                 "index": 3,
-                "match_column": null,
-                "content": "Khi hủy tạm tính"
+                "content": "Khi hủy tạm tính",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212483,
                 "index": 4,
-                "match_column": null,
-                "content": "Khi hủy hóa đơn"
+                "content": "Khi hủy hóa đơn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Số check phát sinh khi nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "146": {
-        "content": "Trong RK7, chức năng “giai đoạn” có thể áp dụng cho? (Có thể chọn nhiều đáp án)",
+        "id": 54560,
         "index": 146,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212928,
                 "index": 1,
-                "match_column": null,
-                "content": "Món ăn"
+                "content": "Món ăn",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212929,
                 "index": 2,
-                "match_column": null,
-                "content": "Giảm giá"
+                "content": "Giảm giá",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212930,
                 "index": 3,
-                "match_column": null,
-                "content": "Đơn giá"
+                "content": "Đơn giá",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212931,
                 "index": 4,
-                "match_column": null,
-                "content": "Thuế"
+                "content": "Thuế",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7, chức năng “giai đoạn” có thể áp dụng cho? (Có thể chọn nhiều đáp án)",
         "count_correct": 3,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "147": {
-        "content": "Phát biểu nào sau đây đúng về tính năng “Món ăn tồn”?",
+        "id": 54544,
         "index": 147,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212868,
                 "index": 1,
-                "match_column": null,
-                "content": "Quản lý danh sách món ăn tồn kho"
+                "content": "Quản lý danh sách món ăn tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212869,
                 "index": 2,
-                "match_column": null,
-                "content": "Đưa món ăn vào danh sách ngưng bán"
+                "content": "Đưa món ăn vào danh sách ngưng bán",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212870,
                 "index": 3,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212871,
                 "index": 4,
-                "match_column": null,
-                "content": "Giới hạn số lượng bán của món ăn"
+                "content": "Giới hạn số lượng bán của món ăn",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về tính năng “Món ăn tồn”?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "148": {
-        "content": "Phát biểu nào sau đây sai về ca chung?",
+        "id": 54480,
         "index": 148,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212612,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhân viên cần thực hiện thao tác đóng ca chung sau khi kết thúc ngày làm việc"
+                "content": "Nhân viên cần thực hiện thao tác đóng ca chung sau khi kết thúc ngày làm việc",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212613,
                 "index": 2,
-                "match_column": null,
-                "content": "Ca chung có thể cài đặt đóng tự động"
+                "content": "Ca chung có thể cài đặt đóng tự động",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212614,
                 "index": 3,
-                "match_column": null,
-                "content": "Ca chung bao gồm 2 ca thu ngân"
+                "content": "Ca chung bao gồm 2 ca thu ngân",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212615,
                 "index": 4,
-                "match_column": null,
-                "content": "Khi đóng ca chung thì POS sẽ reset dữ liệu, và đóng gói dữ liệu bán hàng gửi về văn phòng"
+                "content": "Khi đóng ca chung thì POS sẽ reset dữ liệu, và đóng gói dữ liệu bán hàng gửi về văn phòng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây sai về ca chung?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "149": {
-        "content": "Làm thế nào để xác định nhà hàng đã đóng ca thu ngân chưa? (Có thể chọn nhiều đáp án)",
+        "id": 54475,
         "index": 149,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212592,
                 "index": 1,
-                "match_column": null,
-                "content": "Hỏi thu ngân"
+                "content": "Hỏi thu ngân",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212593,
                 "index": 2,
-                "match_column": null,
-                "content": "Thử phục hồi hóa đơn"
+                "content": "Thử phục hồi hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212594,
                 "index": 3,
-                "match_column": null,
-                "content": "Kiểm tra tab ca thu ngân của Midserver"
+                "content": "Kiểm tra tab ca thu ngân của Midserver",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212595,
                 "index": 4,
-                "match_column": null,
-                "content": "Kiểm tra báo cáo giao ca thu ngân"
+                "content": "Kiểm tra báo cáo giao ca thu ngân",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Làm thế nào để xác định nhà hàng đã đóng ca thu ngân chưa? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "150": {
-        "content": "Khi đóng ca thu ngân, hệ thống sẽ in ra biên lai rút tiền. Biên lai rút tiền này chứa doanh thu của:",
+        "id": 54481,
         "index": 150,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212616,
                 "index": 1,
-                "match_column": null,
-                "content": "Tiền mặt"
+                "content": "Tiền mặt",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212617,
                 "index": 2,
-                "match_column": null,
-                "content": "Thẻ tín dụng"
+                "content": "Thẻ tín dụng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212618,
                 "index": 3,
-                "match_column": null,
-                "content": "Thẻ thanh toán"
+                "content": "Thẻ thanh toán",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212619,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi đóng ca thu ngân, hệ thống sẽ in ra biên lai rút tiền. Biên lai rút tiền này chứa doanh thu của:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "151": {
-        "content": "Nếu cần file dữ liệu đóng ca chung của nhà hàng, chúng ta có thể tìm file ở thư mục nào?",
+        "id": 54456,
         "index": 151,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212516,
                 "index": 1,
-                "match_column": null,
-                "content": "Thư mục MIDBASE\\Archive"
+                "content": "Thư mục MIDBASE\\Archive",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212517,
                 "index": 2,
-                "match_column": null,
-                "content": "Thư mục base\\backup\\ftpserver"
+                "content": "Thư mục base\\backup\\ftpserver",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212518,
                 "index": 3,
-                "match_column": null,
-                "content": "Thư mục MIDBASE\\Forsend"
+                "content": "Thư mục MIDBASE\\Forsend",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212519,
                 "index": 4,
-                "match_column": null,
-                "content": "A và B đúng"
+                "content": "A và B đúng",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nếu cần file dữ liệu đóng ca chung của nhà hàng, chúng ta có thể tìm file ở thư mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "152": {
-        "content": "Phát biểu nào sau đây đúng về ca chung?",
+        "id": 54479,
         "index": 152,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212608,
                 "index": 1,
-                "match_column": null,
-                "content": "Khi nhân viên mở bàn sẽ phát sinh ca chung"
+                "content": "Khi nhân viên mở bàn sẽ phát sinh ca chung",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212609,
                 "index": 2,
-                "match_column": null,
-                "content": "Ca chung bắt đầu từ đầu ngày và kết thúc trước 0h hàng ngày"
+                "content": "Ca chung bắt đầu từ đầu ngày và kết thúc trước 0h hàng ngày",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212610,
                 "index": 3,
-                "match_column": null,
-                "content": "Sau khi đóng ca chung vẫn có thể xem doanh thu bán hàng trên POS"
+                "content": "Sau khi đóng ca chung vẫn có thể xem doanh thu bán hàng trên POS",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212611,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về ca chung?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "153": {
-        "content": "Phát biểu sau đây sai về số hóa đơn (Printnumber)?",
+        "id": 54450,
         "index": 153,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212492,
                 "index": 1,
-                "match_column": null,
-                "content": "Số hóa đơn có thể trùng nhau trong 1 ngày làm việc"
+                "content": "Số hóa đơn có thể trùng nhau trong 1 ngày làm việc",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212493,
                 "index": 2,
-                "match_column": null,
-                "content": "Số hóa đơn reset lại sau mỗi ngày làm việc"
+                "content": "Số hóa đơn reset lại sau mỗi ngày làm việc",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212494,
                 "index": 3,
-                "match_column": null,
-                "content": "Số hóa đơn luôn luôn duy nhất, hệ thống không hỗ trợ trùng số hóa đơn"
+                "content": "Số hóa đơn luôn luôn duy nhất, hệ thống không hỗ trợ trùng số hóa đơn",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212495,
                 "index": 4,
-                "match_column": null,
-                "content": "Số hóa đơn của order có thể thay đổi sau khi hủy hóa đơn"
+                "content": "Số hóa đơn của order có thể thay đổi sau khi hủy hóa đơn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu sau đây sai về số hóa đơn (Printnumber)?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "154": {
-        "content": "Số hóa đơn (Printnumber) phát sinh khi nào?",
+        "id": 54449,
         "index": 154,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212488,
                 "index": 1,
-                "match_column": null,
-                "content": "Khi in tạm tính"
+                "content": "Khi in tạm tính",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212489,
                 "index": 2,
-                "match_column": null,
-                "content": "Khi in hóa đơn"
+                "content": "Khi in hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212490,
                 "index": 3,
-                "match_column": null,
-                "content": "Khi mở bàn"
+                "content": "Khi mở bàn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212491,
                 "index": 4,
-                "match_column": null,
-                "content": "Khi hủ̉y hóa đơn"
+                "content": "Khi hủ̉y hóa đơn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Số hóa đơn (Printnumber) phát sinh khi nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "155": {
-        "content": "Trong RK7, tab chức năng “Lý do hủy” có thể hỗ trợ những lý do gì? (Có thể chọn nhiều đáp án)",
+        "id": 54533,
         "index": 155,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212824,
                 "index": 1,
-                "match_column": null,
-                "content": "Lý do hủy món"
+                "content": "Lý do hủy món",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212825,
                 "index": 2,
-                "match_column": null,
-                "content": "Lý do hủy giảm giá"
+                "content": "Lý do hủy giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212826,
                 "index": 3,
-                "match_column": null,
-                "content": "Lý do hủy tạm tính, hủy hóa đơn"
+                "content": "Lý do hủy tạm tính, hủy hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212827,
                 "index": 4,
-                "match_column": null,
-                "content": "Lý do rút tiền, nạp tiền"
+                "content": "Lý do rút tiền, nạp tiền",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong RK7, tab chức năng “Lý do hủy” có thể hỗ trợ những lý do gì? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "156": {
-        "content": "Phát biểu nào sau đây đúng?",
+        "id": 54477,
         "index": 156,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212600,
                 "index": 1,
-                "match_column": null,
-                "content": "Có thể phục hồi hóa đơn của ca thu ngân trước"
+                "content": "Có thể phục hồi hóa đơn của ca thu ngân trước",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212601,
                 "index": 2,
-                "match_column": null,
-                "content": "Không thể phục hồi bill của ca thu ngân trước."
+                "content": "Không thể phục hồi bill của ca thu ngân trước.",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212602,
                 "index": 3,
-                "match_column": null,
-                "content": "Có thể phục hồi hóa đơn của ca thu ngân trước, nhưng cần xác nhận của quản lý."
+                "content": "Có thể phục hồi hóa đơn của ca thu ngân trước, nhưng cần xác nhận của quản lý.",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212603,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên"
+                "content": "Tất cả đáp án trên",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "157": {
-        "content": "File Sh.udb chứa các dữ liệu gì?",
+        "id": 54453,
         "index": 157,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212504,
                 "index": 1,
-                "match_column": null,
-                "content": "Là file chứa dữ liệu master data của refserver"
+                "content": "Là file chứa dữ liệu master data của refserver",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212505,
                 "index": 2,
-                "match_column": null,
-                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver"
+                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212506,
                 "index": 3,
-                "match_column": null,
-                "content": "Là file chứa các module hệ thống của midserver"
+                "content": "Là file chứa các module hệ thống của midserver",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212507,
                 "index": 4,
-                "match_column": null,
-                "content": "Là file dữ liệu bán hàng cuối cùng trước khi đóng ca chung của Midserver"
+                "content": "Là file dữ liệu bán hàng cuối cùng trước khi đóng ca chung của Midserver",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "File Sh.udb chứa các dữ liệu gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "158": {
-        "content": "Khi khởi tạo Midserver, tham số Checkgen=100500 có ý nghĩa là?",
+        "id": 54474,
         "index": 158,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212588,
                 "index": 1,
-                "match_column": null,
-                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100500"
+                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100500",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212589,
                 "index": 2,
-                "match_column": null,
-                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100501"
+                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100501",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 212590,
                 "index": 3,
-                "match_column": null,
-                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100000"
+                "content": "Hóa đơn đầu tiên băt đầu bằng số check 100000",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212591,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi khởi tạo Midserver, tham số Checkgen=100500 có ý nghĩa là?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "159": {
-        "content": "Nhóm kinh doanh được sử dụng cho mục vào mục đích gì?",
+        "id": 54483,
         "index": 159,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212624,
                 "index": 1,
-                "match_column": null,
-                "content": "Cho phép hoặc giới hạn món ăn được áp dụng"
+                "content": "Cho phép hoặc giới hạn món ăn được áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212625,
                 "index": 2,
-                "match_column": null,
-                "content": "Cho phé́p hoặc giới hạn giảm giá được áp dụng"
+                "content": "Cho phé́p hoặc giới hạn giảm giá được áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212626,
                 "index": 3,
-                "match_column": null,
-                "content": "Cho phép hoặc giới hạ̣n hình thức thanh toán được áp dụng"
+                "content": "Cho phép hoặc giới hạ̣n hình thức thanh toán được áp dụng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212627,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Nhóm kinh doanh được sử dụng cho mục vào mục đích gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "160": {
-        "content": "File work.udb chứa các dữ liệu gì?",
+        "id": 54452,
         "index": 160,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212500,
                 "index": 1,
-                "match_column": null,
-                "content": "Là file chứa dữ liệu master data của refserver"
+                "content": "Là file chứa dữ liệu master data của refserver",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212501,
                 "index": 2,
-                "match_column": null,
-                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver"
+                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212502,
                 "index": 3,
-                "match_column": null,
-                "content": "Là file chứa các module hệ thống của midserver"
+                "content": "Là file chứa các module hệ thống của midserver",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212503,
                 "index": 4,
-                "match_column": null,
-                "content": "Là file dữ liệu đóng ca cuối ngày của nhà hàng"
+                "content": "Là file dữ liệu đóng ca cuối ngày của nhà hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "File work.udb chứa các dữ liệu gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "161": {
-        "content": "Số check bán hàng trên không liên tục trên báo cáo, cho thấy điều gì? Chọn đáp án sai",
+        "id": 54448,
         "index": 161,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212484,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhà hàng hủy tạm tính"
+                "content": "Nhà hàng hủy tạm tính",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212485,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhà hàng in tạm tính không thành công"
+                "content": "Nhà hàng in tạm tính không thành công",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212486,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhà hàng hủy hóa đơn"
+                "content": "Nhà hàng hủy hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212487,
                 "index": 4,
-                "match_column": null,
-                "content": "Nhà hàng in tạm tính theo số khách"
+                "content": "Nhà hàng in tạm tính theo số khách",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Số check bán hàng trên không liên tục trên báo cáo, cho thấy điều gì? Chọn đáp án sai",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 0
     },
     "162": {
-        "content": "Phát biểu nào sau đây đúng về cài đặt menu",
+        "id": 54458,
         "index": 162,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212524,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo menu trong RK7 thông qua thao tác thủ công trên Rk7Manager"
+                "content": "Tạo menu trong RK7 thông qua thao tác thủ công trên Rk7Manager",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212525,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo menu RK7 bằng cách import xml"
+                "content": "Tạo menu RK7 bằng cách import xml",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212526,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo menu RK7 thông qua API"
+                "content": "Tạo menu RK7 thông qua API",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212527,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên"
+                "content": "Tất cả đáp án trên",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về cài đặt menu",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "163": {
-        "content": "Sau khi đóng ca chung, file ca chung chứa dữ liệu bán hàng sẽ thế nào?",
+        "id": 54455,
         "index": 163,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212512,
                 "index": 1,
-                "match_column": null,
-                "content": "Được chuyển về server"
+                "content": "Được chuyển về server",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212513,
                 "index": 2,
-                "match_column": null,
-                "content": "Được lưu trữ trong thư mục Archive"
+                "content": "Được lưu trữ trong thư mục Archive",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212514,
                 "index": 3,
-                "match_column": null,
-                "content": "Được gửi vào thư mục Forsend"
+                "content": "Được gửi vào thư mục Forsend",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212515,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên"
+                "content": "Tất cả đáp án trên",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Sau khi đóng ca chung, file ca chung chứa dữ liệu bán hàng sẽ thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "164": {
-        "content": "Thời gian bán hàng của một ca chung mặc định là bao nhiêu?",
+        "id": 54478,
         "index": 164,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212604,
                 "index": 1,
-                "match_column": null,
-                "content": "1200 phút"
+                "content": "1200 phút",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212605,
                 "index": 2,
-                "match_column": null,
-                "content": "2400 phút"
+                "content": "2400 phút",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212606,
                 "index": 3,
-                "match_column": null,
-                "content": "3600 phút"
+                "content": "3600 phút",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212607,
                 "index": 4,
-                "match_column": null,
-                "content": "900 phút"
+                "content": "900 phút",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Thời gian bán hàng của một ca chung mặc định là bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "165": {
-        "content": "Ứng dụng của \"Cube OLAP\" trong RK7?",
+        "id": 54482,
         "index": 165,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212620,
                 "index": 1,
-                "match_column": null,
-                "content": "Hỗ trợ thiết kế báo cáo POS"
+                "content": "Hỗ trợ thiết kế báo cáo POS",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212621,
                 "index": 2,
-                "match_column": null,
-                "content": "Hỗ trợ thiết kế báo cáo HeadOffice"
+                "content": "Hỗ trợ thiết kế báo cáo HeadOffice",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212622,
                 "index": 3,
-                "match_column": null,
-                "content": "Hỗ trợ mẫu xml cho SkyMonitor"
+                "content": "Hỗ trợ mẫu xml cho SkyMonitor",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212623,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án"
+                "content": "Tất cả đáp án",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Ứng dụng của \"Cube OLAP\" trong RK7?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "166": {
-        "content": "Phát biểu sau đây đúng về thuộc tính mở rộng (Extended Properties)?",
+        "id": 54493,
         "index": 166,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212664,
                 "index": 1,
-                "match_column": null,
-                "content": "Được sử dụng để khai báo mã phần mềm kế toán, hỗ trợ cho phép nhập nhiều ngôn ngữ"
+                "content": "Được sử dụng để khai báo mã phần mềm kế toán, hỗ trợ cho phép nhập nhiều ngôn ngữ",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212665,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo thuộc tính dạng danh sách để nhân viên chọn trên POS"
+                "content": "Tạo thuộc tính dạng danh sách để nhân viên chọn trên POS",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212666,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo thuộc tính cho phép nhập ghi chú trên POS"
+                "content": "Tạo thuộc tính cho phép nhập ghi chú trên POS",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212667,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu sau đây đúng về thuộc tính mở rộng (Extended Properties)?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "167": {
-        "content": "File ns.udb có ý nghĩa gì?",
+        "id": 54454,
         "index": 167,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212508,
                 "index": 1,
-                "match_column": null,
-                "content": "Là file work.udb mới nhât sinh ra sau khi đóng ca chung"
+                "content": "Là file work.udb mới nhât sinh ra sau khi đóng ca chung",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212509,
                 "index": 2,
-                "match_column": null,
-                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver"
+                "content": "Là file chứa dữ liệu bán hàng trong ngày của Midserver",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212510,
                 "index": 3,
-                "match_column": null,
-                "content": "Là file chứa các module hệ thống của midserver"
+                "content": "Là file chứa các module hệ thống của midserver",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212511,
                 "index": 4,
-                "match_column": null,
-                "content": "Là file dữ liệu bán hàng cuối cùng trước khi đóng ca chung của Midserver"
+                "content": "Là file dữ liệu bán hàng cuối cùng trước khi đóng ca chung của Midserver",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "File ns.udb có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2696,
+        "topic_name": "04_2 Tech _ HDSD _ RK7_BO_Tính năng chung",
+        "attachments": [],
+        "score_q": 1
     },
     "168": {
-        "content": "Các bước để thiết lập phần thập phân của số lượng và giá tiền trên các phiếu như thế nào?",
+        "id": 54579,
         "index": 168,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213004,
                 "index": 1,
-                "match_column": null,
-                "content": "Vào Other - Show format setup - Thiết lập trong mục Report"
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Report",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213005,
                 "index": 2,
-                "match_column": null,
-                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Report"
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Report",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213006,
                 "index": 3,
-                "match_column": null,
-                "content": "Vào Other - Show format setup - Thiết lập trong mục Documents Qty - Documents Price"
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Documents Qty - Documents Price",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213007,
                 "index": 4,
-                "match_column": null,
-                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Documents Qty & Documents Price"
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Documents Qty & Documents Price",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các bước để thiết lập phần thập phân của số lượng và giá tiền trên các phiếu như thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "169": {
-        "content": "Trong SkyInventory, để nhập hàng vào kho, bạn cần thực hiện thao tác:",
+        "id": 54420,
         "index": 169,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212372,
                 "index": 1,
-                "match_column": null,
-                "content": "Purchase Order"
+                "content": "Purchase Order",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212373,
                 "index": 2,
-                "match_column": null,
-                "content": "Goods Transfer"
+                "content": "Goods Transfer",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212374,
                 "index": 3,
-                "match_column": null,
-                "content": "Goods Receipt"
+                "content": "Goods Receipt",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212375,
                 "index": 4,
-                "match_column": null,
-                "content": "Return Supplier"
+                "content": "Return Supplier",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để nhập hàng vào kho, bạn cần thực hiện thao tác:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "170": {
-        "content": "Trong SkyInventory, khi kiểm kê hàng hóa, bạn cần:",
+        "id": 54434,
         "index": 170,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212428,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo phiếu yêu cầu"
+                "content": "Tạo phiếu yêu cầu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212429,
                 "index": 2,
-                "match_column": null,
-                "content": "Lập phiếu mua hàng"
+                "content": "Lập phiếu mua hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212430,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo phiếu nhập kho"
+                "content": "Tạo phiếu nhập kho",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212431,
                 "index": 4,
-                "match_column": null,
-                "content": "Tạo phiếu kiểm kê"
+                "content": "Tạo phiếu kiểm kê",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, khi kiểm kê hàng hóa, bạn cần:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "171": {
-        "content": "Trong SkyInventory, khi tạo bảng giá mới, nếu ngày áp dụng không được chọn, hệ thống sẽ:",
+        "id": 54432,
         "index": 171,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212420,
                 "index": 1,
-                "match_column": null,
-                "content": "Lấy ngày hiện tại"
+                "content": "Lấy ngày hiện tại",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212421,
                 "index": 2,
-                "match_column": null,
-                "content": "Báo lỗi"
+                "content": "Báo lỗi",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212422,
                 "index": 3,
-                "match_column": null,
-                "content": "Lấy ngày khởi tạo bảng giá"
+                "content": "Lấy ngày khởi tạo bảng giá",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212423,
                 "index": 4,
-                "match_column": null,
-                "content": "Tự động áp dụng giá từ hôm sau"
+                "content": "Tự động áp dụng giá từ hôm sau",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, khi tạo bảng giá mới, nếu ngày áp dụng không được chọn, hệ thống sẽ:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "172": {
-        "content": "Trong SkyInventory, để xem chi tiết số lượng hàng hóa đã được đặt hàng và nhận hàng, xác định số lượng hàng đã nhận và chưa nhậ. Ta thực hiện các bước nào để xem báo cáo",
+        "id": 54438,
         "index": 172,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212444,
                 "index": 1,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng"
+                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212445,
                 "index": 2,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212446,
                 "index": 3,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Lưu thông hàng hóa"
+                "content": "Phiếu đặt hàng -> Reports -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 212447,
                 "index": 4,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Phiếu yêu cầu hàng hóa"
+                "content": "Phiếu đặt hàng -> Reports -> Phiếu yêu cầu hàng hóa",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để xem chi tiết số lượng hàng hóa đã được đặt hàng và nhận hàng, xác định số lượng hàng đã nhận và chưa nhậ. Ta thực hiện các bước nào để xem báo cáo",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "173": {
-        "content": "Trong SkyInventory, để kiểm kê hàng tồn kho, bạn sử dụng tính năng:",
+        "id": 54422,
         "index": 173,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212380,
                 "index": 1,
-                "match_column": null,
-                "content": "Report Balance"
+                "content": "Report Balance",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212381,
                 "index": 2,
-                "match_column": null,
-                "content": "Stock Count"
+                "content": "Stock Count",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212382,
                 "index": 3,
-                "match_column": null,
-                "content": "Goods Receipt"
+                "content": "Goods Receipt",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212383,
                 "index": 4,
-                "match_column": null,
-                "content": "Purchase Request"
+                "content": "Purchase Request",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để kiểm kê hàng tồn kho, bạn sử dụng tính năng:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "174": {
-        "content": "Trong SkyInventory, Báo cáo thành phần định lượng cho người dùng xem lại tất cả định lượng đã được nhập vào hệ thống. Liệt kê chi tiết số lượng các thành phần nguyên vật liệu có trong từng định lượng của món ăn. Nhầm kiểm soát được các định lượng đang được sử dụng.",
+        "id": 54442,
         "index": 174,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212460,
                 "index": 1,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212461,
                 "index": 2,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Bá́o cáo thành phần định lượng"
+                "content": "Giao dịch kho -> Báo cáo -> Bá́o cáo thành phần định lượng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212462,
                 "index": 3,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212463,
                 "index": 4,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, Báo cáo thành phần định lượng cho người dùng xem lại tất cả định lượng đã được nhập vào hệ thống. Liệt kê chi tiết số lượng các thành phần nguyên vật liệu có trong từng định lượng của món ăn. Nhầm kiểm soát được các định lượng đang được sử dụng.",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "175": {
-        "content": "Trong SkyInventory, đơn vị cơ bản của hệ portion là:",
+        "id": 54437,
         "index": 175,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212440,
                 "index": 1,
-                "match_column": null,
-                "content": "kg"
+                "content": "kg",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212441,
                 "index": 2,
-                "match_column": null,
-                "content": "ml"
+                "content": "ml",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212442,
                 "index": 3,
-                "match_column": null,
-                "content": "gr"
+                "content": "gr",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212443,
                 "index": 4,
-                "match_column": null,
-                "content": "pcs"
+                "content": "pcs",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, đơn vị cơ bản của hệ portion là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "176": {
-        "content": "Trong SkyInventory, xem tất cả các hoạt động nhập xuất tồn của một nguyên vật liệu trong một hoặc nhiều kho khác nhau, nhắm theo dõi số lượng chi tiết theo các lần nhập xuất tồn kho, theo từng phiếu nghiệp vụ",
+        "id": 54439,
         "index": 176,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212448,
                 "index": 1,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212449,
                 "index": 2,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212450,
                 "index": 3,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212451,
                 "index": 4,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Bán hàng"
+                "content": "Giao dịch kho -> Báo cáo -> Bán hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, xem tất cả các hoạt động nhập xuất tồn của một nguyên vật liệu trong một hoặc nhiều kho khác nhau, nhắm theo dõi số lượng chi tiết theo các lần nhập xuất tồn kho, theo từng phiếu nghiệp vụ",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "177": {
-        "content": "Trong SkyInventory, để lập phiếu mua hàng, bạn cần thực hiện bước nào trước tiên:",
+        "id": 54436,
         "index": 177,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212436,
                 "index": 1,
-                "match_column": null,
-                "content": "Thay đổi nhà cung cấp"
+                "content": "Thay đổi nhà cung cấp",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212437,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn phiếu đặt hàng đã duyệt"
+                "content": "Chọn phiếu đặt hàng đã duyệt",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212438,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhập số lượng hàng hóa"
+                "content": "Nhập số lượng hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212439,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn nhà cung cấp"
+                "content": "Chọn nhà cung cấp",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để lập phiếu mua hàng, bạn cần thực hiện bước nào trước tiên:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "178": {
-        "content": "Trong SkyInventory, khi lập phiếu mua hàng, nếu hàng hóa có nhà cung cấp chính, hệ thống sẽ:",
+        "id": 54426,
         "index": 178,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212396,
                 "index": 1,
-                "match_column": null,
-                "content": "Áp dụng giá cao nhất"
+                "content": "Áp dụng giá cao nhất",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212397,
                 "index": 2,
-                "match_column": null,
-                "content": "Áp dụng giá thấp nhất"
+                "content": "Áp dụng giá thấp nhất",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212398,
                 "index": 3,
-                "match_column": null,
-                "content": "Tự động chọn nhà cung cấp chính"
+                "content": "Tự động chọn nhà cung cấp chính",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212399,
                 "index": 4,
-                "match_column": null,
-                "content": "Tự động chọn nhà cung cấp chính"
+                "content": "Tự động chọn nhà cung cấp chính",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, khi lập phiếu mua hàng, nếu hàng hóa có nhà cung cấp chính, hệ thống sẽ:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "179": {
-        "content": "Trong SkyInventory, để đăng nhập vào phần mềm, bạn cần:",
+        "id": 54417,
         "index": 179,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212360,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhập Email và Password"
+                "content": "Nhập Email và Password",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212361,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập User Name và Password"
+                "content": "Nhập User Name và Password",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212362,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhập mã nhân viên"
+                "content": "Nhập mã nhân viên",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212363,
                 "index": 4,
-                "match_column": null,
-                "content": "Nhập số điện thoại"
+                "content": "Nhập số điện thoại",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để đăng nhập vào phần mềm, bạn cần:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "180": {
-        "content": "Có mấy môi trường đăng nhập phần mềm SkyInventory cho người quản trị? Website/App/MobileApp/v..v..",
+        "id": 54577,
         "index": 180,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212996,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212997,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212998,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212999,
                 "index": 4,
-                "match_column": null,
-                "content": "4"
+                "content": "4",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có mấy môi trường đăng nhập phần mềm SkyInventory cho người quản trị? Website/App/MobileApp/v..v..",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "181": {
-        "content": "Trong SkyInventory, để lưu và thoát khỏi màn hình lập phiếu mua hàng, bạn nhấn vào:",
+        "id": 54428,
         "index": 181,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212404,
                 "index": 1,
-                "match_column": null,
-                "content": "Save"
+                "content": "Save",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212405,
                 "index": 2,
-                "match_column": null,
-                "content": "Save and Close"
+                "content": "Save and Close",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212406,
                 "index": 3,
-                "match_column": null,
-                "content": "Post"
+                "content": "Post",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212407,
                 "index": 4,
-                "match_column": null,
-                "content": "Submit"
+                "content": "Submit",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để lưu và thoát khỏi màn hình lập phiếu mua hàng, bạn nhấn vào:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "182": {
-        "content": "Trong SkyInventory, để xem báo cáo về số lượng và tổng tiền các nghiệp vụ có phát sinh trong khoảng thời gian được lọc báo báo",
+        "id": 54441,
         "index": 182,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212456,
                 "index": 1,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212457,
                 "index": 2,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212458,
                 "index": 3,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212459,
                 "index": 4,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để xem báo cáo về số lượng và tổng tiền các nghiệp vụ có phát sinh trong khoảng thời gian được lọc báo báo",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "183": {
-        "content": "Khi cần chuyển hàng hóa từ kho A sang kho B thì dùng phiếu nào?",
+        "id": 54581,
         "index": 183,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213012,
                 "index": 1,
-                "match_column": null,
-                "content": "Goods write-off"
+                "content": "Goods write-off",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213013,
                 "index": 2,
-                "match_column": null,
-                "content": "Goods transfers"
+                "content": "Goods transfers",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213014,
                 "index": 3,
-                "match_column": null,
-                "content": "Production Record"
+                "content": "Production Record",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213015,
                 "index": 4,
-                "match_column": null,
-                "content": "Good receipt"
+                "content": "Good receipt",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi cần chuyển hàng hóa từ kho A sang kho B thì dùng phiếu nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "184": {
-        "content": "Trong SkyInventory, Để xem giá của một nguyên vật liệu tương ứng với từng nhà cung cấp. Thời gian áp dụng trên bảng giá sẽ được báo cáo lọc ra theo đúng thời điểm người dùng chọn lựa.Ta xem báo cáo:",
+        "id": 54445,
         "index": 184,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212472,
                 "index": 1,
-                "match_column": null,
-                "content": "Thiết lập kho -> Báo cáo -> Supplier Prices"
+                "content": "Thiết lập kho -> Báo cáo -> Supplier Prices",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212473,
                 "index": 2,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212474,
                 "index": 3,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng"
+                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212475,
                 "index": 4,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, Để xem giá của một nguyên vật liệu tương ứng với từng nhà cung cấp. Thời gian áp dụng trên bảng giá sẽ được báo cáo lọc ra theo đúng thời điểm người dùng chọn lựa.Ta xem báo cáo:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "185": {
-        "content": "Trong SkyInventory, thao tác để yêu cầu đặt hàng là:",
+        "id": 54419,
         "index": 185,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212368,
                 "index": 1,
-                "match_column": null,
-                "content": "Goods Receipt"
+                "content": "Goods Receipt",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212369,
                 "index": 2,
-                "match_column": null,
-                "content": "Purchase Request"
+                "content": "Purchase Request",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212370,
                 "index": 3,
-                "match_column": null,
-                "content": "Stock Count"
+                "content": "Stock Count",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212371,
                 "index": 4,
-                "match_column": null,
-                "content": "Goods Transfer"
+                "content": "Goods Transfer",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, thao tác để yêu cầu đặt hàng là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "186": {
-        "content": "Trong SkyInventory, đơn vị cơ bản của hệ qui đổi volume là:",
+        "id": 54425,
         "index": 186,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212392,
                 "index": 1,
-                "match_column": null,
-                "content": "gr"
+                "content": "gr",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212393,
                 "index": 2,
-                "match_column": null,
-                "content": "pcs"
+                "content": "pcs",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212394,
                 "index": 3,
-                "match_column": null,
-                "content": "ml"
+                "content": "ml",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212395,
                 "index": 4,
-                "match_column": null,
-                "content": "cái"
+                "content": "cái",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, đơn vị cơ bản của hệ qui đổi volume là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "187": {
-        "content": "Trong SkyInventory, để xem báo cáo số lượng tồn cuối của ngày được chọn xuất báo cáo, thực hiện thao tác",
+        "id": 54440,
         "index": 187,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212452,
                 "index": 1,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212453,
                 "index": 2,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212454,
                 "index": 3,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212455,
                 "index": 4,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Bán hàng"
+                "content": "Giao dịch kho -> Báo cáo -> Bán hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để xem báo cáo số lượng tồn cuối của ngày được chọn xuất báo cáo, thực hiện thao tác",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "188": {
-        "content": "Trong SkyInventory, sau khi lập phiếu mua hàng, bước tiếp theo bạn cần làm là:",
+        "id": 54427,
         "index": 188,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212400,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn phiếu đặt hàng"
+                "content": "Chọn phiếu đặt hàng",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212401,
                 "index": 2,
-                "match_column": null,
-                "content": "Thay đổi nhà cung cấp"
+                "content": "Thay đổi nhà cung cấp",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212402,
                 "index": 3,
-                "match_column": null,
-                "content": "Kết chuyển phiếu"
+                "content": "Kết chuyển phiếu",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 212403,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn đơn vị tính"
+                "content": "Chọn đơn vị tính",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, sau khi lập phiếu mua hàng, bước tiếp theo bạn cần làm là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "189": {
-        "content": "Trên SkyInventory có thể tạo bao nhiêu kho tổng (Kho trung tâm)?",
+        "id": 54575,
         "index": 189,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212988,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212989,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212990,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212991,
                 "index": 4,
-                "match_column": null,
-                "content": "Không giới hạn"
+                "content": "Không giới hạn",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên SkyInventory có thể tạo bao nhiêu kho tổng (Kho trung tâm)?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "190": {
-        "content": "Trong thông tin nhà hàng trên SkyInventory, mã ngoài (External code) là gì?",
+        "id": 54576,
         "index": 190,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212992,
                 "index": 1,
-                "match_column": null,
-                "content": "Là mã sinh tự động, dùng để quản lý trên phần mềm SkyInventory"
+                "content": "Là mã sinh tự động, dùng để quản lý trên phần mềm SkyInventory",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212993,
                 "index": 2,
-                "match_column": null,
-                "content": "Là mã người dùng nhập vào, dùng để quản lý trên phần mềm SkyInventory"
+                "content": "Là mã người dùng nhập vào, dùng để quản lý trên phần mềm SkyInventory",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212994,
                 "index": 3,
-                "match_column": null,
-                "content": "Là mã đồng bộ từ phần mềm R-Keeper, dùng để quản lý trên phần mềm Sky Inventory"
+                "content": "Là mã đồng bộ từ phần mềm R-Keeper, dùng để quản lý trên phần mềm Sky Inventory",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212995,
                 "index": 4,
-                "match_column": null,
-                "content": "Là mã đồng bộ từ phần mềm R-Keeper, dùng để kết nối với phần mềm thứ 3"
+                "content": "Là mã đồng bộ từ phần mềm R-Keeper, dùng để kết nối với phần mềm thứ 3",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong thông tin nhà hàng trên SkyInventory, mã ngoài (External code) là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "191": {
-        "content": "Trong SkyInventory, khi trả hàng kém chất lượng về nhà cung cấp, bạn chọn:",
+        "id": 54421,
         "index": 191,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212376,
                 "index": 1,
-                "match_column": null,
-                "content": "Goods Write-Off"
+                "content": "Goods Write-Off",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212377,
                 "index": 2,
-                "match_column": null,
-                "content": "Goods Sales"
+                "content": "Goods Sales",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212378,
                 "index": 3,
-                "match_column": null,
-                "content": "Goods Transfer"
+                "content": "Goods Transfer",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212379,
                 "index": 4,
-                "match_column": null,
-                "content": "Return Supplier"
+                "content": "Return Supplier",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, khi trả hàng kém chất lượng về nhà cung cấp, bạn chọn:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "192": {
-        "content": "Trong SkyInventory, để kiểm tra báo cáo tồn kho, bạn chọn:",
+        "id": 54435,
         "index": 192,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212432,
                 "index": 1,
-                "match_column": null,
-                "content": "Goods Receipt"
+                "content": "Goods Receipt",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212433,
                 "index": 2,
-                "match_column": null,
-                "content": "Report Balance"
+                "content": "Report Balance",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212434,
                 "index": 3,
-                "match_column": null,
-                "content": "Stock Count"
+                "content": "Stock Count",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212435,
                 "index": 4,
-                "match_column": null,
-                "content": "Purchase Order"
+                "content": "Purchase Order",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để kiểm tra báo cáo tồn kho, bạn chọn:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "193": {
-        "content": "Trong SkyInventory, Để theo dõi tình trạng yêu cầu đặt hàng, nhận hàng của các kho thì báo cáo yêu cầu hàng hóa sẽ liệt kê đầy đủ các trạng thái số lượng yêu cầu hàng hóa, đặt hàng và nhận hàng chi tiết của từng hàng hóa. Ta xem báo cáo:",
+        "id": 54443,
         "index": 193,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212464,
                 "index": 1,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng"
+                "content": "Phiếu đặt hàng -> Reports -> Các đơn đặt hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212465,
                 "index": 2,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa"
+                "content": "Phiếu đặt hàng -> Report -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212466,
                 "index": 3,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Lưu thông hàng hóa"
+                "content": "Phiếu đặt hàng -> Reports -> Lưu thông hàng hóa",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 212467,
                 "index": 4,
-                "match_column": null,
-                "content": "Phiếu đặt hàng -> Reports -> Phiếu yêu cầu hàng hóa"
+                "content": "Phiếu đặt hàng -> Reports -> Phiếu yêu cầu hàng hóa",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, Để theo dõi tình trạng yêu cầu đặt hàng, nhận hàng của các kho thì báo cáo yêu cầu hàng hóa sẽ liệt kê đầy đủ các trạng thái số lượng yêu cầu hàng hóa, đặt hàng và nhận hàng chi tiết của từng hàng hóa. Ta xem báo cáo:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "194": {
-        "content": "Các bước để thiết lập phần thập phân của số lượng và tổng tiền trên báo cáo như thế nào?",
+        "id": 54580,
         "index": 194,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213008,
                 "index": 1,
-                "match_column": null,
-                "content": "Vào Other - Show format setup - Thiết lập trong mục Report"
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Report",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213009,
                 "index": 2,
-                "match_column": null,
-                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Report"
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Report",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213010,
                 "index": 3,
-                "match_column": null,
-                "content": "Vào Other - Show format setup - Thiết lập trong mục Documents Qty - Documents Price"
+                "content": "Vào Other - Show format setup - Thiết lập trong mục Documents Qty - Documents Price",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213011,
                 "index": 4,
-                "match_column": null,
-                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Documents Qty & Documents Price"
+                "content": "Vào Inventory setup - Show format setup - Thiết lập trong mục Documents Qty & Documents Price",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các bước để thiết lập phần thập phân của số lượng và tổng tiền trên báo cáo như thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "195": {
-        "content": "Trong SkyInventory, đơn vị cơ bản của hệ weight là:",
+        "id": 54430,
         "index": 195,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212412,
                 "index": 1,
-                "match_column": null,
-                "content": "kg"
+                "content": "kg",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212413,
                 "index": 2,
-                "match_column": null,
-                "content": "ml"
+                "content": "ml",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212414,
                 "index": 3,
-                "match_column": null,
-                "content": "gr"
+                "content": "gr",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212415,
                 "index": 4,
-                "match_column": null,
-                "content": "lít"
+                "content": "lít",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, đơn vị cơ bản của hệ weight là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "196": {
-        "content": "Recipe mapping của một món ăn hoặc ghi chú có nghĩa là gì?",
+        "id": 54578,
         "index": 196,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213000,
                 "index": 1,
-                "match_column": null,
-                "content": "Xác định trừ kho theo BOM (recipe) nào"
+                "content": "Xác định trừ kho theo BOM (recipe) nào",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213001,
                 "index": 2,
-                "match_column": null,
-                "content": "Xác định nhập kho theo BOM (recipe) nào"
+                "content": "Xác định nhập kho theo BOM (recipe) nào",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213002,
                 "index": 3,
-                "match_column": null,
-                "content": "Gán nhà hàng và trung tâm doanh thu khi trừ hàng"
+                "content": "Gán nhà hàng và trung tâm doanh thu khi trừ hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213003,
                 "index": 4,
-                "match_column": null,
-                "content": "Gán nhà hàng và trung tâm doanh thu khi nhập hàng"
+                "content": "Gán nhà hàng và trung tâm doanh thu khi nhập hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Recipe mapping của một món ăn hoặc ghi chú có nghĩa là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "197": {
-        "content": "Trong SkyInventory, để tạo mới một nhóm hàng hóa, bạn cần thực hiện bước đầu tiên là:",
+        "id": 54424,
         "index": 197,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212388,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn Create"
+                "content": "Chọn Create",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212389,
                 "index": 2,
-                "match_column": null,
-                "content": "Điền thông tin nguyên vật liệu"
+                "content": "Điền thông tin nguyên vật liệu",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212390,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn nhóm cần thêm"
+                "content": "Chọn nhóm cần thêm",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212391,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn Danh sách hàng hóa"
+                "content": "Chọn Danh sách hàng hóa",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để tạo mới một nhóm hàng hóa, bạn cần thực hiện bước đầu tiên là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "198": {
-        "content": "Trong SkyInventory, phát biểu nào sau đây sai?",
+        "id": 54446,
         "index": 198,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212476,
                 "index": 1,
-                "match_column": null,
-                "content": "Một hàng hóa có thể có nhiều đơn vị tính, bắt buộc phải có hệ quy đổi"
+                "content": "Một hàng hóa có thể có nhiều đơn vị tính, bắt buộc phải có hệ quy đổi",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212477,
                 "index": 2,
-                "match_column": null,
-                "content": "Nếu hàng hóa có nhà cung cấp chính và bảng giá chính, thì hệ thống sẽ tự động áp dụng chọn nhà cung cấp chính và bảng giá cho từng hàng hóa tương ứng"
+                "content": "Nếu hàng hóa có nhà cung cấp chính và bảng giá chính, thì hệ thống sẽ tự động áp dụng chọn nhà cung cấp chính và bảng giá cho từng hàng hóa tương ứng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212478,
                 "index": 3,
-                "match_column": null,
-                "content": "Bảng kê bán hàng được tải tự động về từ hệ thống POS realtime"
+                "content": "Bảng kê bán hàng được tải tự động về từ hệ thống POS realtime",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212479,
                 "index": 4,
-                "match_column": null,
-                "content": "Bảng kê bán hàng được tải tự động về từ hệ thống POS vào cuối ngày"
+                "content": "Bảng kê bán hàng được tải tự động về từ hệ thống POS vào cuối ngày",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, phát biểu nào sau đây sai?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "199": {
-        "content": "Trong SkyInventory, để quản lý nhà cung cấp, bạn vào mục:",
+        "id": 54433,
         "index": 199,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212424,
                 "index": 1,
-                "match_column": null,
-                "content": "Hàng hóa"
+                "content": "Hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212425,
                 "index": 2,
-                "match_column": null,
-                "content": "Đối tác"
+                "content": "Đối tác",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212426,
                 "index": 3,
-                "match_column": null,
-                "content": "Đơn vị tính"
+                "content": "Đơn vị tính",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212427,
                 "index": 4,
-                "match_column": null,
-                "content": "Định mức nguyên vật liệu"
+                "content": "Định mức nguyên vật liệu",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để quản lý nhà cung cấp, bạn vào mục:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "200": {
-        "content": "Trong SkyInventory, khi hủy hàng kém chất lượng hoặc hết hạn sử dụng, bạn chọn:",
+        "id": 54423,
         "index": 200,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212384,
                 "index": 1,
-                "match_column": null,
-                "content": "Goods Sales"
+                "content": "Goods Sales",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212385,
                 "index": 2,
-                "match_column": null,
-                "content": "Goods Transfer"
+                "content": "Goods Transfer",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212386,
                 "index": 3,
-                "match_column": null,
-                "content": "Goods Write-Off"
+                "content": "Goods Write-Off",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212387,
                 "index": 4,
-                "match_column": null,
-                "content": "Return Supplier"
+                "content": "Return Supplier",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, khi hủy hàng kém chất lượng hoặc hết hạn sử dụng, bạn chọn:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "201": {
-        "content": "Trong SkyInventory, để tạo định mức nguyên vật liệu, bạn vào mục:",
+        "id": 54431,
         "index": 201,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212416,
                 "index": 1,
-                "match_column": null,
-                "content": "Thiết lập kho"
+                "content": "Thiết lập kho",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212417,
                 "index": 2,
-                "match_column": null,
-                "content": "Định mức nguyên vật liệu"
+                "content": "Định mức nguyên vật liệu",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212418,
                 "index": 3,
-                "match_column": null,
-                "content": "Hàng hóa"
+                "content": "Hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212419,
                 "index": 4,
-                "match_column": null,
-                "content": "Báo cáo tồn kho"
+                "content": "Báo cáo tồn kho",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, để tạo định mức nguyên vật liệu, bạn vào mục:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "202": {
-        "content": "Trong SkyInventory, mã hàng hóa được gọi là:",
+        "id": 54418,
         "index": 202,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212364,
                 "index": 1,
-                "match_column": null,
-                "content": "Internal code"
+                "content": "Internal code",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212365,
                 "index": 2,
-                "match_column": null,
-                "content": "Product code"
+                "content": "Product code",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212366,
                 "index": 3,
-                "match_column": null,
-                "content": "External code"
+                "content": "External code",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212367,
                 "index": 4,
-                "match_column": null,
-                "content": "Item code"
+                "content": "Item code",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, mã hàng hóa được gọi là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "203": {
-        "content": "Trong SkyInventory, Để xem tất cả các hoạt động nhập xuất tồn của một nguyên vật liệu trong một hoặc nhiều kho khác nhau. Nhầm theo dõi số lượng chi tiết theo các lần nhập xuất tồn của kho, theo từng phiếu nghiệp vụ.Ta xem báo cáo:",
+        "id": 54444,
         "index": 203,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212468,
                 "index": 1,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Cân đối tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212469,
                 "index": 2,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo tồn kho",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212470,
                 "index": 3,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa"
+                "content": "Giao dịch kho -> Báo cáo -> Lưu thông hàng hóa",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212471,
                 "index": 4,
-                "match_column": null,
-                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng"
+                "content": "Giao dịch kho -> Báo cáo -> Báo cáo xuât nhập tồn mở rộng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, Để xem tất cả các hoạt động nhập xuất tồn của một nguyên vật liệu trong một hoặc nhiều kho khác nhau. Nhầm theo dõi số lượng chi tiết theo các lần nhập xuất tồn của kho, theo từng phiếu nghiệp vụ.Ta xem báo cáo:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "204": {
-        "content": "Có mấy nhóm đối tượng khóa kỳ? Hãy liệt kê ra",
+        "id": 54582,
         "index": 204,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213016,
                 "index": 1,
-                "match_column": null,
-                "content": "1 nhóm Khóa kỳ cho từng tài khoản người dùng"
+                "content": "1 nhóm Khóa kỳ cho từng tài khoản người dùng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213017,
                 "index": 2,
-                "match_column": null,
-                "content": "2 nhóm Khóa kỳ cho tất cả tài khoản và Khóa kỳ cho từng tài khoản người dùng"
+                "content": "2 nhóm Khóa kỳ cho tất cả tài khoản và Khóa kỳ cho từng tài khoản người dùng",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213018,
                 "index": 3,
-                "match_column": null,
-                "content": "3 nhóm Khóa kỳ cho tất cả tài khoản; Khóa kỳ cho từng tài khoản người dùng; Khóa kỳ cho nhóm tài khoản được xác bằng tham số khóa kỳ"
+                "content": "3 nhóm Khóa kỳ cho tất cả tài khoản; Khóa kỳ cho từng tài khoản người dùng; Khóa kỳ cho nhóm tài khoản được xác bằng tham số khóa kỳ",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 213019,
                 "index": 4,
-                "match_column": null,
-                "content": "Không có phân nhóm"
+                "content": "Không có phân nhóm",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có mấy nhóm đối tượng khóa kỳ? Hãy liệt kê ra",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 0
     },
     "205": {
-        "content": "Trong SkyInventory, khi nhập kho từ phiếu đặt hàng PO, bước đầu tiên là:",
+        "id": 54429,
         "index": 205,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212408,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn phiếu yêu cầu hàng hóa"
+                "content": "Chọn phiếu yêu cầu hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212409,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn phiếu đặt hàng đã duyệt"
+                "content": "Chọn phiếu đặt hàng đã duyệt",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212410,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhập số lượng hàng hóa"
+                "content": "Nhập số lượng hàng hóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212411,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn nhà cung cấp"
+                "content": "Chọn nhà cung cấp",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInventory, khi nhập kho từ phiếu đặt hàng PO, bước đầu tiên là:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2695,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInventory",
+        "attachments": [],
+        "score_q": 1
     },
     "206": {
-        "content": "Trong CRM Manager, để tích lũy điểm cho khách hàng, bạn phải thiết lập gì?",
+        "id": 54412,
         "index": 206,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212340,
                 "index": 1,
-                "match_column": null,
-                "content": "Chương trình giảm giá"
+                "content": "Chương trình giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212341,
                 "index": 2,
-                "match_column": null,
-                "content": "Account Types"
+                "content": "Account Types",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212342,
                 "index": 3,
-                "match_column": null,
-                "content": "Special Offer"
+                "content": "Special Offer",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212343,
                 "index": 4,
-                "match_column": null,
-                "content": "Coupon Types"
+                "content": "Coupon Types",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, để tích lũy điểm cho khách hàng, bạn phải thiết lập gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "207": {
-        "content": "Các hình thức để áp dụng mã thành viên CRM vào POS (Có thể chọn nhiều đáp án)",
+        "id": 54502,
         "index": 207,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212700,
                 "index": 1,
-                "match_column": null,
-                "content": "Sử dụng tính năng nhập mã từ bàn phím"
+                "content": "Sử dụng tính năng nhập mã từ bàn phím",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212701,
                 "index": 2,
-                "match_column": null,
-                "content": "Scan Qrcode mã thành viên"
+                "content": "Scan Qrcode mã thành viên",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212702,
                 "index": 3,
-                "match_column": null,
-                "content": "Scan Qr thông tin order và cập nhật thông tin thành viên qua app"
+                "content": "Scan Qr thông tin order và cập nhật thông tin thành viên qua app",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212703,
                 "index": 4,
-                "match_column": null,
-                "content": "Quẹt thẻ từ"
+                "content": "Quẹt thẻ từ",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các hình thức để áp dụng mã thành viên CRM vào POS (Có thể chọn nhiều đáp án)",
         "count_correct": 4,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "208": {
-        "content": "SkyCRM là gì?",
+        "id": 54562,
         "index": 208,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212936,
                 "index": 1,
-                "match_column": null,
-                "content": "Là module được dùng để kết nối theo dõi hệ thống quản lý khách hàng thành viên và doanh thu báo cáo của từng mô hình cửa hàng."
+                "content": "Là module được dùng để kết nối theo dõi hệ thống quản lý khách hàng thành viên và doanh thu báo cáo của từng mô hình cửa hàng.",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212937,
                 "index": 2,
-                "match_column": null,
-                "content": "Coi báo cáo về CRM và RK7"
+                "content": "Coi báo cáo về CRM và RK7",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212938,
                 "index": 3,
-                "match_column": null,
-                "content": "Là module Quản lý giảm giá."
+                "content": "Là module Quản lý giảm giá.",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212939,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "SkyCRM là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "209": {
-        "content": "Trong CRM Manager, để tạo hành động quy đổi từ tiêu dùng sang điểm, bạn phải vào mục nào trước tiên?",
+        "id": 54411,
         "index": 209,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212336,
                 "index": 1,
-                "match_column": null,
-                "content": "Special Offers"
+                "content": "Special Offers",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212337,
                 "index": 2,
-                "match_column": null,
-                "content": "Coupon Types"
+                "content": "Coupon Types",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212338,
                 "index": 3,
-                "match_column": null,
-                "content": "Account Types"
+                "content": "Account Types",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212339,
                 "index": 4,
-                "match_column": null,
-                "content": "Scheduler"
+                "content": "Scheduler",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, để tạo hành động quy đổi từ tiêu dùng sang điểm, bạn phải vào mục nào trước tiên?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "210": {
-        "content": "Bước nào sau đây dùng để thiết lập tính năng debit/credit cho khách hàng trong CRM (Có thể chọn nhiều đáp án)",
+        "id": 54501,
         "index": 210,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212696,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo hình thức thanh toán với Farcard Transaction và Subaccount tương ứng"
+                "content": "Tạo hình thức thanh toán với Farcard Transaction và Subaccount tương ứng",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212697,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo scheme"
+                "content": "Tạo scheme",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212698,
                 "index": 3,
-                "match_column": null,
-                "content": "Gán Priority cho tài khoản debit khi thiết lập SW Classifier"
+                "content": "Gán Priority cho tài khoản debit khi thiết lập SW Classifier",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212699,
                 "index": 4,
-                "match_column": null,
-                "content": "Tạo segment"
+                "content": "Tạo segment",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Bước nào sau đây dùng để thiết lập tính năng debit/credit cho khách hàng trong CRM (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "211": {
-        "content": "Trong CRM Manager, một \"SpecialOffer\" bao gồm những gì?",
+        "id": 54405,
         "index": 211,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212312,
                 "index": 1,
-                "match_column": null,
-                "content": "Các điều kiện và hành động của chương trình CRM"
+                "content": "Các điều kiện và hành động của chương trình CRM",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212313,
                 "index": 2,
-                "match_column": null,
-                "content": "Các loại tài khoản và giảm giá"
+                "content": "Các loại tài khoản và giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212314,
                 "index": 3,
-                "match_column": null,
-                "content": "Các thông tin khách hàng"
+                "content": "Các thông tin khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212315,
                 "index": 4,
-                "match_column": null,
-                "content": "Các liên hệ mạng xã hội"
+                "content": "Các liên hệ mạng xã hội",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, một \"SpecialOffer\" bao gồm những gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "212": {
-        "content": "Bước nào sau đây trong nằm các bước cài đặt voucher thanh toán CRM",
+        "id": 54500,
         "index": 212,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212692,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo scheme"
+                "content": "Tạo scheme",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212693,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo hình thức thanh toán với Farcard Transaction và Subaccount tương ứng với tham số"
+                "content": "Tạo hình thức thanh toán với Farcard Transaction và Subaccount tương ứng với tham số",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212694,
                 "index": 3,
-                "match_column": null,
-                "content": "Gán mã món ăn"
+                "content": "Gán mã món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212695,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên đúng"
+                "content": "Tất cả đáp án trên đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Bước nào sau đây trong nằm các bước cài đặt voucher thanh toán CRM",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "213": {
-        "content": "Trong CRM Manager, khi muốn tạo mới một coupon giảm giá, bạn phải vào mục nào?",
+        "id": 54410,
         "index": 213,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212332,
                 "index": 1,
-                "match_column": null,
-                "content": "Special Offers"
+                "content": "Special Offers",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212333,
                 "index": 2,
-                "match_column": null,
-                "content": "Coupon Types"
+                "content": "Coupon Types",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212334,
                 "index": 3,
-                "match_column": null,
-                "content": "Groups of Cards"
+                "content": "Groups of Cards",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212335,
                 "index": 4,
-                "match_column": null,
-                "content": "Account Types"
+                "content": "Account Types",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, khi muốn tạo mới một coupon giảm giá, bạn phải vào mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "214": {
-        "content": "<p>Viết query lấy danh sách khách hàng có sinh nhật trong tháng 6 (Tên, mã thẻ, ngày sinh) (Tự luận)</p>",
+        "id": 54869,
         "index": 214,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<p>select FULL_NAME, PEOPLE_ID, BIRTHDAY from CARD_PEOPLES Where MONTH(BIRTHDAY) = 6</p>"
+        },
+        "explain": "",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Viết query lấy danh sách khách hàng có sinh nhật trong tháng 6 (Tên, mã thẻ, ngày sinh) (Tự luận)</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "215": {
-        "content": "Trong CRM Manager, để tạo tài khoản chính sách, bạn cần chọn mục nào?",
+        "id": 54400,
         "index": 215,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212292,
                 "index": 1,
-                "match_column": null,
-                "content": "References -> Account Types"
+                "content": "References -> Account Types",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212293,
                 "index": 2,
-                "match_column": null,
-                "content": "Settings -> Discount Accounts"
+                "content": "Settings -> Discount Accounts",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212294,
                 "index": 3,
-                "match_column": null,
-                "content": "Tools -> Create Discount"
+                "content": "Tools -> Create Discount",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212295,
                 "index": 4,
-                "match_column": null,
-                "content": "Users -> Account Settings"
+                "content": "Users -> Account Settings",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, để tạo tài khoản chính sách, bạn cần chọn mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "216": {
-        "content": "Trong CRM Manager, phát biểu nào sau đây sai?",
+        "id": 54463,
         "index": 216,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212544,
                 "index": 1,
-                "match_column": null,
-                "content": "CRM Manager có thể xem được danh sách coupon/voucher của khách hàng"
+                "content": "CRM Manager có thể xem được danh sách coupon/voucher của khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212545,
                 "index": 2,
-                "match_column": null,
-                "content": "CRM Manager có thể xem chi tiết số bill và món khách đã sử dụng"
+                "content": "CRM Manager có thể xem chi tiết số bill và món khách đã sử dụng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212546,
                 "index": 3,
-                "match_column": null,
-                "content": "CRM Manager cho phép thêm nhanh voucher cho nhiều khách hàng"
+                "content": "CRM Manager cho phép thêm nhanh voucher cho nhiều khách hàng",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212547,
                 "index": 4,
-                "match_column": null,
-                "content": "CRM Manager cho phép kiểm tra lịch sử giao dịch của khách hàng"
+                "content": "CRM Manager cho phép kiểm tra lịch sử giao dịch của khách hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, phát biểu nào sau đây sai?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "217": {
-        "content": "<p>Liệt kê các loại coupon trong CRM và công dụng tương ứng (Câu hỏi tự luận)</p>",
+        "id": 54861,
         "index": 217,
+        "answers": {
+            "exam_result_id": null,
+            "id": null,
+            "name": null,
+            "path": null,
+            "content": "<ul><li>Coupon tặng món: Tặng món đã setup</li><li>Coupon giảm giá: Giảm giá&nbsp;</li><li>Coupon thanh toán: như 1 hình thức thanh toán</li></ul>"
+        },
+        "explain": "",
+        "type_score": "0",
+        "score": 5,
         "type": "essay",
-        "answers": [],
+        "content": "<p>Liệt kê các loại coupon trong CRM và công dụng tương ứng (Câu hỏi tự luận)</p>",
         "count_correct": 0,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "218": {
-        "content": "Phát biểu nào sau đây không đúng về CRM?",
+        "id": 54392,
         "index": 218,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212260,
                 "index": 1,
-                "match_column": null,
-                "content": "CRM có thể tích điểm dựa trên số tổng tiền thanh toán"
+                "content": "CRM có thể tích điểm dựa trên số tổng tiền thanh toán",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212261,
                 "index": 2,
-                "match_column": null,
-                "content": "Có thể hiện bất kỳ thông tin tài khoản điểm nào của khách lên hóa đơn"
+                "content": "Có thể hiện bất kỳ thông tin tài khoản điểm nào của khách lên hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212262,
                 "index": 3,
-                "match_column": null,
-                "content": "CRM không thể nhận biết khách giao dịch tại nhà hàng nào."
+                "content": "CRM không thể nhận biết khách giao dịch tại nhà hàng nào.",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212263,
                 "index": 4,
-                "match_column": null,
-                "content": "CRM không thêm xem chi tiết món khách sử dụng"
+                "content": "CRM không thêm xem chi tiết món khách sử dụng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây không đúng về CRM?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "219": {
-        "content": "Trong CRM Manager, để thay đổi level tài khoản giảm giá cho thành viên, bạn cần vào tab nào?",
+        "id": 54406,
         "index": 219,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212316,
                 "index": 1,
-                "match_column": null,
-                "content": "Account"
+                "content": "Account",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212317,
                 "index": 2,
-                "match_column": null,
-                "content": "Contact"
+                "content": "Contact",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212318,
                 "index": 3,
-                "match_column": null,
-                "content": "Schedule"
+                "content": "Schedule",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212319,
                 "index": 4,
-                "match_column": null,
-                "content": "Segment"
+                "content": "Segment",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, để thay đổi level tài khoản giảm giá cho thành viên, bạn cần vào tab nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "220": {
-        "content": "Các thông tin nào của khách hàng trong CRM có thể hiển thị trên hóa đơn?",
+        "id": 54466,
         "index": 220,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212556,
                 "index": 1,
-                "match_column": null,
-                "content": "Tên khách hàng, số điện thoại"
+                "content": "Tên khách hàng, số điện thoại",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212557,
                 "index": 2,
-                "match_column": null,
-                "content": "Tên khách hàng, số điện thoại"
+                "content": "Tên khách hàng, số điện thoại",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212558,
                 "index": 3,
-                "match_column": null,
-                "content": "Tên khách hàng, số điện thoại, hạng thẻ"
+                "content": "Tên khách hàng, số điện thoại, hạng thẻ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212559,
                 "index": 4,
-                "match_column": null,
-                "content": "Tên khách hàng, số điện thoại, hạng thẻ, điểm tích lũy, điểm có thể đổi voucher, điểm xét hạng."
+                "content": "Tên khách hàng, số điện thoại, hạng thẻ, điểm tích lũy, điểm có thể đổi voucher, điểm xét hạng.",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Các thông tin nào của khách hàng trong CRM có thể hiển thị trên hóa đơn?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "221": {
-        "content": "Trong CRM Manager, khi tạo một chương trình giảm giá, bạn cần nhập thông tin nào từ RK7?",
+        "id": 54409,
         "index": 221,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212328,
                 "index": 1,
-                "match_column": null,
-                "content": "Ident nhóm giảm giá"
+                "content": "Ident nhóm giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212329,
                 "index": 2,
-                "match_column": null,
-                "content": "Ident giảm giá"
+                "content": "Ident giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212330,
                 "index": 3,
-                "match_column": null,
-                "content": "Code nhóm giảm giá"
+                "content": "Code nhóm giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212331,
                 "index": 4,
-                "match_column": null,
-                "content": "Code giảm giá"
+                "content": "Code giảm giá",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, khi tạo một chương trình giảm giá, bạn cần nhập thông tin nào từ RK7?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "222": {
-        "content": "Trong CRM, tổ hợp phím tắt để tìm kiếm nhanh thông tin khách hàng là",
+        "id": 54385,
         "index": 222,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212232,
                 "index": 1,
-                "match_column": null,
-                "content": "Ctrl + S"
+                "content": "Ctrl + S",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212233,
                 "index": 2,
-                "match_column": null,
-                "content": "Ctrl + F"
+                "content": "Ctrl + F",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212234,
                 "index": 3,
-                "match_column": null,
-                "content": "Ctrl + Alt + F"
+                "content": "Ctrl + Alt + F",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212235,
                 "index": 4,
-                "match_column": null,
-                "content": "B và C đúng"
+                "content": "B và C đúng",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM, tổ hợp phím tắt để tìm kiếm nhanh thông tin khách hàng là",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "223": {
-        "content": "Trong CRM Manager, mục \"Schedule\" dùng để làm gì?",
+        "id": 54407,
         "index": 223,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212320,
                 "index": 1,
-                "match_column": null,
-                "content": "Quản lý danh sách khách hàng"
+                "content": "Quản lý danh sách khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212321,
                 "index": 2,
-                "match_column": null,
-                "content": "Lịch trình sử dụng cho các hành động"
+                "content": "Lịch trình sử dụng cho các hành động",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212322,
                 "index": 3,
-                "match_column": null,
-                "content": "Thiết lập các loại tài khoản"
+                "content": "Thiết lập các loại tài khoản",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212323,
                 "index": 4,
-                "match_column": null,
-                "content": "Tạo mới chương trình giảm giá"
+                "content": "Tạo mới chương trình giảm giá",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, mục \"Schedule\" dùng để làm gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "224": {
-        "content": "Tổ hợp phím Ctrl + Alt + F trong CRM Manager có ý nghĩa gì?",
+        "id": 54461,
         "index": 224,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212536,
                 "index": 1,
-                "match_column": null,
-                "content": "Tìm kiếm thông tin khách hàng theo \"Cardcode\""
+                "content": "Tìm kiếm thông tin khách hàng theo \"Cardcode\"",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212537,
                 "index": 2,
-                "match_column": null,
-                "content": "Tìm kiếm thông tin khách hàng theo \"Holder\""
+                "content": "Tìm kiếm thông tin khách hàng theo \"Holder\"",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212538,
                 "index": 3,
-                "match_column": null,
-                "content": "Mở cửa sổ tạo thẻ"
+                "content": "Mở cửa sổ tạo thẻ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212539,
                 "index": 4,
-                "match_column": null,
-                "content": "Lưu tác vụ"
+                "content": "Lưu tác vụ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tổ hợp phím Ctrl + Alt + F trong CRM Manager có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "225": {
-        "content": "Báo cáo/Daskboard doanh thu trên SkyCRM bao gồm các loại báo cáo nào",
+        "id": 54572,
         "index": 225,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212976,
                 "index": 1,
-                "match_column": null,
-                "content": "Theo khách hàng, nhóm khách hàng, món ăn, nhóm món ăn"
+                "content": "Theo khách hàng, nhóm khách hàng, món ăn, nhóm món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212977,
                 "index": 2,
-                "match_column": null,
-                "content": "Theo khách hàng, nhóm khách hàng, nhóm thẻ, nhóm tuổi, giới tính"
+                "content": "Theo khách hàng, nhóm khách hàng, nhóm thẻ, nhóm tuổi, giới tính",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212978,
                 "index": 3,
-                "match_column": null,
-                "content": "Theo khách hàng, giới tính, nhà hàng, món ăn"
+                "content": "Theo khách hàng, giới tính, nhà hàng, món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212979,
                 "index": 4,
-                "match_column": null,
-                "content": "Theo ngày, nhà hàng, món ăn, nhóm món ăn"
+                "content": "Theo ngày, nhà hàng, món ăn, nhóm món ăn",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Báo cáo/Daskboard doanh thu trên SkyCRM bao gồm các loại báo cáo nào",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "226": {
-        "content": "Phát biểu nào sau đây đúng về coupon CRM?",
+        "id": 54398,
         "index": 226,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212284,
                 "index": 1,
-                "match_column": null,
-                "content": "Coupon sẽ tắt kích hoạt khi nhập vào bàn"
+                "content": "Coupon sẽ tắt kích hoạt khi nhập vào bàn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212285,
                 "index": 2,
-                "match_column": null,
-                "content": "Coupon sẽ tắt kích hoạt khi thanh toán hóa đơn"
+                "content": "Coupon sẽ tắt kích hoạt khi thanh toán hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212286,
                 "index": 3,
-                "match_column": null,
-                "content": "Coupon sẽ không tắt kích hoạt sau khi sử dụng"
+                "content": "Coupon sẽ không tắt kích hoạt sau khi sử dụng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212287,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây đúng về coupon CRM?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "227": {
-        "content": "Chọn đáp án đúng về SkyCRM?",
+        "id": 54415,
         "index": 227,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212352,
                 "index": 1,
-                "match_column": null,
-                "content": "SkyCRM cung cấp tính năng dùng điểm đổi coupon/voucher"
+                "content": "SkyCRM cung cấp tính năng dùng điểm đổi coupon/voucher",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212353,
                 "index": 2,
-                "match_column": null,
-                "content": "SkyCRM cho phép ghi nhận đánh giá của khách hàng về chất lượng dịch vụ"
+                "content": "SkyCRM cho phép ghi nhận đánh giá của khách hàng về chất lượng dịch vụ",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212354,
                 "index": 3,
-                "match_column": null,
-                "content": "SkyCRM hỗ trợ tính năng đăng ký thành viên thông qua Zalo, Facebook"
+                "content": "SkyCRM hỗ trợ tính năng đăng ký thành viên thông qua Zalo, Facebook",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212355,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Chọn đáp án đúng về SkyCRM?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "228": {
-        "content": "Một coupon phát hành bởi CRM mặc định có bao nhiêu chữ số?",
+        "id": 54569,
         "index": 228,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212964,
                 "index": 1,
-                "match_column": null,
-                "content": "10"
+                "content": "10",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212965,
                 "index": 2,
-                "match_column": null,
-                "content": "11"
+                "content": "11",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212966,
                 "index": 3,
-                "match_column": null,
-                "content": "12"
+                "content": "12",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212967,
                 "index": 4,
-                "match_column": null,
-                "content": "13"
+                "content": "13",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Một coupon phát hành bởi CRM mặc định có bao nhiêu chữ số?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "229": {
-        "content": "Trong CRM, khi tạo thẻ thành viên mới cho khách hàng, thẻ có thời hạn mặc định bao nhiêu?",
+        "id": 54393,
         "index": 229,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212264,
                 "index": 1,
-                "match_column": null,
-                "content": "1 năm"
+                "content": "1 năm",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212265,
                 "index": 2,
-                "match_column": null,
-                "content": "2 năm"
+                "content": "2 năm",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212266,
                 "index": 3,
-                "match_column": null,
-                "content": "3 năm"
+                "content": "3 năm",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212267,
                 "index": 4,
-                "match_column": null,
-                "content": "Không có thời hạn"
+                "content": "Không có thời hạn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM, khi tạo thẻ thành viên mới cho khách hàng, thẻ có thời hạn mặc định bao nhiêu?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "230": {
-        "content": "Trong database CRM, để truy vấn thông tin tên khách hàng, ngày sinh, giới tính,...Ta sử dụng bảng dữ liệu",
+        "id": 54464,
         "index": 230,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212548,
                 "index": 1,
-                "match_column": null,
-                "content": "CARD_CARDS"
+                "content": "CARD_CARDS",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212549,
                 "index": 2,
-                "match_column": null,
-                "content": "CARD_PEOPLE_ACCOUNTS"
+                "content": "CARD_PEOPLE_ACCOUNTS",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212550,
                 "index": 3,
-                "match_column": null,
-                "content": "CARD_PEOPLES"
+                "content": "CARD_PEOPLES",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212551,
                 "index": 4,
-                "match_column": null,
-                "content": "CARD_CLIENTS"
+                "content": "CARD_CLIENTS",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong database CRM, để truy vấn thông tin tên khách hàng, ngày sinh, giới tính,...Ta sử dụng bảng dữ liệu",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "231": {
-        "content": "Chọn đáp án đúng về CRM?",
+        "id": 54414,
         "index": 231,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212348,
                 "index": 1,
-                "match_column": null,
-                "content": "CRM hỗ trợ tạo tài khoản thành viên và chính sách nâng hạng/xuống hạng thành viên"
+                "content": "CRM hỗ trợ tạo tài khoản thành viên và chính sách nâng hạng/xuống hạng thành viên",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212349,
                 "index": 2,
-                "match_column": null,
-                "content": "CRM hỗ trợ chính sách tích điểm dựa theo tiêu dùng của khách. Sử dụng điểm để nâng hạng hoặc tiêu dùng"
+                "content": "CRM hỗ trợ chính sách tích điểm dựa theo tiêu dùng của khách. Sử dụng điểm để nâng hạng hoặc tiêu dùng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212350,
                 "index": 3,
-                "match_column": null,
-                "content": "CRM cho phép nạp tiền trước cho khách và sử dụng dần"
+                "content": "CRM cho phép nạp tiền trước cho khách và sử dụng dần",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212351,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Chọn đáp án đúng về CRM?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "232": {
-        "content": "Trong CRM Manager, \"Coupon Type\" bao gồm những loại nào?",
+        "id": 54402,
         "index": 232,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212300,
                 "index": 1,
-                "match_column": null,
-                "content": "Voucher & Discount"
+                "content": "Voucher & Discount",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212301,
                 "index": 2,
-                "match_column": null,
-                "content": "Payment,Discount & Gift Item"
+                "content": "Payment,Discount & Gift Item",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212302,
                 "index": 3,
-                "match_column": null,
-                "content": "Voucher,Payment & Gift Item"
+                "content": "Voucher,Payment & Gift Item",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212303,
                 "index": 4,
-                "match_column": null,
-                "content": "Discount & Gift Item"
+                "content": "Discount & Gift Item",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, \"Coupon Type\" bao gồm những loại nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "233": {
-        "content": "Trong CRM, chúng ta có thể import danh sách thông tin khách hàng kèm điểm tích lũy không?",
+        "id": 54465,
         "index": 233,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212552,
                 "index": 1,
-                "match_column": null,
-                "content": "Chỉ có thể import danh sách khách hàng"
+                "content": "Chỉ có thể import danh sách khách hàng",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 212553,
                 "index": 2,
-                "match_column": null,
-                "content": "Import được danh sách khác hàng và điểm tích lũy. Cần thêm cột Balance1 vào template import."
+                "content": "Import được danh sách khác hàng và điểm tích lũy. Cần thêm cột Balance1 vào template import.",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 212554,
                 "index": 3,
-                "match_column": null,
-                "content": "Import được danh sách khác hàng và điểm tích lũy. Cần thêm cột Summ1 vào template import"
+                "content": "Import được danh sách khác hàng và điểm tích lũy. Cần thêm cột Summ1 vào template import",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212555,
                 "index": 4,
-                "match_column": null,
-                "content": "Import được danh sách khác hàng và điểm tích lũy. Thêm cột Sum0 vào template import và khai báo thêm tài khoản acc"
+                "content": "Import được danh sách khác hàng và điểm tích lũy. Thêm cột Sum0 vào template import và khai báo thêm tài khoản acc",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM, chúng ta có thể import danh sách thông tin khách hàng kèm điểm tích lũy không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "234": {
-        "content": "Có bao nhiêu phân loại kịch bản sẽ chạy trong Special Offer (Action) (Ghi Chú - khi nào kịch bản được chạy)",
+        "id": 54570,
         "index": 234,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212968,
                 "index": 1,
-                "match_column": null,
-                "content": "1"
+                "content": "1",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212969,
                 "index": 2,
-                "match_column": null,
-                "content": "2"
+                "content": "2",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212970,
                 "index": 3,
-                "match_column": null,
-                "content": "3"
+                "content": "3",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212971,
                 "index": 4,
-                "match_column": null,
-                "content": "4"
+                "content": "4",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có bao nhiêu phân loại kịch bản sẽ chạy trong Special Offer (Action) (Ghi Chú - khi nào kịch bản được chạy)",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "235": {
-        "content": "Ứng dụng quản lý tài khoản User_manager.exe không khởi động được, khi mở nhận được thông báo “Windows Socket Error” là do?",
+        "id": 54571,
         "index": 235,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212972,
                 "index": 1,
-                "match_column": null,
-                "content": "Do kết nối internet bị ngắt"
+                "content": "Do kết nối internet bị ngắt",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212973,
                 "index": 2,
-                "match_column": null,
-                "content": "Ứng dụng không thể kết nối với máy chủ"
+                "content": "Ứng dụng không thể kết nối với máy chủ",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212974,
                 "index": 3,
-                "match_column": null,
-                "content": "Ứng dụng bị chặn bởi chương trình virus"
+                "content": "Ứng dụng bị chặn bởi chương trình virus",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212975,
                 "index": 4,
-                "match_column": null,
-                "content": "Máy chủ bị ngắt kết nối"
+                "content": "Máy chủ bị ngắt kết nối",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Ứng dụng quản lý tài khoản User_manager.exe không khởi động được, khi mở nhận được thông báo “Windows Socket Error” là do?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "236": {
-        "content": "Trong CRM Manager, loại tài khoản nào dùng để ghi nhận số tiền tiêu dùng của khách hàng?",
+        "id": 54401,
         "index": 236,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212296,
                 "index": 1,
-                "match_column": null,
-                "content": "Discount"
+                "content": "Discount",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212297,
                 "index": 2,
-                "match_column": null,
-                "content": "Spent"
+                "content": "Spent",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212298,
                 "index": 3,
-                "match_column": null,
-                "content": "Debit"
+                "content": "Debit",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212299,
                 "index": 4,
-                "match_column": null,
-                "content": "Credit"
+                "content": "Credit",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, loại tài khoản nào dùng để ghi nhận số tiền tiêu dùng của khách hàng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "237": {
-        "content": "Trong CRM Manager, một \"Segment\" dùng để phân loại gì?",
+        "id": 54403,
         "index": 237,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212304,
                 "index": 1,
-                "match_column": null,
-                "content": "Danh sách khách hàng"
+                "content": "Danh sách khách hàng",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212305,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhóm sản phẩm"
+                "content": "Nhóm sản phẩm",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212306,
                 "index": 3,
-                "match_column": null,
-                "content": "Loại tài khoản"
+                "content": "Loại tài khoản",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212307,
                 "index": 4,
-                "match_column": null,
-                "content": "Coupon dự trữ"
+                "content": "Coupon dự trữ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, một \"Segment\" dùng để phân loại gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "238": {
-        "content": "Để cài chính sách loyaly trong CRM, ta có thể sử dụng cách nào? (Có thể chọn nhiều đáp án)",
+        "id": 54462,
         "index": 238,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212540,
                 "index": 1,
-                "match_column": null,
-                "content": "Sử dụng Special Offer"
+                "content": "Sử dụng Special Offer",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212541,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng Segment"
+                "content": "Sử dụng Segment",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212542,
                 "index": 3,
-                "match_column": null,
-                "content": "Viết query SQL"
+                "content": "Viết query SQL",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212543,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để cài chính sách loyaly trong CRM, ta có thể sử dụng cách nào? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "239": {
-        "content": "Trong CRM Manager, bước đầu tiên để tạo coupon giảm giá là gì?",
+        "id": 54413,
         "index": 239,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212344,
                 "index": 1,
-                "match_column": null,
-                "content": "Tạo chương trình giảm giá trên CRM"
+                "content": "Tạo chương trình giảm giá trên CRM",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212345,
                 "index": 2,
-                "match_column": null,
-                "content": "Tạo chương trình giảm giá trên RK7"
+                "content": "Tạo chương trình giảm giá trên RK7",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212346,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo nhóm thẻ"
+                "content": "Tạo nhóm thẻ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212347,
                 "index": 4,
-                "match_column": null,
-                "content": "Tạo nhóm khách hàng"
+                "content": "Tạo nhóm khách hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, bước đầu tiên để tạo coupon giảm giá là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "240": {
-        "content": "Tổ hợp phím Ctrl + F trong CRM Manager có ý nghĩa gì?",
+        "id": 54460,
         "index": 240,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212532,
                 "index": 1,
-                "match_column": null,
-                "content": "Tìm kiếm thông tin khách hàng theo \"Cardcode\""
+                "content": "Tìm kiếm thông tin khách hàng theo \"Cardcode\"",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212533,
                 "index": 2,
-                "match_column": null,
-                "content": "Tìm kiếm thông tin khách hàng theo \"Holder\""
+                "content": "Tìm kiếm thông tin khách hàng theo \"Holder\"",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212534,
                 "index": 3,
-                "match_column": null,
-                "content": "Mở cửa sổ tạo thẻ"
+                "content": "Mở cửa sổ tạo thẻ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212535,
                 "index": 4,
-                "match_column": null,
-                "content": "Lưu tác vụ"
+                "content": "Lưu tác vụ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tổ hợp phím Ctrl + F trong CRM Manager có ý nghĩa gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "241": {
-        "content": "Trong CRM Manager, để tạo mới một chương trình giảm giá, bạn cần vào mục nào?",
+        "id": 54404,
         "index": 241,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212308,
                 "index": 1,
-                "match_column": null,
-                "content": "References -> Schemes"
+                "content": "References -> Schemes",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212309,
                 "index": 2,
-                "match_column": null,
-                "content": "Tools -> Discount Programs"
+                "content": "Tools -> Discount Programs",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212310,
                 "index": 3,
-                "match_column": null,
-                "content": "Settings -> Create Discount"
+                "content": "Settings -> Create Discount",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212311,
                 "index": 4,
-                "match_column": null,
-                "content": "Users -> New Scheme"
+                "content": "Users -> New Scheme",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, để tạo mới một chương trình giảm giá, bạn cần vào mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "242": {
-        "content": "SkyCRM không có tính năng nào sau đây?",
+        "id": 54561,
         "index": 242,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212932,
                 "index": 1,
-                "match_column": null,
-                "content": "Tính năng quy đổi điểm thành coupon"
+                "content": "Tính năng quy đổi điểm thành coupon",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212933,
                 "index": 2,
-                "match_column": null,
-                "content": "Tính năng hiển thị nội dung, hình ảnh các chương trình khuyến mại"
+                "content": "Tính năng hiển thị nội dung, hình ảnh các chương trình khuyến mại",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212934,
                 "index": 3,
-                "match_column": null,
-                "content": "Tính năng tạo các loại coupon mới"
+                "content": "Tính năng tạo các loại coupon mới",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 212935,
                 "index": 4,
-                "match_column": null,
-                "content": "Tính năng nhận phản hồi và phản hồi thông tin của khách hàng?"
+                "content": "Tính năng nhận phản hồi và phản hồi thông tin của khách hàng?",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "SkyCRM không có tính năng nào sau đây?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 0
     },
     "243": {
-        "content": "Chọn đáp án đúng về SkyCRM?",
+        "id": 54416,
         "index": 243,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212356,
                 "index": 1,
-                "match_column": null,
-                "content": "SkyCRM cho phép tạo tài khoản mới cho khách hàng"
+                "content": "SkyCRM cho phép tạo tài khoản mới cho khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212357,
                 "index": 2,
-                "match_column": null,
-                "content": "SkyCRM cho phé́p kiểm tra thông tin tài khoản khách hàng"
+                "content": "SkyCRM cho phé́p kiểm tra thông tin tài khoản khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212358,
                 "index": 3,
-                "match_column": null,
-                "content": "SkyCRM cho phép tạo bản tin về chương trình KM"
+                "content": "SkyCRM cho phép tạo bản tin về chương trình KM",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212359,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Chọn đáp án đúng về SkyCRM?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "244": {
-        "content": "Khi khách hàng đến nhà hàng, có thể sử dụng số điện thoại và cả thẻ cứng để sử dụng chính sách thành viên không?",
+        "id": 54459,
         "index": 244,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212528,
                 "index": 1,
-                "match_column": null,
-                "content": "Không, Khách hàng chỉ được sử dụng số điện thoại"
+                "content": "Không, Khách hàng chỉ được sử dụng số điện thoại",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212529,
                 "index": 2,
-                "match_column": null,
-                "content": "Không, khách hàng chỉ được sử dụng thẻ cứng"
+                "content": "Không, khách hàng chỉ được sử dụng thẻ cứng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212530,
                 "index": 3,
-                "match_column": null,
-                "content": "Không, khách hàng chỉ được chọn hoặc số điện thoại, hoặc thẻ cứng"
+                "content": "Không, khách hàng chỉ được chọn hoặc số điện thoại, hoặc thẻ cứng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212531,
                 "index": 4,
-                "match_column": null,
-                "content": "Được, khách hàng sử dụng số điện thoại hoặc thẻ cứng"
+                "content": "Được, khách hàng sử dụng số điện thoại hoặc thẻ cứng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi khách hàng đến nhà hàng, có thể sử dụng số điện thoại và cả thẻ cứng để sử dụng chính sách thành viên không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "245": {
-        "content": "Trong CRM Manager, để tạo một coupon tặng món, bạn cần chọn loại gì?",
+        "id": 54408,
         "index": 245,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212324,
                 "index": 1,
-                "match_column": null,
-                "content": "Payment"
+                "content": "Payment",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212325,
                 "index": 2,
-                "match_column": null,
-                "content": "Discount"
+                "content": "Discount",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212326,
                 "index": 3,
-                "match_column": null,
-                "content": "Goods"
+                "content": "Goods",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212327,
                 "index": 4,
-                "match_column": null,
-                "content": "Services"
+                "content": "Services",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM Manager, để tạo một coupon tặng món, bạn cần chọn loại gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "246": {
-        "content": "Để phân quyền tài khoản đăng nhập CRM Manager, ta sử dụng?",
+        "id": 54399,
         "index": 246,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212288,
                 "index": 1,
-                "match_column": null,
-                "content": "CRM Manager"
+                "content": "CRM Manager",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212289,
                 "index": 2,
-                "match_column": null,
-                "content": "User Manager"
+                "content": "User Manager",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212290,
                 "index": 3,
-                "match_column": null,
-                "content": "RK7 Manager"
+                "content": "RK7 Manager",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212291,
                 "index": 4,
-                "match_column": null,
-                "content": "CRM không hỗ trợ phân quyền tài khoản"
+                "content": "CRM không hỗ trợ phân quyền tài khoản",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để phân quyền tài khoản đăng nhập CRM Manager, ta sử dụng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "247": {
-        "content": "Trong CRM_V7 (Tab Cards), Khi tạo một thẻ mà dòng thẻ đó có mầu đỏ thì được hiểu như thế nào?",
+        "id": 54568,
         "index": 247,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212960,
                 "index": 1,
-                "match_column": null,
-                "content": "Thẻ chưa được được kích hoạt"
+                "content": "Thẻ chưa được được kích hoạt",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212961,
                 "index": 2,
-                "match_column": null,
-                "content": "Thẻ chưa gán thông tin khách hàng"
+                "content": "Thẻ chưa gán thông tin khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212962,
                 "index": 3,
-                "match_column": null,
-                "content": "Thẻ nằm ngoài khoảng thẻ quy định"
+                "content": "Thẻ nằm ngoài khoảng thẻ quy định",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212963,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đều đúng"
+                "content": "Tất cả đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong CRM_V7 (Tab Cards), Khi tạo một thẻ mà dòng thẻ đó có mầu đỏ thì được hiểu như thế nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2694,
+        "topic_name": "04_2 Tech _ HDSD _ SkyCRM_CRMV7",
+        "attachments": [],
+        "score_q": 1
     },
     "248": {
-        "content": "SkyOrder có hỗ trợ hiển thị đa ngôn ngữ không?",
+        "id": 54674,
         "index": 248,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213360,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213361,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "SkyOrder có hỗ trợ hiển thị đa ngôn ngữ không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "249": {
-        "content": "Tổng tiền tạm tính hiển thị trên SkyOrder là?",
+        "id": 54678,
         "index": 249,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213369,
                 "index": 1,
-                "match_column": null,
-                "content": "Đơn giá chưa bao gồm thuế"
+                "content": "Đơn giá chưa bao gồm thuế",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213370,
                 "index": 2,
-                "match_column": null,
-                "content": "Đơn giá đã bao gồm thuế"
+                "content": "Đơn giá đã bao gồm thuế",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 213371,
                 "index": 3,
-                "match_column": null,
-                "content": "Cho phép tùy chỉnh giữa đơn giá bao gồm thuế và chưa bao gồm thuế"
+                "content": "Cho phép tùy chỉnh giữa đơn giá bao gồm thuế và chưa bao gồm thuế",
+                "correct": 1,
+                "select": 0
             },
             "4": {
+                "id": 213372,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án sai"
+                "content": "Tất cả đáp án sai",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Tổng tiền tạm tính hiển thị trên SkyOrder là?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 0
     },
     "250": {
-        "content": "Đơn giá món trên SkyOrder có cho phép hiện số thập phân không?",
+        "id": 54679,
         "index": 250,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213373,
                 "index": 1,
-                "match_column": null,
-                "content": "Không hỗ trợ"
+                "content": "Không hỗ trợ",
+                "correct": 0,
+                "select": 1
             },
             "2": {
+                "id": 213374,
                 "index": 2,
-                "match_column": null,
-                "content": "Hỗ trợ tùy chỉnh hiển thị số thập phân"
+                "content": "Hỗ trợ tùy chỉnh hiển thị số thập phân",
+                "correct": 1,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Đơn giá món trên SkyOrder có cho phép hiện số thập phân không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 0
     },
     "251": {
-        "content": "Trên SkyOffice, có thể xem trước giao diện hiển thị trên SkyOrder không?",
+        "id": 54676,
         "index": 251,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213364,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213365,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trên SkyOffice, có thể xem trước giao diện hiển thị trên SkyOrder không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "252": {
-        "content": "Trong SkyOrder, nếu khách hàng muốn xoá một món ăn đã chọn, họ cần làm gì?",
+        "id": 54360,
         "index": 252,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212132,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhấn vào biểu tượng giỏ hàng"
+                "content": "Nhấn vào biểu tượng giỏ hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212133,
                 "index": 2,
-                "match_column": null,
-                "content": "Vào “Order của tôi” và nhấn chọn thùng rác ở món cần xoá"
+                "content": "Vào “Order của tôi” và nhấn chọn thùng rác ở món cần xoá",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 212134,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhấn vào thanh “Xem Order”"
+                "content": "Nhấn vào thanh “Xem Order”",
+                "correct": 0,
+                "select": 1
             },
             "4": {
+                "id": 212135,
                 "index": 4,
-                "match_column": null,
-                "content": "Tuỳ chỉnh số lượng món ăn về 0"
+                "content": "Tuỳ chỉnh số lượng món ăn về 0",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyOrder, nếu khách hàng muốn xoá một món ăn đã chọn, họ cần làm gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 0
     },
     "253": {
-        "content": "Để thay đổi tên món hiển thị trên SkyOrder, ta thực hiện:",
+        "id": 54672,
         "index": 253,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213352,
                 "index": 1,
-                "match_column": null,
-                "content": "Thay đổi trực tiếp tên món ăn"
+                "content": "Thay đổi trực tiếp tên món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213353,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng tab \"Đa ngôn ngữ\""
+                "content": "Sử dụng tab \"Đa ngôn ngữ\"",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213354,
                 "index": 3,
-                "match_column": null,
-                "content": "Thay đổi phần \"Mô tả\""
+                "content": "Thay đổi phần \"Mô tả\"",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213355,
                 "index": 4,
-                "match_column": null,
-                "content": "Đáp án khác"
+                "content": "Đáp án khác",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để thay đổi tên món hiển thị trên SkyOrder, ta thực hiện:",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "254": {
-        "content": "Phát biểu nào sau đây sai về tính năng có thể hỗ trợ của SkyOrder?",
+        "id": 54673,
         "index": 254,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213356,
                 "index": 1,
-                "match_column": null,
-                "content": "Cho phép cài đặt số lượng tối đa món được gọi trong một lần order"
+                "content": "Cho phép cài đặt số lượng tối đa món được gọi trong một lần order",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213357,
                 "index": 2,
-                "match_column": null,
-                "content": "Cho phép order được lưu vào bàn ở trạng thái \"Nháp\""
+                "content": "Cho phép order được lưu vào bàn ở trạng thái \"Nháp\"",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213358,
                 "index": 3,
-                "match_column": null,
-                "content": "Cho phép giới hạn số lượng bán của món ăn"
+                "content": "Cho phép giới hạn số lượng bán của món ăn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213359,
                 "index": 4,
-                "match_column": null,
-                "content": "Cho phép xem danh sách các món đã order trong bàn"
+                "content": "Cho phép xem danh sách các món đã order trong bàn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây sai về tính năng có thể hỗ trợ của SkyOrder?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "255": {
-        "content": "Trong SkyOrder, để truy cập vào giao diện Order, khách hàng cần làm gì đầu tiên?",
+        "id": 54359,
         "index": 255,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212128,
                 "index": 1,
-                "match_column": null,
-                "content": "Đăng nhập tài khoản"
+                "content": "Đăng nhập tài khoản",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212129,
                 "index": 2,
-                "match_column": null,
-                "content": "Quét QR code"
+                "content": "Quét QR code",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212130,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhấn vào biểu tượng giỏ hàng"
+                "content": "Nhấn vào biểu tượng giỏ hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212131,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn món từ menu"
+                "content": "Chọn món từ menu",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyOrder, để truy cập vào giao diện Order, khách hàng cần làm gì đầu tiên?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "256": {
-        "content": "Phát biểu nào sau đây sai về tính năng \"Món ăn hạn chế\" trên skyoffice",
+        "id": 54671,
         "index": 256,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213348,
                 "index": 1,
-                "match_column": null,
-                "content": "Món ăn hạn chế cho phép cài đặt theo giai đoạn"
+                "content": "Món ăn hạn chế cho phép cài đặt theo giai đoạn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213349,
                 "index": 2,
-                "match_column": null,
-                "content": "Món ăn hạn chế cho phép đưa món ăn vào danh sách hết món"
+                "content": "Món ăn hạn chế cho phép đưa món ăn vào danh sách hết món",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213350,
                 "index": 3,
-                "match_column": null,
-                "content": "Món ăn hạn chế có thể cài đặt riêng cho từng nhà hàng"
+                "content": "Món ăn hạn chế có thể cài đặt riêng cho từng nhà hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213351,
                 "index": 4,
-                "match_column": null,
-                "content": "Món ăn hạn chế cần cập nhật lại sau mỗi ngày"
+                "content": "Món ăn hạn chế cần cập nhật lại sau mỗi ngày",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Phát biểu nào sau đây sai về tính năng \"Món ăn hạn chế\" trên skyoffice",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "257": {
-        "content": "<p>SkyOrder sử dụng QR code tĩnh hay QR code động?</p>",
+        "id": 54677,
         "index": 257,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213366,
                 "index": 1,
-                "match_column": null,
-                "content": "<p>QR code tĩnh</p>"
+                "content": "<p>QR code tĩnh</p>",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213367,
                 "index": 2,
-                "match_column": null,
-                "content": "<p>QR code động</p>"
+                "content": "<p>QR code động</p>",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213368,
                 "index": 3,
-                "match_column": null,
-                "content": "Cả hai"
+                "content": "Cả hai",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "<p>SkyOrder sử dụng QR code tĩnh hay QR code động?</p>",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "258": {
-        "content": "Để SkyOrder sử dụng QR code tĩnh, cần yếu tố nào: (Có thể chọn nhiều đáp án)",
+        "id": 54680,
         "index": 258,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213375,
                 "index": 1,
-                "match_column": null,
-                "content": "Cài đặt tọa độ của nhà hàng trên SkyOffice"
+                "content": "Cài đặt tọa độ của nhà hàng trên SkyOffice",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213376,
                 "index": 2,
-                "match_column": null,
-                "content": "Khai báo tọa độ của nhà hàng trong RK7"
+                "content": "Khai báo tọa độ của nhà hàng trong RK7",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213377,
                 "index": 3,
-                "match_column": null,
-                "content": "Khách hàng chia sẽ vị trí trên điện thoại"
+                "content": "Khách hàng chia sẽ vị trí trên điện thoại",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 213378,
                 "index": 4,
-                "match_column": null,
-                "content": "Khai báo thông tin Guidstring của order trong QR code"
+                "content": "Khai báo thông tin Guidstring của order trong QR code",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Để SkyOrder sử dụng QR code tĩnh, cần yếu tố nào: (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 0
     },
     "259": {
-        "content": "Có thể sắp xếp thứ tự hiển thị nhóm món và món trên SkyOrder không?",
+        "id": 54675,
         "index": 259,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213362,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213363,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Có thể sắp xếp thứ tự hiển thị nhóm món và món trên SkyOrder không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2691,
+        "topic_name": "04_2 Tech _ HDSD _ SkyOrder",
+        "attachments": [],
+        "score_q": 1
     },
     "260": {
-        "content": "Trong SkyInvoice, khi ký hóa đơn, bạn cần chọn gì trước tiên?",
+        "id": 54375,
         "index": 260,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212192,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn ngày ký hóa đơn"
+                "content": "Chọn ngày ký hóa đơn",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212193,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn bill cần ký"
+                "content": "Chọn bill cần ký",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212194,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn trạng thái hóa đơn"
+                "content": "Chọn trạng thái hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212195,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn số bàn"
+                "content": "Chọn số bàn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, khi ký hóa đơn, bạn cần chọn gì trước tiên?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 0
     },
     "261": {
-        "content": "Trong SkyInvoice, màn hình chính hiển thị những danh mục nào sau khi đăng nhập thành công?",
+        "id": 54362,
         "index": 261,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212140,
                 "index": 1,
-                "match_column": null,
-                "content": "Danh sách sản phẩm và Danh sách khách hàng"
+                "content": "Danh sách sản phẩm và Danh sách khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212141,
                 "index": 2,
-                "match_column": null,
-                "content": "Danh sách bill và Danh sách hóa đơn"
+                "content": "Danh sách bill và Danh sách hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212142,
                 "index": 3,
-                "match_column": null,
-                "content": "Danh sách nhân viên và Danh sách khách hàng"
+                "content": "Danh sách nhân viên và Danh sách khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212143,
                 "index": 4,
-                "match_column": null,
-                "content": "Danh sách đơn hàng và Danh sách thanh toán"
+                "content": "Danh sách đơn hàng và Danh sách thanh toán",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, màn hình chính hiển thị những danh mục nào sau khi đăng nhập thành công?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "262": {
-        "content": "Trong SkyInvoice, để thay đổi tên món ăn trên hóa đơn, bạn cần thao tác gì?",
+        "id": 54369,
         "index": 262,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212168,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhấn trực tiếp vào tên món ăn"
+                "content": "Nhấn trực tiếp vào tên món ăn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212169,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập tên món ăn mới vào ô tìm kiếm"
+                "content": "Nhập tên món ăn mới vào ô tìm kiếm",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212170,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn tên món ăn từ danh sách"
+                "content": "Chọn tên món ăn từ danh sách",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212171,
                 "index": 4,
-                "match_column": null,
-                "content": "Gửi yêu cầu thay đổi lên hệ thống"
+                "content": "Gửi yêu cầu thay đổi lên hệ thống",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để thay đổi tên món ăn trên hóa đơn, bạn cần thao tác gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "263": {
-        "content": "Trong SkyInvoice, sau khi nhập thông tin email của khách hàng, hệ thống sẽ làm gì?",
+        "id": 54377,
         "index": 263,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212200,
                 "index": 1,
-                "match_column": null,
-                "content": "Gửi hóa đơn về email của khách hàng"
+                "content": "Gửi hóa đơn về email của khách hàng",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212201,
                 "index": 2,
-                "match_column": null,
-                "content": "Lưu email vào danh sách khách hàng"
+                "content": "Lưu email vào danh sách khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212202,
                 "index": 3,
-                "match_column": null,
-                "content": "Hiển thị thông tin khách hàng"
+                "content": "Hiển thị thông tin khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212203,
                 "index": 4,
-                "match_column": null,
-                "content": "Tạo tài khoản cho khách hàng"
+                "content": "Tạo tài khoản cho khách hàng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, sau khi nhập thông tin email của khách hàng, hệ thống sẽ làm gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "264": {
-        "content": "Trong SkyInvoice, để tạo hóa đơn cho nhiều bill, bạn cần chọn gì trước tiên?",
+        "id": 54370,
         "index": 264,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212172,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn ngày tạo hóa đơn"
+                "content": "Chọn ngày tạo hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212173,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn các bill cần xuất hóa đơn"
+                "content": "Chọn các bill cần xuất hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212174,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn trạng thái hóa đơn"
+                "content": "Chọn trạng thái hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212175,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn số bàn"
+                "content": "Chọn số bàn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để tạo hóa đơn cho nhiều bill, bạn cần chọn gì trước tiên?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "265": {
-        "content": "Trong SkyInvoice, khi khách hàng muốn lấy hóa đơn, bạn cần nhập thông tin nào?",
+        "id": 54368,
         "index": 265,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212164,
                 "index": 1,
-                "match_column": null,
-                "content": "Mã số thuế, tên đơn vị, địa chỉ"
+                "content": "Mã số thuế, tên đơn vị, địa chỉ",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 212165,
                 "index": 2,
-                "match_column": null,
-                "content": "Mã số thuế, số điện thoại, email"
+                "content": "Mã số thuế, số điện thoại, email",
+                "correct": 0,
+                "select": 1
             },
             "3": {
+                "id": 212166,
                 "index": 3,
-                "match_column": null,
-                "content": "Tên đơn vị, địa chỉ, số điện thoại"
+                "content": "Tên đơn vị, địa chỉ, số điện thoại",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212167,
                 "index": 4,
-                "match_column": null,
-                "content": "Địa chỉ, số điện thoại, email"
+                "content": "Địa chỉ, số điện thoại, email",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, khi khách hàng muốn lấy hóa đơn, bạn cần nhập thông tin nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 0
     },
     "266": {
-        "content": "Trong SkyInvoice, trạng thái của bill khi đã có số hóa đơn được biểu thị bằng gì?",
+        "id": 54365,
         "index": 266,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212152,
                 "index": 1,
-                "match_column": null,
-                "content": "Dấu cộng màu xanh"
+                "content": "Dấu cộng màu xanh",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212153,
                 "index": 2,
-                "match_column": null,
-                "content": "Dấu trừ màu vàng"
+                "content": "Dấu trừ màu vàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212154,
                 "index": 3,
-                "match_column": null,
-                "content": "Dấu trừ màu đỏ"
+                "content": "Dấu trừ màu đỏ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212155,
                 "index": 4,
-                "match_column": null,
-                "content": "Dấu tích màu xanh"
+                "content": "Dấu tích màu xanh",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, trạng thái của bill khi đã có số hóa đơn được biểu thị bằng gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "267": {
-        "content": "Trong SkyInvoice, khi khách hàng không lấy hóa đơn, bạn cần tích chọn mục nào?",
+        "id": 54367,
         "index": 267,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212160,
                 "index": 1,
-                "match_column": null,
-                "content": "Mục khách hàng doanh nghiệp"
+                "content": "Mục khách hàng doanh nghiệp",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212161,
                 "index": 2,
-                "match_column": null,
-                "content": "Mục khách lẻ"
+                "content": "Mục khách lẻ",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212162,
                 "index": 3,
-                "match_column": null,
-                "content": "Mục thanh toán trực tiếp"
+                "content": "Mục thanh toán trực tiếp",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212163,
                 "index": 4,
-                "match_column": null,
-                "content": "Mục trả góp"
+                "content": "Mục trả góp",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, khi khách hàng không lấy hóa đơn, bạn cần tích chọn mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "268": {
-        "content": "Trong SkyInvoice, làm thế nào để đăng nhập vào phần mềm?",
+        "id": 54361,
         "index": 268,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212136,
                 "index": 1,
-                "match_column": null,
-                "content": "Sử dụng email và mã OTP"
+                "content": "Sử dụng email và mã OTP",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212137,
                 "index": 2,
-                "match_column": null,
-                "content": "Sử dụng mã số thuế và mã OTP"
+                "content": "Sử dụng mã số thuế và mã OTP",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212138,
                 "index": 3,
-                "match_column": null,
-                "content": "Sử dụng Username và Password"
+                "content": "Sử dụng Username và Password",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212139,
                 "index": 4,
-                "match_column": null,
-                "content": "Sử dụng mã QR"
+                "content": "Sử dụng mã QR",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, làm thế nào để đăng nhập vào phần mềm?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "269": {
-        "content": "Dữ liệu sử dụng cho SkyInvoice được hỗ trợ bởi module nào?",
+        "id": 54379,
         "index": 269,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212208,
                 "index": 1,
-                "match_column": null,
-                "content": "SkyOrder"
+                "content": "SkyOrder",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212209,
                 "index": 2,
-                "match_column": null,
-                "content": "SkyMenu"
+                "content": "SkyMenu",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212210,
                 "index": 3,
-                "match_column": null,
-                "content": "SkyMonitor"
+                "content": "SkyMonitor",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212211,
                 "index": 4,
-                "match_column": null,
-                "content": "SkyInventory"
+                "content": "SkyInventory",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Dữ liệu sử dụng cho SkyInvoice được hỗ trợ bởi module nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "270": {
-        "content": "Trong SkyInvoice, khi hủy hóa đơn, bạn cần điền gì?",
+        "id": 54378,
         "index": 270,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212204,
                 "index": 1,
-                "match_column": null,
-                "content": "Lý do hủy hóa đơn và văn bản thỏa thuận hủy hóa đơn"
+                "content": "Lý do hủy hóa đơn và văn bản thỏa thuận hủy hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212205,
                 "index": 2,
-                "match_column": null,
-                "content": "Số bill và số bàn"
+                "content": "Số bill và số bàn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212206,
                 "index": 3,
-                "match_column": null,
-                "content": "Thông tin khách hàng"
+                "content": "Thông tin khách hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212207,
                 "index": 4,
-                "match_column": null,
-                "content": "Mã số thuế"
+                "content": "Mã số thuế",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, khi hủy hóa đơn, bạn cần điền gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "271": {
-        "content": "Trong SkyInvoice, để tạo hóa đơn theo từng bill, bạn cần chọn gì trước tiên?",
+        "id": 54366,
         "index": 271,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212156,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn bill cần xuất hóa đơn"
+                "content": "Chọn bill cần xuất hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212157,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn trạng thái hóa đơn"
+                "content": "Chọn trạng thái hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212158,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn ngày xuất hóa đơn"
+                "content": "Chọn ngày xuất hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212159,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn số bàn"
+                "content": "Chọn số bàn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để tạo hóa đơn theo từng bill, bạn cần chọn gì trước tiên?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "272": {
-        "content": "Trong SkyInvoice, để cập nhật hóa đơn, bạn cần chọn bill có trạng thái gì",
+        "id": 54371,
         "index": 272,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212176,
                 "index": 1,
-                "match_column": null,
-                "content": "Bill chưa tạo hóa đơn"
+                "content": "Bill chưa tạo hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212177,
                 "index": 2,
-                "match_column": null,
-                "content": "Bill đã có số hóa đơn"
+                "content": "Bill đã có số hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212178,
                 "index": 3,
-                "match_column": null,
-                "content": "Bill đã tạo hóa đơn nhưng chưa có số hóa đơn"
+                "content": "Bill đã tạo hóa đơn nhưng chưa có số hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212179,
                 "index": 4,
-                "match_column": null,
-                "content": "Bill đã thanh toán"
+                "content": "Bill đã thanh toán",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để cập nhật hóa đơn, bạn cần chọn bill có trạng thái gì",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "273": {
-        "content": "Danh sách đơn hàng và Danh sách thanh toán",
+        "id": 54363,
         "index": 273,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212144,
                 "index": 1,
-                "match_column": null,
-                "content": "Bấm chọn vào biểu tượng bộ lọc"
+                "content": "Bấm chọn vào biểu tượng bộ lọc",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212145,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập mã số thuế của doanh nghiệp"
+                "content": "Nhập mã số thuế của doanh nghiệp",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212146,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn ngày bắt đầu và ngày kết thúc"
+                "content": "Chọn ngày bắt đầu và ngày kết thúc",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212147,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn trạng thái của hóa đơn"
+                "content": "Chọn trạng thái của hóa đơn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Danh sách đơn hàng và Danh sách thanh toán",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "274": {
-        "content": "Trong SkyInvoice, để phát hành hóa đơn cuối ngày, bạn cần nhấn chọn vào mục nào?",
+        "id": 54372,
         "index": 274,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212180,
                 "index": 1,
-                "match_column": null,
-                "content": "Dấu trừ màu vàng tại Danh sách bill"
+                "content": "Dấu trừ màu vàng tại Danh sách bill",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212181,
                 "index": 2,
-                "match_column": null,
-                "content": "Dấu cộng màu xanh tại Danh sách bill"
+                "content": "Dấu cộng màu xanh tại Danh sách bill",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212182,
                 "index": 3,
-                "match_column": null,
-                "content": "Dấu 3 chấm tại Danh sách bill"
+                "content": "Dấu 3 chấm tại Danh sách bill",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212183,
                 "index": 4,
-                "match_column": null,
-                "content": "Dấu tích màu xanh tại Danh sách bill"
+                "content": "Dấu tích màu xanh tại Danh sách bill",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để phát hành hóa đơn cuối ngày, bạn cần nhấn chọn vào mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "275": {
-        "content": "Trong SkyInvoice, khi nhập đúng mã số thuế, hệ thống sẽ trả về thông tin gì?",
+        "id": 54376,
         "index": 275,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212196,
                 "index": 1,
-                "match_column": null,
-                "content": "Thông tin công ty đã được lưu sẵn"
+                "content": "Thông tin công ty đã được lưu sẵn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212197,
                 "index": 2,
-                "match_column": null,
-                "content": "Thông tin khách hàng mới"
+                "content": "Thông tin khách hàng mới",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212198,
                 "index": 3,
-                "match_column": null,
-                "content": "Thông tin sản phẩm"
+                "content": "Thông tin sản phẩm",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212199,
                 "index": 4,
-                "match_column": null,
-                "content": "Thông tin hóa đơn trước đó"
+                "content": "Thông tin hóa đơn trước đó",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, khi nhập đúng mã số thuế, hệ thống sẽ trả về thông tin gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "276": {
-        "content": "Trong SkyInvoice, để ký hóa đơn cuối ngày, bạn cần nhấn chọn vào mục nào?",
+        "id": 54374,
         "index": 276,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212188,
                 "index": 1,
-                "match_column": null,
-                "content": "Dấu trừ màu vàng tại Danh sách hóa đơn"
+                "content": "Dấu trừ màu vàng tại Danh sách hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212189,
                 "index": 2,
-                "match_column": null,
-                "content": "Dấu cộng màu xanh tại Danh sách bill"
+                "content": "Dấu cộng màu xanh tại Danh sách bill",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212190,
                 "index": 3,
-                "match_column": null,
-                "content": "Dấu 3 chấm tại Danh sách hóa đơn"
+                "content": "Dấu 3 chấm tại Danh sách hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 212191,
                 "index": 4,
-                "match_column": null,
-                "content": "Dấu tích màu xanh"
+                "content": "Dấu tích màu xanh",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để ký hóa đơn cuối ngày, bạn cần nhấn chọn vào mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "277": {
-        "content": "Trong SkyInvoice, khi khách hàng không lấy hóa đơn, bạn cần tích chọn mục nào?",
+        "id": 54531,
         "index": 277,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212816,
                 "index": 1,
-                "match_column": null,
-                "content": "Mục khách hàng doanh nghiệp"
+                "content": "Mục khách hàng doanh nghiệp",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212817,
                 "index": 2,
-                "match_column": null,
-                "content": "Mục khách lẻ"
+                "content": "Mục khách lẻ",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212818,
                 "index": 3,
-                "match_column": null,
-                "content": "Mục thanh toán trực tiếp"
+                "content": "Mục thanh toán trực tiếp",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212819,
                 "index": 4,
-                "match_column": null,
-                "content": "Mục trả góp"
+                "content": "Mục trả góp",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, khi khách hàng không lấy hóa đơn, bạn cần tích chọn mục nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "278": {
-        "content": "Trong SkyInvoice, trạng thái của bill khi đã tạo hóa đơn nhưng chưa có số hóa đơn được biểu thị bằng gì?",
+        "id": 54364,
         "index": 278,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212148,
                 "index": 1,
-                "match_column": null,
-                "content": "Dấu cộng màu xanh"
+                "content": "Dấu cộng màu xanh",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212149,
                 "index": 2,
-                "match_column": null,
-                "content": "Dấu trừ màu vàng"
+                "content": "Dấu trừ màu vàng",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212150,
                 "index": 3,
-                "match_column": null,
-                "content": "Dấu trừ màu đỏ"
+                "content": "Dấu trừ màu đỏ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212151,
                 "index": 4,
-                "match_column": null,
-                "content": "Dấu tích màu xanh"
+                "content": "Dấu tích màu xanh",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, trạng thái của bill khi đã tạo hóa đơn nhưng chưa có số hóa đơn được biểu thị bằng gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "279": {
-        "content": "Trong SkyInvoice, để hủy hóa đơn, bạn cần thao tác gì?",
+        "id": 54373,
         "index": 279,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212184,
                 "index": 1,
-                "match_column": null,
-                "content": "Mở hóa đơn cần hủy và chọn Hủy hóa đơn"
+                "content": "Mở hóa đơn cần hủy và chọn Hủy hóa đơn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212185,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn hóa đơn và nhấn nút Xóa"
+                "content": "Chọn hóa đơn và nhấn nút Xóa",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212186,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn hóa đơn và nhấn nút Sửa"
+                "content": "Chọn hóa đơn và nhấn nút Sửa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212187,
                 "index": 4,
-                "match_column": null,
-                "content": "Gửi yêu cầu hủy hóa đơn lên hệ thống"
+                "content": "Gửi yêu cầu hủy hóa đơn lên hệ thống",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyInvoice, để hủy hóa đơn, bạn cần thao tác gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2692,
+        "topic_name": "04_2 Tech _ HDSD _ SkyInvoice",
+        "attachments": [],
+        "score_q": 1
     },
     "280": {
-        "content": "Trong SkyMonitor, có hỗ trợ xem doanh thu nhà hàng, số lượng hóa đơn, số khách vào giờ không?",
+        "id": 54660,
         "index": 280,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213322,
                 "index": 1,
-                "match_column": null,
-                "content": "Có́"
+                "content": "Có́",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213323,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMonitor, có hỗ trợ xem doanh thu nhà hàng, số lượng hóa đơn, số khách vào giờ không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "281": {
-        "content": "Trong ứng dụng SkyMonitor, để đăng nhập phần mềm, bạn cần nhập thông tin gì đầu tiên?",
+        "id": 54340,
         "index": 281,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212054,
                 "index": 1,
-                "match_column": null,
-                "content": "Mã server (Mã doanh nghiệp)"
+                "content": "Mã server (Mã doanh nghiệp)",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 212055,
                 "index": 2,
-                "match_column": null,
-                "content": "Tên đăng nhập"
+                "content": "Tên đăng nhập",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212056,
                 "index": 3,
-                "match_column": null,
-                "content": "Mật khẩu"
+                "content": "Mật khẩu",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212057,
                 "index": 4,
-                "match_column": null,
-                "content": "Email"
+                "content": "Email",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong ứng dụng SkyMonitor, để đăng nhập phần mềm, bạn cần nhập thông tin gì đầu tiên?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "282": {
-        "content": "Trong SkyMonitor có hỗ trợ báo cáo doanh thu theo từng hạng mục order hay không?",
+        "id": 54658,
         "index": 282,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213318,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213319,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMonitor có hỗ trợ báo cáo doanh thu theo từng hạng mục order hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "283": {
-        "content": "Khi thay đổi tên nhà hàng, tên món ăn,...Thì dữ liệu trước đó trên skymonitor có tự động cập nhật thay đổi không?",
+        "id": 54654,
         "index": 283,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213304,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213305,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi thay đổi tên nhà hàng, tên món ăn,...Thì dữ liệu trước đó trên skymonitor có tự động cập nhật thay đổi không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "284": {
-        "content": "SkyMonitor hỗ trợ người dùng xem các thông tin nào?",
+        "id": 54657,
         "index": 284,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213314,
                 "index": 1,
-                "match_column": null,
-                "content": "Doanh thu chi tiết theo từng hình thức thanh toán"
+                "content": "Doanh thu chi tiết theo từng hình thức thanh toán",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213315,
                 "index": 2,
-                "match_column": null,
-                "content": "Giá trị chi tiết theo từng chương trình giảm giá"
+                "content": "Giá trị chi tiết theo từng chương trình giảm giá",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213316,
                 "index": 3,
-                "match_column": null,
-                "content": "Doanh thu chi tiết theo từng nhóm hàng"
+                "content": "Doanh thu chi tiết theo từng nhóm hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213317,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "SkyMonitor hỗ trợ người dùng xem các thông tin nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "285": {
-        "content": "SkyMonitor hỗ trợ cho các tính năng/module nào?",
+        "id": 54341,
         "index": 285,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212058,
                 "index": 1,
-                "match_column": null,
-                "content": "Inventory"
+                "content": "Inventory",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212059,
                 "index": 2,
-                "match_column": null,
-                "content": "PaymentHub, SkyInvoice"
+                "content": "PaymentHub, SkyInvoice",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 212060,
                 "index": 3,
-                "match_column": null,
-                "content": "KDS"
+                "content": "KDS",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212061,
                 "index": 4,
-                "match_column": null,
-                "content": "CRM"
+                "content": "CRM",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "SkyMonitor hỗ trợ cho các tính năng/module nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "286": {
-        "content": "Trong SkyMonitor, có hỗ trợ xem báo cáo doanh thu theo độ tuổi, giới tính của khách hàng hay không?",
+        "id": 54661,
         "index": 286,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213324,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213325,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMonitor, có hỗ trợ xem báo cáo doanh thu theo độ tuổi, giới tính của khách hàng hay không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "287": {
-        "content": "SkyMonitor có hỗ trợ đa ngôn ngữ không? Chọn đáp án đúng nhất",
+        "id": 54342,
         "index": 287,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 212062,
                 "index": 1,
-                "match_column": null,
-                "content": "2 ngôn ngữ"
+                "content": "2 ngôn ngữ",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 212063,
                 "index": 2,
-                "match_column": null,
-                "content": "3 ngôn ngữ"
+                "content": "3 ngôn ngữ",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 212064,
                 "index": 3,
-                "match_column": null,
-                "content": "4 ngôn ngữ"
+                "content": "4 ngôn ngữ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 212065,
                 "index": 4,
-                "match_column": null,
-                "content": "trên 5 ngôn ngữ"
+                "content": "trên 5 ngôn ngữ",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "SkyMonitor có hỗ trợ đa ngôn ngữ không? Chọn đáp án đúng nhất",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "288": {
-        "content": "Màn hình báo cáo mặc định của SkyMonitor chứa các thông tin gì?",
+        "id": 54655,
         "index": 288,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213306,
                 "index": 1,
-                "match_column": null,
-                "content": "Doanh thu bán hàng của từng nhà hàng"
+                "content": "Doanh thu bán hàng của từng nhà hàng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 213307,
                 "index": 2,
-                "match_column": null,
-                "content": "Doanh thu của nhóm hàng"
+                "content": "Doanh thu của nhóm hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 213308,
                 "index": 3,
-                "match_column": null,
-                "content": "So sánh doanh số với thời gian trước đó"
+                "content": "So sánh doanh số với thời gian trước đó",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213309,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Màn hình báo cáo mặc định của SkyMonitor chứa các thông tin gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "289": {
-        "content": "Màn hình báo cáo mặc định của SkyMonitor hỗ trợ lọc dữ liệu báo cáo thế nào? (Có thể chọn nhiều đáp án)",
+        "id": 54656,
         "index": 289,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213310,
                 "index": 1,
-                "match_column": null,
-                "content": "Cho phép lọc nhanh dữ liệu theo ngày, theo tuần và theo tháng hiện tại"
+                "content": "Cho phép lọc nhanh dữ liệu theo ngày, theo tuần và theo tháng hiện tại",
+                "correct": 1,
+                "select": 0
             },
             "2": {
+                "id": 213311,
                 "index": 2,
-                "match_column": null,
-                "content": "Cho phép lọc theo vùng, mô hình, nhà hàng"
+                "content": "Cho phép lọc theo vùng, mô hình, nhà hàng",
+                "correct": 1,
+                "select": 0
             },
             "3": {
+                "id": 213312,
                 "index": 3,
-                "match_column": null,
-                "content": "Cho phép lọc theo khu vực bàn"
+                "content": "Cho phép lọc theo khu vực bàn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213313,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 0,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Màn hình báo cáo mặc định của SkyMonitor hỗ trợ lọc dữ liệu báo cáo thế nào? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 0
     },
     "290": {
-        "content": "Trong SkyMonitor có hỗ trợ báo cáo hủy món không?",
+        "id": 54659,
         "index": 290,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213320,
                 "index": 1,
-                "match_column": null,
-                "content": "Có"
+                "content": "Có",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213321,
                 "index": 2,
-                "match_column": null,
-                "content": "Không"
+                "content": "Không",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMonitor có hỗ trợ báo cáo hủy món không?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2689,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMonitor",
+        "attachments": [],
+        "score_q": 1
     },
     "291": {
-        "content": "Trong SkyMenu, để tăng giảm số lượng món, bạn sử dụng nút nào?",
+        "id": 54318,
         "index": 291,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211966,
                 "index": 1,
-                "match_column": null,
-                "content": "Nút Thêm món"
+                "content": "Nút Thêm món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211967,
                 "index": 2,
-                "match_column": null,
-                "content": "Nút Gọi món"
+                "content": "Nút Gọi món",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211968,
                 "index": 3,
-                "match_column": null,
-                "content": "Nút + hoặc -"
+                "content": "Nút + hoặc -",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 211969,
                 "index": 4,
-                "match_column": null,
-                "content": "Nút Tìm kiếm món ăn"
+                "content": "Nút Tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, để tăng giảm số lượng món, bạn sử dụng nút nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "292": {
-        "content": "Trong SkyMenu, để gọi món và gửi order vào bar và bếp, bạn nhấn vào nút nào?",
+        "id": 54314,
         "index": 292,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211950,
                 "index": 1,
-                "match_column": null,
-                "content": "Nút Thêm món"
+                "content": "Nút Thêm món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211951,
                 "index": 2,
-                "match_column": null,
-                "content": "Nút Tìm kiếm món ăn"
+                "content": "Nút Tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211952,
                 "index": 3,
-                "match_column": null,
-                "content": "Nút Gọi món"
+                "content": "Nút Gọi món",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 211953,
                 "index": 4,
-                "match_column": null,
-                "content": "Nút Thoát"
+                "content": "Nút Thoát",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, để gọi món và gửi order vào bar và bếp, bạn nhấn vào nút nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "293": {
-        "content": "Khi sử dụng ứng dụng SkyMenu,chúng ta có thể thực hiện các tùy chỉnh nào? (Có thể chọn nhiều đáp án)",
+        "id": 54653,
         "index": 293,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 213300,
                 "index": 1,
-                "match_column": null,
-                "content": "Thay đổi màu nền của ứng dụng trong phạm vi cho phép"
+                "content": "Thay đổi màu nền của ứng dụng trong phạm vi cho phép",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 213301,
                 "index": 2,
-                "match_column": null,
-                "content": "Tùy chỉnh màn hình hiển thị món theo 2 hoặc 3 cột"
+                "content": "Tùy chỉnh màn hình hiển thị món theo 2 hoặc 3 cột",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 213302,
                 "index": 3,
-                "match_column": null,
-                "content": "Thay đổi hình ảnh hiển thị món trực tiếp trên app"
+                "content": "Thay đổi hình ảnh hiển thị món trực tiếp trên app",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 213303,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án đều đúng"
+                "content": "Tất cả đáp án đều đúng",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Khi sử dụng ứng dụng SkyMenu,chúng ta có thể thực hiện các tùy chỉnh nào? (Có thể chọn nhiều đáp án)",
         "count_correct": 2,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "294": {
-        "content": "Trong SkyMenu, sau khi chọn món xong và muốn thêm món vào giỏ hàng, bạn nhấn vào nút nào?",
+        "id": 54317,
         "index": 294,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211962,
                 "index": 1,
-                "match_column": null,
-                "content": "Nút + hoặc -"
+                "content": "Nút + hoặc -",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211963,
                 "index": 2,
-                "match_column": null,
-                "content": "Nút Thêm món"
+                "content": "Nút Thêm món",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211964,
                 "index": 3,
-                "match_column": null,
-                "content": "Nút Tìm kiếm món ăn"
+                "content": "Nút Tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211965,
                 "index": 4,
-                "match_column": null,
-                "content": "Nút Gọi món"
+                "content": "Nút Gọi món",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, sau khi chọn món xong và muốn thêm món vào giỏ hàng, bạn nhấn vào nút nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "295": {
-        "content": "Trong SkyMenu, màn hình đầu tiên xuất hiện sau khi đăng nhập là gì?",
+        "id": 54311,
         "index": 295,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211938,
                 "index": 1,
-                "match_column": null,
-                "content": "Giao diện chọn món ăn"
+                "content": "Giao diện chọn món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211939,
                 "index": 2,
-                "match_column": null,
-                "content": "Giao diện sơ đồ bàn"
+                "content": "Giao diện sơ đồ bàn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211940,
                 "index": 3,
-                "match_column": null,
-                "content": "Giao diện giỏ hàng"
+                "content": "Giao diện giỏ hàng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211941,
                 "index": 4,
-                "match_column": null,
-                "content": "Giao diện thanh toán"
+                "content": "Giao diện thanh toán",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, màn hình đầu tiên xuất hiện sau khi đăng nhập là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "296": {
-        "content": "Trong SkyMenu, để thêm món vào giỏ hàng, bạn nhấn vào nút nào?",
+        "id": 54312,
         "index": 296,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211942,
                 "index": 1,
-                "match_column": null,
-                "content": "Nút Tìm kiếm món ăn"
+                "content": "Nút Tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211943,
                 "index": 2,
-                "match_column": null,
-                "content": "Nút Thêm món"
+                "content": "Nút Thêm món",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211944,
                 "index": 3,
-                "match_column": null,
-                "content": "Nút + hoặc -"
+                "content": "Nút + hoặc -",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211945,
                 "index": 4,
-                "match_column": null,
-                "content": "Nút Gọi món"
+                "content": "Nút Gọi món",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, để thêm món vào giỏ hàng, bạn nhấn vào nút nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "297": {
-        "content": "Trong SkyMenu, muốn trở lại giao diện sơ đồ bàn từ màn hình món đã gọi, bạn làm gì?",
+        "id": 54315,
         "index": 297,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211954,
                 "index": 1,
-                "match_column": null,
-                "content": "Bấm vào nút Thêm món"
+                "content": "Bấm vào nút Thêm món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211955,
                 "index": 2,
-                "match_column": null,
-                "content": "Bấm vào nút Tìm kiếm món ăn"
+                "content": "Bấm vào nút Tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211956,
                 "index": 3,
-                "match_column": null,
-                "content": "Bấm vào Logo phía trên góc trái"
+                "content": "Bấm vào Logo phía trên góc trái",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 211957,
                 "index": 4,
-                "match_column": null,
-                "content": "Bấm vào nút Gọi món"
+                "content": "Bấm vào nút Gọi món",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, muốn trở lại giao diện sơ đồ bàn từ màn hình món đã gọi, bạn làm gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "298": {
-        "content": "Trong SkyMenu, nút \"Thêm món\" bị mờ khi nào?",
+        "id": 54316,
         "index": 298,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211958,
                 "index": 1,
-                "match_column": null,
-                "content": "Khi đã chọn số lượng món"
+                "content": "Khi đã chọn số lượng món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211959,
                 "index": 2,
-                "match_column": null,
-                "content": "Khi đã chọn món từ giỏ hàng"
+                "content": "Khi đã chọn món từ giỏ hàng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211960,
                 "index": 3,
-                "match_column": null,
-                "content": "Khi đã chọn modifier cho món có modifier"
+                "content": "Khi đã chọn modifier cho món có modifier",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 211961,
                 "index": 4,
-                "match_column": null,
-                "content": "Khi đã nhập ghi chú cho món"
+                "content": "Khi đã nhập ghi chú cho món",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, nút \"Thêm món\" bị mờ khi nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "299": {
-        "content": "Trong SkyMenu, khi chọn món có modifier, điều gì bắt buộc phải làm trước khi thêm món vào giỏ hàng?",
+        "id": 54313,
         "index": 299,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211946,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn lưu lại món"
+                "content": "Chọn lưu lại món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211947,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn số lượng món"
+                "content": "Chọn số lượng món",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211948,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn modifier"
+                "content": "Chọn modifier",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 211949,
                 "index": 4,
-                "match_column": null,
-                "content": "Tìm kiếm món ăn"
+                "content": "Tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, khi chọn món có modifier, điều gì bắt buộc phải làm trước khi thêm món vào giỏ hàng?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "300": {
-        "content": "Trong SkyMenu, khi thoát khỏi giao diện chọn món, bạn cần nhập gì để trở lại sơ đồ bàn?",
+        "id": 54319,
         "index": 300,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211970,
                 "index": 1,
-                "match_column": null,
-                "content": "Tên người dùng và mật khẩu"
+                "content": "Tên người dùng và mật khẩu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211971,
                 "index": 2,
-                "match_column": null,
-                "content": "Mã và mật khẩu"
+                "content": "Mã và mật khẩu",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211972,
                 "index": 3,
-                "match_column": null,
-                "content": "Mã PIN"
+                "content": "Mã PIN",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211973,
                 "index": 4,
-                "match_column": null,
-                "content": "Số điện thoại"
+                "content": "Số điện thoại",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyMenu, khi thoát khỏi giao diện chọn món, bạn cần nhập gì để trở lại sơ đồ bàn?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2687,
+        "topic_name": "04_2 Tech _ HDSD _ SkyMenu",
+        "attachments": [],
+        "score_q": 1
     },
     "301": {
-        "content": "Trong SkyTab, để thêm modifier cho món ăn, sau khi chọn nút “Tùy chọn”, người dùng cần làm gì tiếp theo?",
+        "id": 54286,
         "index": 301,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211838,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn món ăn từ menu"
+                "content": "Chọn món ăn từ menu",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211839,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập ghi chú cho món ăn"
+                "content": "Nhập ghi chú cho món ăn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211840,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn nút “Giảm giá”"
+                "content": "Chọn nút “Giảm giá”",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211841,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn lý do xóa món"
+                "content": "Chọn lý do xóa món",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, để thêm modifier cho món ăn, sau khi chọn nút “Tùy chọn”, người dùng cần làm gì tiếp theo?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "302": {
-        "content": "Trong SkyTab, khi thêm món ăn, nếu không chọn từ menu, người dùng có thể làm gì?",
+        "id": 54296,
         "index": 302,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211878,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhập tên món ăn trên thanh tìm kiếm và chọn"
+                "content": "Nhập tên món ăn trên thanh tìm kiếm và chọn",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211879,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn nút “Giảm giá”"
+                "content": "Chọn nút “Giảm giá”",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211880,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn nút “Thanh toán”"
+                "content": "Chọn nút “Thanh toán”",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211881,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn nút “Log out”"
+                "content": "Chọn nút “Log out”",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, khi thêm món ăn, nếu không chọn từ menu, người dùng có thể làm gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "303": {
-        "content": "Trong SkyTab, để xóa món đã xác nhận order, sau khi nhấn giữ món cần xóa và chọn \"Xóa\", bước tiếp theo là gì?",
+        "id": 54287,
         "index": 303,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211842,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn nhân viên xóa món"
+                "content": "Chọn nhân viên xóa món",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211843,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn lý do xóa"
+                "content": "Chọn lý do xóa",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211844,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn quyền quản lý cho phép xóa"
+                "content": "Chọn quyền quản lý cho phép xóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211845,
                 "index": 4,
-                "match_column": null,
-                "content": "Chọn món khác để thay thế"
+                "content": "Chọn món khác để thay thế",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, để xóa món đã xác nhận order, sau khi nhấn giữ món cần xóa và chọn \"Xóa\", bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "304": {
-        "content": "Trong SkyTab, khi thực hiện giảm giá cho order, sau khi chọn nút “Giảm giá”, bước tiếp theo là gì?",
+        "id": 54291,
         "index": 304,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211858,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn hình thức thanh toán"
+                "content": "Chọn hình thức thanh toán",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211859,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn loại giảm giá, chương trình giảm giá mong muốn"
+                "content": "Chọn loại giảm giá, chương trình giảm giá mong muốn",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211860,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhập ghi chú cho món ăn"
+                "content": "Nhập ghi chú cho món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211861,
                 "index": 4,
-                "match_column": null,
-                "content": "Xác nhận thanh toán"
+                "content": "Xác nhận thanh toán",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, khi thực hiện giảm giá cho order, sau khi chọn nút “Giảm giá”, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "305": {
-        "content": "Trong SkyTab, trong quá trình thanh toán, sau khi chọn nút tác vụ “Thanh toán”, bước tiếp theo là gì?",
+        "id": 54292,
         "index": 305,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211862,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn hình thức thanh toán và bấm xác nhận"
+                "content": "Chọn hình thức thanh toán và bấm xác nhận",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211863,
                 "index": 2,
-                "match_column": null,
-                "content": "In phiếu kiểm đồ"
+                "content": "In phiếu kiểm đồ",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211864,
                 "index": 3,
-                "match_column": null,
-                "content": "Tạo order mới"
+                "content": "Tạo order mới",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211865,
                 "index": 4,
-                "match_column": null,
-                "content": "Gộp bàn"
+                "content": "Gộp bàn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, trong quá trình thanh toán, sau khi chọn nút tác vụ “Thanh toán”, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "306": {
-        "content": "Trong SkyTab, để xem lại các hóa đơn đã đóng, sau khi chọn nút “Hóa đơn đã đóng”, bước tiếp theo là gì?",
+        "id": 54293,
         "index": 306,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211866,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn hóa đơn cần xem"
+                "content": "Chọn hóa đơn cần xem",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211867,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn món ăn cần thêm"
+                "content": "Chọn món ăn cần thêm",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211868,
                 "index": 3,
-                "match_column": null,
-                "content": "Chọn lý do xóa hóa đơn"
+                "content": "Chọn lý do xóa hóa đơn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211869,
                 "index": 4,
-                "match_column": null,
-                "content": "In phiếu tạm tính"
+                "content": "In phiếu tạm tính",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, để xem lại các hóa đơn đã đóng, sau khi chọn nút “Hóa đơn đã đóng”, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "307": {
-        "content": "Trong SkyTab, để tách món trong một order, sau khi mở thêm một order mới, bước tiếp theo là gì?",
+        "id": 54299,
         "index": 307,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211890,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn món cần tách"
+                "content": "Chọn món cần tách",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211891,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn lý do tách món"
+                "content": "Chọn lý do tách món",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211892,
                 "index": 3,
-                "match_column": null,
-                "content": "In phiếu kiểm đồ"
+                "content": "In phiếu kiểm đồ",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211893,
                 "index": 4,
-                "match_column": null,
-                "content": "Giảm giá món ăn"
+                "content": "Giảm giá món ăn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, để tách món trong một order, sau khi mở thêm một order mới, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "308": {
-        "content": "Trong SkyTab, trong quá trình chuyển món ăn sang bàn khác, sau khi chọn “Chuyển sang order khác”, bước tiếp theo là gì?",
+        "id": 54288,
         "index": 308,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211846,
                 "index": 1,
-                "match_column": null,
-                "content": "Nhập ghi chú cho món ăn"
+                "content": "Nhập ghi chú cho món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211847,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn bàn cần chuyển món tới"
+                "content": "Chọn bàn cần chuyển món tới",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211848,
                 "index": 3,
-                "match_column": null,
-                "content": "Gộp bàn"
+                "content": "Gộp bàn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211849,
                 "index": 4,
-                "match_column": null,
-                "content": "Xóa món ăn"
+                "content": "Xóa món ăn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, trong quá trình chuyển món ăn sang bàn khác, sau khi chọn “Chuyển sang order khác”, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "309": {
-        "content": "Trong SkyTab, để tách một order sang nhiều order khác nhau, sau khi chọn và nhấn giữ bàn cần tách order, bước tiếp theo là gì?",
+        "id": 54290,
         "index": 309,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211854,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn chức năng tách món"
+                "content": "Chọn chức năng tách món",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211855,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn lý do tách order"
+                "content": "Chọn lý do tách order",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211856,
                 "index": 3,
-                "match_column": null,
-                "content": "Thêm món ăn mới"
+                "content": "Thêm món ăn mới",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211857,
                 "index": 4,
-                "match_column": null,
-                "content": "Xóa các món ăn cũ"
+                "content": "Xóa các món ăn cũ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, để tách một order sang nhiều order khác nhau, sau khi chọn và nhấn giữ bàn cần tách order, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "310": {
-        "content": "Trong SkyTab, khi thay đổi thông tin order, người dùng có thể thay đổi thông tin nào sau đây?",
+        "id": 54289,
         "index": 310,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211850,
                 "index": 1,
-                "match_column": null,
-                "content": "Loại order và số khách"
+                "content": "Loại order và số khách",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211851,
                 "index": 2,
-                "match_column": null,
-                "content": "Số lượng món ăn"
+                "content": "Số lượng món ăn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211852,
                 "index": 3,
-                "match_column": null,
-                "content": "Ghi chú món ăn"
+                "content": "Ghi chú món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211853,
                 "index": 4,
-                "match_column": null,
-                "content": "Giá tiền món ăn"
+                "content": "Giá tiền món ăn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, khi thay đổi thông tin order, người dùng có thể thay đổi thông tin nào sau đây?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "311": {
-        "content": "Trong SkyTab, trong quá trình làm việc với order, nếu muốn xóa món đã xác nhận order, người dùng cần chọn lý do xóa ở bước nào?",
+        "id": 54298,
         "index": 311,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211886,
                 "index": 1,
-                "match_column": null,
-                "content": "Bước cuối cùng"
+                "content": "Bước cuối cùng",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211887,
                 "index": 2,
-                "match_column": null,
-                "content": "Sau khi nhấn giữ món cần xóa và chọn “Xóa”"
+                "content": "Sau khi nhấn giữ món cần xóa và chọn “Xóa”",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211888,
                 "index": 3,
-                "match_column": null,
-                "content": "Trước khi chọn món cần xóa"
+                "content": "Trước khi chọn món cần xóa",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211889,
                 "index": 4,
-                "match_column": null,
-                "content": "Sau khi chọn “Log out”"
+                "content": "Sau khi chọn “Log out”",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, trong quá trình làm việc với order, nếu muốn xóa món đã xác nhận order, người dùng cần chọn lý do xóa ở bước nào?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "312": {
-        "content": "Trong SkyTab, trong quá trình thay đổi số lượng món ăn, phương pháp nào không được đề cập?",
+        "id": 54300,
         "index": 312,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211894,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn món ăn trên menu nhiều lần"
+                "content": "Chọn món ăn trên menu nhiều lần",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211895,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn món ăn cần thay đổi số lượng, chọn nút tác vụ Số lượng"
+                "content": "Chọn món ăn cần thay đổi số lượng, chọn nút tác vụ Số lượng",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211896,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhấn giữ món ăn và chọn số lượng"
+                "content": "Nhấn giữ món ăn và chọn số lượng",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211897,
                 "index": 4,
-                "match_column": null,
-                "content": "Nhập số lượng trực tiếp vào ô tìm kiếm"
+                "content": "Nhập số lượng trực tiếp vào ô tìm kiếm",
+                "correct": 1,
+                "select": 1
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, trong quá trình thay đổi số lượng món ăn, phương pháp nào không được đề cập?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "313": {
-        "content": "Trong SkyTab, sau khi chọn một bàn bất kỳ trên sơ đồ bàn, bước tiếp theo là gì?",
+        "id": 54285,
         "index": 313,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211834,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn “Sơ đồ bàn”"
+                "content": "Chọn “Sơ đồ bàn”",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211835,
                 "index": 2,
-                "match_column": null,
-                "content": "Nhập thông tin order và chọn “Lập order”"
+                "content": "Nhập thông tin order và chọn “Lập order”",
+                "correct": 1,
+                "select": 1
             },
             "3": {
+                "id": 211836,
                 "index": 3,
-                "match_column": null,
-                "content": "Thêm món ăn vào order"
+                "content": "Thêm món ăn vào order",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211837,
                 "index": 4,
-                "match_column": null,
-                "content": "Tất cả đáp án trên"
+                "content": "Tất cả đáp án trên",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, sau khi chọn một bàn bất kỳ trên sơ đồ bàn, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "314": {
-        "content": "Trong SkyTab, khi thêm món ăn bằng cách nhập tên món ăn trên thanh tìm kiếm, bước tiếp theo là gì?",
+        "id": 54294,
         "index": 314,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211870,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn món từ danh sách tìm kiếm hiện ra"
+                "content": "Chọn món từ danh sách tìm kiếm hiện ra",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211871,
                 "index": 2,
-                "match_column": null,
-                "content": "Chọn “Sơ đồ bàn”"
+                "content": "Chọn “Sơ đồ bàn”",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211872,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhập ghi chú cho món ăn"
+                "content": "Nhập ghi chú cho món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211873,
                 "index": 4,
-                "match_column": null,
-                "content": "Xóa món ăn cũ"
+                "content": "Xóa món ăn cũ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, khi thêm món ăn bằng cách nhập tên món ăn trên thanh tìm kiếm, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "315": {
-        "content": "Trong SkyTab, để chuyển bàn, sau khi chọn nút Chuyển bàn, bước tiếp theo là gì?",
+        "id": 54297,
         "index": 315,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211882,
                 "index": 1,
-                "match_column": null,
-                "content": "Chọn bàn cần chuyển tới"
+                "content": "Chọn bàn cần chuyển tới",
+                "correct": 1,
+                "select": 1
             },
             "2": {
+                "id": 211883,
                 "index": 2,
-                "match_column": null,
-                "content": "Gộp các món ăn"
+                "content": "Gộp các món ăn",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211884,
                 "index": 3,
-                "match_column": null,
-                "content": "Nhập số lượng món ăn"
+                "content": "Nhập số lượng món ăn",
+                "correct": 0,
+                "select": 0
             },
             "4": {
+                "id": 211885,
                 "index": 4,
-                "match_column": null,
-                "content": "Xóa các món ăn cũ"
+                "content": "Xóa các món ăn cũ",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, để chuyển bàn, sau khi chọn nút Chuyển bàn, bước tiếp theo là gì?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     },
     "316": {
-        "content": "Trong SkyTab, trong màn hình soạn thảo order, khu vực nào chứa các nút tác vụ?",
+        "id": 54295,
         "index": 316,
-        "type": "default",
         "answers": {
             "1": {
+                "id": 211874,
                 "index": 1,
-                "match_column": null,
-                "content": "Khu vực hiển thị menu món ăn"
+                "content": "Khu vực hiển thị menu món ăn",
+                "correct": 0,
+                "select": 0
             },
             "2": {
+                "id": 211875,
                 "index": 2,
-                "match_column": null,
-                "content": "Khu vực hiển thị các món ăn đang order"
+                "content": "Khu vực hiển thị các món ăn đang order",
+                "correct": 0,
+                "select": 0
             },
             "3": {
+                "id": 211876,
                 "index": 3,
-                "match_column": null,
-                "content": "Khu vực chứa các nút tác vụ"
+                "content": "Khu vực chứa các nút tác vụ",
+                "correct": 1,
+                "select": 1
             },
             "4": {
+                "id": 211877,
                 "index": 4,
-                "match_column": null,
-                "content": "Ô tìm kiếm món ăn"
+                "content": "Ô tìm kiếm món ăn",
+                "correct": 0,
+                "select": 0
             }
         },
+        "explain": "",
+        "type_score": "0",
+        "score": 1,
+        "type": "default",
+        "content": "Trong SkyTab, trong màn hình soạn thảo order, khu vực nào chứa các nút tác vụ?",
         "count_correct": 1,
-        "attachments": []
+        "topic_id": 2685,
+        "topic_name": "04_2 Tech _ HDSD _ SkyTab",
+        "attachments": [],
+        "score_q": 1
     }
 }
